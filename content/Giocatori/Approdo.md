@@ -29,13 +29,13 @@ Gli abitanti locali, noti come approdoni, si dedicano principalmente alla pesca 
 
 A livello economico qualunque moneta dei regni è ben accetta, così come eventuali monete trovate nell'entroterra. Monete di quest'ultimo tipo, se particolarmente rare, possono essere vendute a buon prezzo ai mercanti dei regni, quando arrivano al mercato di Approdo per nave.
 
-Il siniscalco di Approdo, che gestisce il commercio con i mercanti e le tasse all'interno della città, è Ephret Bulgakov, un gentile umano sulla quarantina, che spende buona parte del suo tempo al piano superiore del corvo di coffa, dove ha il suo ufficio.
+Il siniscalco di Approdo, che gestisce il commercio con i mercanti e le tasse all'interno della città, è [[Ephret Bulgakov]], un gentile umano sulla quarantina, che spende buona parte del suo tempo al piano superiore del corvo di coffa, dove ha il suo ufficio.
 
 ## Il corvo di coffa
 
 Ricavata da un quarto di galeone rimasto intero, dove la chiglia è la parete dell'ingresso, ed altre navi, il corvo di coffa svetta sulla città di Approdo grazie all'albero maestro ben conservato che si erge dal centro dell'edificio. Sulla coffa dell'albero è stata issata la polena del galeone, raffigurante il toponimo Corvo.
 All'interno le pareti di legno sono lustri ed il pavimento di pietra si abbina al pregiato bancone di marmo, che si dice sia stato ricavato da un antico altare recuperato dall'entroterra.
-Da dietro il bancone Denkar, l'oste, gestisce gli ordini e serve da bere con fare bonario, ma si dice non si sia mai tirato indietro dal prendere per le orecchie e letteralmente buttare fuori gli avventori molesti.
+Da dietro il bancone [[Denkar]], l'oste, gestisce gli ordini e serve da bere con fare bonario, ma si dice non si sia mai tirato indietro dal prendere per le orecchie e letteralmente buttare fuori gli avventori molesti.
 
 Gli avventori possono bere e mangiare a prezzi modici sulle lunghe tavolate, o prendere posto ad uno dei tavoli rotondi ricavati da timoni nella "stanza piccola".
 Un tavolo in particolatre spicca tra tutti nella sala grande in quanto nuovo ed in condizioni perfette. Denkar si appresta sempre a dire che questo sia in sostituzione di un vecchissimo tavolo, ricavato dalle assi della prima nave a raggiungere le coste delle Terre Perdute, dove gli avventori passati avevano inciso nel dettaglio la mappa delle zone esplorate durante i loro viaggi nell'entroterra, ma il tavolo è sparito da anni, e coloro che lo incisero ormai morti.
@@ -62,7 +62,7 @@ Si tratta principalmente di camerate, di cui una da dodici al pian terreno e due
 
 
 ## Metallo Pesante
-Il negozio di Isgrid, Metallo Pesante è l'unico fabbro nella città di Approdo, ed è responsabile di forgiare e mantenere l'equipaggiamento della milizia cittadina, nonché grate e svariati oggetti d'uso comune per gli abitanti.
+Il negozio di [[Isgrid]], Metallo Pesante è l'unico fabbro nella città di Approdo, ed è responsabile di forgiare e mantenere l'equipaggiamento della milizia cittadina, nonché grate e svariati oggetti d'uso comune per gli abitanti.
 
 Le persone anziane che risiedono nei dintorni si lamentano del rumore dell'officina durante la giornata, ma raramente sono ascoltate, innanzitutto per il rumore della cote rotante che affila le lame, ma anche perché il servizio offerto da Isgrid è essenziale per tutti gli approdoni.
 
@@ -83,7 +83,7 @@ Da Metallo Pesante potreste dover gridare per effettuare i vostri ordini, ma sar
 Questo negozio nascosto tra le vie del quartiere del Ciliegieto potrebbe essere scambiato per una piccola casetta con una lanterna dalla luce violacea appesa all'ingresso, ma chiunque entri può subito capire di non trovarsi in un posto qualunque.
 Tutte le pareti sono coperte di scaffali che rigurgitano cianfrusaglie ed amuleti di qualunque specie, ed anche il pavimento è tanto coperto di pile di libri e vasche conenenti creature o liquidi strani da rendere difficile muoversi senza urtare qualcosa.
 
-Filverel, l'elfo antico, è sempre all'ingresso ad accogliere gli avventori, anche se guardando dalla finestra potrebbe non sembrare sia nella stanza. Si muove a passo sicuro tra le cianfrusaglie, e percorre l'intera lunghezza della casa per accompagnare gli acquirenti all'oggetto desiderato. Se richiesto può identificare oggetti magici grazie ad uno speciale apparato di sua invenzione, di cui però è restio a spiegare il funzionamento.
+[[Filverel]], l'elfo antico, è sempre all'ingresso ad accogliere gli avventori, anche se guardando dalla finestra potrebbe non sembrare sia nella stanza. Si muove a passo sicuro tra le cianfrusaglie, e percorre l'intera lunghezza della casa per accompagnare gli acquirenti all'oggetto desiderato. Se richiesto può identificare oggetti magici grazie ad uno speciale apparato di sua invenzione, di cui però è restio a spiegare il funzionamento.
 Non sono presenti mobili a parte le scaffalature ed i tavoli su cui sono ammassati gli oggetti in vendita.
 
 > All'Orizzonte degli Eventi è possibile acquistare qualunque [talismano](https://2e.aonprd.com/Equipment.aspx?Category=15&Subcategory=19) con un 10% di sconto rispetto al prezzo indicato sui manuali,
@@ -96,7 +96,7 @@ Non sono presenti mobili a parte le scaffalature ed i tavoli su cui sono ammassa
 ## Chiesa di Approdo
 Ad Approdo la chiesa si distingue chiaramente dagli altri edifici, essendo costruita interamente in pietra.
 Che sia indice di estremo rispetto per le divinità da parte di passate generazioni o che la chiesa fosse presente prima che l'insediamento venisse chiamato Approdo poco importa, in quanto non è così frequentata al giorno d'oggi.
-Non è dedicata ad un culto in particolare, sebbene la forma circolare con un altare centrale, o il fatto stesso di essere di pietra, la possa rendere inadeguata alla venerazione di specifiche divinità, e non avendo alcun chierico qualunque credente desideri visitarla è accolto gioiosamente da Ofnir lo storpio, che vive della beneficienza dei fedeli e pulisce la chiesa, oltre che suonare le campane.
+Non è dedicata ad un culto in particolare, sebbene la forma circolare con un altare centrale, o il fatto stesso di essere di pietra, la possa rendere inadeguata alla venerazione di specifiche divinità, e non avendo alcun chierico qualunque credente desideri visitarla è accolto gioiosamente da [[Ofnir|Ofnir lo storpio]], che vive della beneficienza dei fedeli e pulisce la chiesa, oltre che suonare le campane.
 
 > Nella chiesa si può usufruire di incenso e candele, giorno e notte, ma non sono offerti servizi se non la possibilità di pregare.
 
