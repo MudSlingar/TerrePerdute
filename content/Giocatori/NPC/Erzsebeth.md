@@ -1,8 +1,6 @@
 #bandito
 
-<img width=300 src="https://i.pinimg.com/564x/b6/0f/10/b60f10dccd02401d4e8e1397611bc740.jpg">
-
-Umano, femmina
+<img width=350 src="https://i.pinimg.com/564x/b6/0f/10/b60f10dccd02401d4e8e1397611bc740.jpg" align=left> Umano, femmina
 
 Ragazza incinta bandita da [[Approdo]].
 

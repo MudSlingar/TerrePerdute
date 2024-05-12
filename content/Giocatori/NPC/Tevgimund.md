@@ -1,7 +1,6 @@
 #mostro 
 
 <img src="https://i.pinimg.com/564x/b9/7e/ef/b97eef85e70cef5ce6a90deceeacbcac.jpg">
-
 Manticora, genere non noto con certezza
 
 Controlla la zona delle [[Le Terre Perdute#Rupi Urlanti|Rupi Urlanti]], è intelligente e tremendamente territoriale, quasi quanto è crudele.

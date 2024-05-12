@@ -12,6 +12,10 @@ Non esistono mappe delle Terre Perdute al giorno d'oggi, e l'intero continente �
 
 Per questo, nonostante il pericolo che rappresentano, diversi arditi intraprendono il viaggio verso la costa Ovest del Mare Interno e raggiungono la città di Approdo, per poi addentrarsi ancora più a ponente verso l'ignoto.
 
+Eccezion fatta per gli appunti di [[Urthu]], qui riportati:
+
+<img src="https://cdn.discordapp.com/attachments/963443234758070324/1237310695478132806/DSC_0064.jpg?ex=66426f21&is=66411da1&hm=38dbee135906cc3a33d58508b33a3431ee1526c36aa1d7c3fb780f2a7306a2a5&">
+
 ### Luoghi noti e d'interesse
 Il fatto che non esistano mappe aggiornate o accurate non impedisce agli approdoni di sapere qualche informazione su ciò che si può trovare nelle vicinanze di Approdo, ed infatti le zone limitrofe sono indicativamente note per i pericoli che contengono, anche se prevalentemente inesplorate.
 
@@ -67,9 +71,12 @@ All'interno c'era una statua di legno animata, adesso distrutta, ed una trappola
 È presente anche una fontanella in fondo allo spazio nascosto sotto l'albero, e diversi gruppi hanno passato notti tranquille all'interno dell'albero una volta sconfitta la statua.
 
 ### Accampamenti Goblin
-Il fumo toponimo della foresta sembra provenire da accampamenti di Goblin, nella parte sud della foresta.
+
+<img width=200 align=left src="https://cdn.discordapp.com/attachments/951550685432914021/1239316550217891840/goblinnudo.jpeg?ex=66427afa&is=6641297a&hm=31bd87b0e949ad6a879d1c1166663d58af933845a6e95d143881aed9fda74e04&"> Il fumo toponimo della foresta sembra provenire da accampamenti di Goblin, nella parte sud della foresta.
 Fanno ingente uso di funghi allucinogeni.
-Sembrano starsi organizzando dopo l'ultima spedizione che ha raso al suolo uno dei loro accampamenti.
+Si erano organizzati in un unico forte nelle scorse settimane ma sono stati assediati durante la [[Diario Avventure#Sessione 8|Sessione 8]], e conseguentemente l'insediamento è caduto.
+Adesso rimane solamente una tribù nella foresta, ed il resto dei Goblin è fuggito verso le [[Le Terre Perdute#Piana Striata|Piane Striate]].
+Sembravano avere un qualche tipo di collegamento col culto incontrato al limitare della [[Le Terre Perdute#Città Sacra|Città Sacra]]. Che siano andati in quella direzione?
 
 ### Statua del Re Cervo
 In una struttura megalitica risiede la statua di una creatura parzialmente cervo e parzialmente umanoide, con mozziconi al posto delle gambe e braccia innaturalmente lunghe che terminano con grandi mani artigliate.

@@ -4,9 +4,13 @@
 
 [[Erzsebeth]]
 
+[[Ferenc]]
+
 [[Filverel]]
 
 [[Isgrid]]
+
+[[Josif]]
 
 [[Molnar]]
 
@@ -15,5 +19,7 @@
 [[Olafur]]
 
 [[Peter]]
+
+[[Signorina Daigon]]
 
 [[Tevgimund]]

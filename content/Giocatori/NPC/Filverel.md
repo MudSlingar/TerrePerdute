@@ -1,8 +1,6 @@
 #mercante #approdo
 
-<img width=300 src="https://i.pinimg.com/564x/42/30/26/4230264189408fc87f85ba9724274bff.jpg">
-
-Elfo Mago, proprietario dell'[[Approdo#Orizzonte degli Eventi|Orizzonte degli Eventi]].
+<img width=350 src="https://i.pinimg.com/564x/42/30/26/4230264189408fc87f85ba9724274bff.jpg" align=left>Elfo Mago, proprietario dell'[[Approdo#Orizzonte degli Eventi|Orizzonte degli Eventi]].
 
 È stato avventuriero molto tempo fa, ma adesso si rifiuta di uscire da Approdo, probabilmente per un motivo che ha a che fare con le storie che occasionalmente, da ubriaco, racconta riguardo ad un [[Le Terre Perdute#Tempio di Pietra|Tempio]] nelle profondità della [[Le Terre Perdute#Foresta Fumosa|foresta]].
 
