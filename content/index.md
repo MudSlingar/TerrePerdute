@@ -18,6 +18,3 @@ Consiglio di seguire uno di questi link utili:
 [[NPC]] per la lista completa dei personaggi non giocanti
 
 [[Il mondo conosciuto]] per la descrizione dei luoghi abbandonati dai personaggi salpati per le terre perdute
-
-Sono inoltre presenti i file della [[guidacampagna]] e [[guidagamemaster]], nonché [[sistemabase]] nel caso servissero.
-Non sono formattati per obsidian, ma bensì per essere visualizzati su "scribe" così da essere formattati similmente ai manuali di Pathfinder 2e, quindi la lettura potrebbe essere difficile.
