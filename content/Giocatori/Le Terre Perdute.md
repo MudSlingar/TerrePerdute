@@ -14,7 +14,7 @@ Per questo, nonostante il pericolo che rappresentano, diversi arditi intraprendo
 
 Eccezion fatta per gli appunti di [[Urthu]], qui riportati:
 
-<img src="https://cdn.discordapp.com/attachments/963443234758070324/1237310695478132806/DSC_0064.jpg?ex=66426f21&is=66411da1&hm=38dbee135906cc3a33d58508b33a3431ee1526c36aa1d7c3fb780f2a7306a2a5&">
+<img src="https://i.pinimg.com/736x/c2/35/c5/c235c59a24f16cc7456952d36f1646ff.jpg">
 
 ### Luoghi noti e d'interesse
 Il fatto che non esistano mappe aggiornate o accurate non impedisce agli approdoni di sapere qualche informazione su ciò che si può trovare nelle vicinanze di Approdo, ed infatti le zone limitrofe sono indicativamente note per i pericoli che contengono, anche se prevalentemente inesplorate.
@@ -77,6 +77,8 @@ Fanno ingente uso di funghi allucinogeni.
 Si erano organizzati in un unico forte nelle scorse settimane ma sono stati assediati durante la [[Diario Avventure#Sessione 8|Sessione 8]], e conseguentemente l'insediamento è caduto.
 Adesso rimane solamente una tribù nella foresta, ed il resto dei Goblin è fuggito verso le [[Le Terre Perdute#Piana Striata|Piane Striate]].
 Sembravano avere un qualche tipo di collegamento col culto incontrato al limitare della [[Le Terre Perdute#Città Sacra|Città Sacra]]. Che siano andati in quella direzione?
+
+È anche stata rinvenuta una mappa in possesso ai capi dell'accampamento dei goblin, che indicava la suddivisione della foresta sud in zone non contrassegnate, che potete trovare [[Mappa Goblin|qui]]
 
 ### Statua del Re Cervo
 In una struttura megalitica risiede la statua di una creatura parzialmente cervo e parzialmente umanoide, con mozziconi al posto delle gambe e braccia innaturalmente lunghe che terminano con grandi mani artigliate.
