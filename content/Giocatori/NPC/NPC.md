@@ -1,3 +1,5 @@
+[[Aniko]]
+
 [[Denkar]]
 
 [[Ephret Bulgakov]]
@@ -7,6 +9,8 @@
 [[Ferenc]]
 
 [[Filverel]]
+
+[[Gabor]]
 
 [[Isgrid]]
 
@@ -23,3 +27,5 @@
 [[Signorina Daigon]]
 
 [[Tevgimund]]
+
+[[Vince]]

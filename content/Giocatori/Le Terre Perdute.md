@@ -44,7 +44,8 @@ La principale popolazione dei Poggi Dorati sono alcune tribù di Boggard, insedi
 Attorno alla Torre diroccata un gruppo di banditi ha rimesso in sesto alcune delle case in rovina e lì si è insediato.
 Sono principalmente ragazzetti inesperti, anche se il loro "capo" [[Molnar]] sembra essere un combattente navigato. 
 A detta sua buona parte di loro è stata bandita a causa di furtarelli o debiti che non potevano pagare.
-Hanno una donna incinta [[Erzsebeth]], prossima al parto.
+[[Erzsebeth]], una dei banditi, ha da poco partorito.
+Grazie alle contrattazioni con il sindaco avvenute nella [[Diario Avventure#Sessione 9|Sessione 9]], il Villaggio è adesso riconosciuto come [[Dorina|Villaggio di Dorina]], un villaggio semi-autonomo, "frazione" di [[Approdo]].
 
 ### Statue dei Re
 Dodici statue stanno in cerchio attorno al simbolo del culto del Dio del Sole.
@@ -99,6 +100,12 @@ Evidentemente un gruppo di Coboldi ha tana sulle montagne.
 Non è conosciuta la portata della loro presenza sui picchi, ma sono state incontrate alcune delle loro trappole.
 Sembrano avere interesse a raccogliere il _ferro freddo_ dalle radici della montagna, inoltrandosi fino alla [[Le Terre Perdute#Foresta Fumosa|Foresta Fumosa]].
 
+Durante la [[Diario Avventure#Sessione 7|spedizione a caccia di coboldi]] l'insediamento identificato nella [[Diario Avventure#Sessione 2|prima spedizione sui Picchi Argentati]] è stato completamente distrutto.
+
+Nell'insediamento, come punti interessanti rimangono:
+1. _Portone d'Argento con bassorilievi dei segni zodiacali ed un Drago che riposa nell'erba, tra la quale è anche raffigurato un rospo_ 
+2. _Portone di fattura nanica da cui escono dei carretti da miniera, chiuso, probabilmente che discende nelle profondità delle montagne._
+
 ## Rupi Urlanti
 <img align="right" width="240" src="https://i.pinimg.com/originals/2a/d3/26/2ad32641e1f3723649c6fbeddabeca79.jpg">
 
@@ -129,3 +136,8 @@ In lontananza l'orizzonte è sempre parso coperto dalla nebbia a chiunque sia ar
 È visibile in lontananza un'enorme cinta muraria, quasi troppo alta per essere costruita da umani.
 Da vicino sono state viste: una breccia nelle mura, vicino al fiume che costeggia la città, un quartiere di baraccopoli con moli nella direzione del fiume, una porta verso Nord, che presenta segni di decorazioni dorate.
 Un mutaforma che si è fatto riconoscere come dello stesso culto di [[Jeriko]] faceva da guardia nelle vicinanze dei moli, rifiutandosi di permettere l'accesso alla città, che chiamava "Città Sacra".
+
+## Salina Rossa
+
+A sud di [[Approdo]] e dei [[Le Terre Perdute#Poggi Dorati|Poggi Dorati]], ad est della [[Le Terre Perdute#Piana Striata|Piana Striata]], si trova un'enorme distesa di sale e cristalli dai riflessi rossi, abitata da enormi creature che presentano croste di cristalli rossi e sembrano nutrirsi nel terreno.
+Non è stata esplorata.

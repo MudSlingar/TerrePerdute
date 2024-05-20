@@ -7,7 +7,7 @@ Per il pernotto in taverna i personaggi dovranno spendere secondo questa tabella
 
 | Camera  | Prezzo (notte) | Prezzo (settimana)* | Prezzo (mese)* |
 | ------- | -------------- | ------------------- | -------------- |
-| Grande  | 5 mr           | 6 ma                | 21 ma          |
+| Grande  | 5 mr           | 5 ma                | 20 ma          |
 | Media   | 1 ma           | 8 ma                | 35 ma          |
 | Privata | 5 ma           | 35 ma               | 140 ma         |
 _:_ i prezzi per una settimana o un mese comprendono un pasto al giorno (con birra)*
