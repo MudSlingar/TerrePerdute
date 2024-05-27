@@ -7,3 +7,5 @@
 Beve solamente vino di ciliegia, a quanto dice di non riuscire a digerire la birra.
 
 [[Ghé]] ha recentemente iniziato a lavorare da lui, anche se il lavoro consiste principalmente nel riordinare oggetti vari e pulire la disordinatissima casa l'elfa ha imparato un po di alchimia da lui.
+
+Recentemente ha accolto [[Syrio]] perché potesse studiare i suoi libri ed insegnato a [[Jeriko]] alcuni incantesimi.

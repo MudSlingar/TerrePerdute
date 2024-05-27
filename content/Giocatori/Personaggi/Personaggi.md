@@ -8,6 +8,8 @@ Lista dei personaggi giocanti in ordine alfabetico:
 
 [[Elyraine]]
 
+[[Florian]]
+
 [[Ghé]]
 
 [[Grummar]]

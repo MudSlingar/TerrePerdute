@@ -104,7 +104,12 @@ Durante la [[Diario Avventure#Sessione 7|spedizione a caccia di coboldi]] l'inse
 
 Nell'insediamento, come punti interessanti rimangono:
 1. _Portone d'Argento con bassorilievi dei segni zodiacali ed un Drago che riposa nell'erba, tra la quale è anche raffigurato un rospo_ 
-2. _Portone di fattura nanica da cui escono dei carretti da miniera, chiuso, probabilmente che discende nelle profondità delle montagne._
+2. _Portone di fattura nanica da cui escono dei carretti da miniera, chiuso, che discende nelle profondità delle montagne verso le miniere_
+
+## Miniere
+Oltre il covo dei coboldi si addentrano nelle profondità dei Picchi Argentati delle miniere di antica fattura nanica.
+Un gruppo di coboldi sopravvissuti, che si nominava la resistenza, viveva all'inizio delle miniere, ma queste proseguono molto più in profondità del covo.
+
 
 ## Rupi Urlanti
 <img align="right" width="240" src="https://i.pinimg.com/originals/2a/d3/26/2ad32641e1f3723649c6fbeddabeca79.jpg">

@@ -10,7 +10,7 @@ Ha un fisico compatto e slanciato, lineamenti squadrati, pelle somigliante a gri
 
 È convinto che non vi sia magia più nobile che quella della terra e della roccia, pertanto nel suo repertorio di incantesimi cerca di astenersi dall'introdurre altre tradizioni elementali. 
 
-Nato nel Principato di Pen, servì in guerra come medico, prima di allontanarsi dagli inutili spargimenti di sangue in cerca di avventure. 
+Nato nel [[Il mondo conosciuto|Principato di Pen]], servì in guerra come medico, prima di allontanarsi dagli inutili spargimenti di sangue in cerca di avventure. 
 
 Come medico, si impegna ad aiutare qualunque alleato o sconosciuto sia in difficoltà; non ha invece pietà alcuna per i nemici e spesso ne sfrutta i cadaveri per mantenere in allenamento le proprie conoscenze mediche. 
 

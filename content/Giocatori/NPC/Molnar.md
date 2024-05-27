@@ -12,4 +12,4 @@ Ha un cruccio con [[Ephret Bulgakov]], il sindaco di [[Approdo]], a causa dell'e
 
 È sempre parso ragionevole e disposto a contrattare con gli [[Personaggi|avventurieri]].
 
-È attualmente riconosciuto da [[Ephret Bulgakov]] ed [[Approdo]] come sindaco di
+È attualmente riconosciuto da [[Ephret Bulgakov]] ed [[Approdo]] come sindaco di [[Dorina]].
