@@ -7,3 +7,5 @@ Sembra interessata a materiali rari ed oggetti di fattura particolare, come le a
 Pare avere una scarsa opinione di [[Filverel]].
 
 Ha preso [[Salek]] come aiutante recentemente.
+
+È venuto a galla a causa delle [[Diario Avventure#Sessione 9|contrattazioni tra sindaco e dorina]] che il suo fu marito era una guardia cittadina morta durante il servizio per mano di [[Ferenc]].

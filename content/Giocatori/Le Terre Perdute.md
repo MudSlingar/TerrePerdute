@@ -29,6 +29,13 @@ Il Fiume che attraversa Approdo. Scende dai [[Le Terre Perdute#Picchi Argentati|
 
 Non è sicuro percorrere il fiume via chiatta a causa di insediamenti di Boggard, che attaccano a vista chiunque navighi sul Napyguta.
 
+### Villaggio Boggard
+In mezzo al fiume, tra le lente spire della corrente che scorre tra i poggi dorati, è situato un fangoso isolotto che ospita un villaggio di Boggard, creature simili a rospi umanoidi.
+La maggior parte di loro sembra parlare solamente la propria lingua composta di gracidii, ma il capo (ora defunto) conosceva anche qualche parola in comune.
+Al centro del villaggio è stato visto un edificio in pietra dalla pianta circolare, all'interno del quale era tenuto acceso un fuoco in un braciere. Dal piano sotterraneo dell'edificio usciva ogni tanto un boggard con mani coperte di sangue. Il resto del villaggio è composto di edifici di legno e paglia. 
+Il villaggio ospita centinaia di boggard, ed ha avuto uno scontro sostanzioso con gli avventurieri [[Diario Avventure#Sessione 11|di recente]], dove almeno una dozzina di boggard hanno perso la vita, e gli avventurieri rischiato la propria.
+Non è detto che sia ancora possibile instaurare un rapporto diplomatico con i boggard.
+
 ## Poggi Dorati
 <img align="right" height="230" src="https://i.pinimg.com/564x/ae/0b/43/ae0b430957df632ad19654be4011ab76.jpg">
 
