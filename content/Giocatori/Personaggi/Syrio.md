@@ -1,6 +1,6 @@
 #PC 
 
-![[syrio.jpeg]] Umano, maschio.
+![[syrio.jpg]] Umano, maschio.
 
 Sembra avere un conto in sospeso con [[Tevgimund]].
 
