@@ -80,7 +80,7 @@ All'interno c'era una statua di legno animata, adesso distrutta, ed una trappola
 
 ### Accampamenti Goblin
 
-<img width=200 align=left src="https://cdn.discordapp.com/attachments/951550685432914021/1239316550217891840/goblinnudo.jpeg?ex=66427afa&is=6641297a&hm=31bd87b0e949ad6a879d1c1166663d58af933845a6e95d143881aed9fda74e04&"> Il fumo toponimo della foresta sembra provenire da accampamenti di Goblin, nella parte sud della foresta.
+<img width=200 align=left src="https://i.pinimg.com/originals/36/f4/57/36f457fc87d9effc7c9ac0b95c609040.jpg"> Il fumo toponimo della foresta sembra provenire da accampamenti di Goblin, nella parte sud della foresta.
 Fanno ingente uso di funghi allucinogeni.
 Si erano organizzati in un unico forte nelle scorse settimane ma sono stati assediati durante la [[Diario Avventure#Sessione 8|Sessione 8]], e conseguentemente l'insediamento è caduto.
 Adesso rimane solamente una tribù nella foresta, ed il resto dei Goblin è fuggito verso le [[Le Terre Perdute#Piana Striata|Piane Striate]].

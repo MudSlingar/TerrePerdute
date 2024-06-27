@@ -1,5 +1,5 @@
 #PC 
-<img width=350 align=left src="https://cdn.discordapp.com/attachments/951550685432914021/1239317396712329266/ghe1.jpeg?ex=66427bc4&is=66412a44&hm=5b8786200f38fd55eb00be7eab85cd119132500a5e0358fed5585bce7c18cfff&"> Ghé Kairon è un’elfa di 122 anni. 
+![[ghe.jpg]] Ghé Kairon è un’elfa di 122 anni. 
 
 È una ragazza giovane, alta e con lo sguardo un po’ perso nel vuoto. Le sue orecchie e il cappello che indossa sono agghindati con delle campanelle che risuonano quando cammina. Ha con sé un pastorale, anch’esso decorato con un campanaccio ed è sempre affiancata da una capretta. 
 
