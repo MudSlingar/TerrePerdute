@@ -16,6 +16,8 @@
 
 [[Josif]]
 
+[[Lanliss Xiloshent]]
+
 [[Molnar]]
 
 [[Ofnir]]
@@ -25,6 +27,8 @@
 [[Peter]]
 
 [[Signorina Daigon]]
+
+[[Shimin Xiloshent]]
 
 [[Tevgimund]] (morto)
 
