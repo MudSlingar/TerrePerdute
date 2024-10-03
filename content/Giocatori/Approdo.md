@@ -108,3 +108,10 @@ Questi scambi avvengono nelle piazze del porto, dove i mercanti allestiscono i p
 > Settimanalmente all'apertura del mercato potrete acquistare oggetti comuni e fino ad un oggetto raro con un 15% di sovrapprezzo rispetto al prezzo reperibile sui manuali.
 >
 > Ogni volta che viene aperto il mercato sono disponibili all'asta anche oggetti particolarmente rari (rarità raro o maggiore), potrete partecipare all'asta per ottenerli. Solo voi giocatori parteciperete all'asta, saranno presenti un prezzo minimo ed a volte un prezzo di acquisto diretto.
+
+## Guardia Cittadina
+<img src="https://i.pinimg.com/736x/12/8b/ea/128beae66c8fe2b900f1ace68c1fc5d5.jpg" align=left width=250> È insignito da [[Ephret Bulgakov]] un Capitano della Guardia.
+Tre Tenenti fanno riferimento direttamente al Capitano, ed ognuno di essi ha responsabilità su Quattro Sergenti, ognuno responsabile di una Pattuglia di Guardie.
+[[Jeriko]] è attualmente Sergente della Terza Pattuglia Verde, assegnata alle campagne attorno ad Approdo.
+
+_A sinistra: un giorno di neve e riposo per la Terza Pattuglia Verde._
