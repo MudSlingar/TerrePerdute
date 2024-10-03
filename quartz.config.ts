@@ -10,7 +10,7 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "Terre Perdute Wiki",
     pageTitleSuffix: "wiki!",
-    enableSPA: true,
+    enableSPA: false,
     enablePopovers: true,
     analytics: {
       null,
@@ -40,7 +40,7 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
+          light: "#161610",
           lightgray: "#393639",
           gray: "#646464",
           darkgray: "#d4d4d4",
