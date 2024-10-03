@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Terre Perdute Wiki",
-    pageTitleSuffix: " Approdo Wiki",
+    pageTitleSuffix: " - Approdo Wiki",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
