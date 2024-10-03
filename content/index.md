@@ -7,6 +7,8 @@ Se volete aggiungere qualcosa contattate un master sul discord ed inviategli que
 
 Consiglio di seguire uno di questi link utili:
 
+[[Guida-alla-campagna.pdf|Guida alla Campagna]] per il file con tutte le indicazioni utili per iniziare
+
 [[Approdo]] per la descrizione della città
 
 [[Le Terre Perdute]] per la descrizione dei luoghi visitati o visitabili delle terre perdute

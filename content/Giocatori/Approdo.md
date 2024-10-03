@@ -6,7 +6,7 @@ In cosa consiste questo progetto?
 
 In una campagna in stile west marches, dove poter giocare senza limiti di gruppo o giornate predefinite.
 
-È spiegato tutto meglio nel file "Guida-alla-campagna", presente nella sezione [release](https://github.com/MudSlingar/Approdo/releases) della repository, fateci un salto.
+È spiegato tutto meglio nel file "Guida-alla-campagna", presente [[Guida-alla-campagna.pdf|qui]], fateci un salto.
 Se rimangono dei dubbi scrivetemi.
 
 ---
