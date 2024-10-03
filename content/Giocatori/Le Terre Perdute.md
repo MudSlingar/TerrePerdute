@@ -70,7 +70,7 @@ A volte dei pennacchi di fumo sono visibili sopra le chiome degli alberi, e rest
 
 Nessun abitante di Approdo si spinge dentro la foresta, nemmeno i pochi che ogni tanto pattugliano il limitare dei poggi dorati.
 
-Non si sa nulla di ciò ch'è nascosto tra gli alberi se non che Filverel, le rare volte che beve al Corvo di Coffa, finisce quasi sempre col raccontare di un antico tempio dedicato a dei dimenticati, che a suo dire si troverebbe nelle profondità della foresta, ma non ha mai confermato la cosa da sobrio.
+Ormai si è esplorata buona parte della foresta fumosa: i goblin sono stati cacciati dalla foresta, il grande albero ha rivelato i suoi tesori, si è incontrata la statua del Re Cervo e visitata la fossa in cui risiede il Tempio di Pietra, ma alcuni suoi misteri rimangono irrisolti, tra cui la natura del rituale che influenza i cervi e cosa si nasconde esattamente nelle profondità del tempio.
 
 ### Grande Albero
 Nella zona Nord della foresta c'è un enorme albero che sembra avere connessioni con un antico culto druidico della foresta.
@@ -90,8 +90,9 @@ Sembravano avere un qualche tipo di collegamento col culto incontrato al limitar
 
 ### Statua del Re Cervo
 In una struttura megalitica risiede la statua di una creatura parzialmente cervo e parzialmente umanoide, con mozziconi al posto delle gambe e braccia innaturalmente lunghe che terminano con grandi mani artigliate.
-I cervi della foresta presentano un comportamento anomalo: morti corrono verso la statua fino ad infilzarsi sui suoi artigli. Il loro sangue non sembra colare per terra una volta sacrificati in questo modo.
-Anche i goblin della foresta sembrano venerare questa figura, e svolgere sacrifici rituali in suo onore.
+I cervi della foresta presentano un comportamento anomalo: da morti corrono verso la statua fino ad infilzarsi sui suoi artigli. Il loro sangue non sembra colare per terra una volta sacrificati in questo modo.
+Anche i goblin della foresta sembravano venerare questa figura, e svolgere sacrifici rituali in suo onore.
+<img src="https://i.pinimg.com/564x/55/38/fb/5538fbeac2d96a9dc48db52917fd28b2.jpg" align=right width=250> _Se doveste mai avvistare creature simili nella foresta, non correte, avreste più possibilità iniziando a pregare_
 
 ### Tempio di Pietra
 Nelle profondità della foresta, ad Ovest, si trova una fossa dove il sole non penetra, evidentemente incantata, dentro a cui è nascosto il Tempio di Pietra di cui a volte vanvera Filverel da ubriaco. 
@@ -99,11 +100,11 @@ Sembra avere una connessione con la statua del Dio Cervo.
 Non è stato raccontato molto altro se non di **non andarci**, e che sia molto pericoloso.
 
 ## Picchi Argentati
-Le montagne che si vedono in lontananza a Nord-Ovest. La luce riflessa sulla neve e le pareti di roccia il mattino conferisce il loro nome.
+<img src="https://i.pinimg.com/564x/f0/2f/d4/f02fd41966b507e7b7573ab704aca8f5.jpg" align=left width=250>Le montagne che si vedono in lontananza a Nord-Ovest. La luce riflessa sulla neve e le pareti di roccia il mattino conferisce il loro nome.
 C'è chi dice di aver visto la sagoma di un drago volare sopra le vette delle montagne, subito prima che il sole tramontasse.
 
 ### Coboldi
-Evidentemente un gruppo di Coboldi ha tana sulle montagne. 
+Evidentemente un gruppo di Coboldi aveva tana sulle montagne. 
 Non è conosciuta la portata della loro presenza sui picchi, ma sono state incontrate alcune delle loro trappole.
 Sembrano avere interesse a raccogliere il _ferro freddo_ dalle radici della montagna, inoltrandosi fino alla [[Le Terre Perdute#Foresta Fumosa|Foresta Fumosa]].
 
@@ -114,29 +115,36 @@ Nell'insediamento, come punti interessanti rimangono:
 2. _Portone di fattura nanica da cui escono dei carretti da miniera, chiuso, che discende nelle profondità delle montagne verso le miniere_
 
 ## Miniere
-Oltre il covo dei coboldi si addentrano nelle profondità dei Picchi Argentati delle miniere di antica fattura nanica.
+<img src="https://i.pinimg.com/564x/19/4a/56/194a565d27d3ccd057a586b890a14753.jpg" align=left width=250>Oltre il covo dei coboldi si addentrano nelle profondità dei Picchi Argentati delle miniere di antica fattura nanica.
 Un gruppo di coboldi sopravvissuti, che si nominava la resistenza, viveva all'inizio delle miniere, ma queste proseguono molto più in profondità del covo.
+
+Non sono ancora state esplorate, ma dalla fattura nanica delle decorazioni di alcune delle caverne abitate dai coboldi e del portone che separa le miniere dal resto della montagna, si presume che dei nani vivessero nei Picchi Argentati.
 
 
 ## Rupi Urlanti
-<img align="right" width="240" src="https://i.pinimg.com/originals/2a/d3/26/2ad32641e1f3723649c6fbeddabeca79.jpg">
-
+<img align="right" width="240" src="https://i.pinimg.com/originals/2a/d3/26/2ad32641e1f3723649c6fbeddabeca79.jpg"> 
 Ad Est dei [[Le Terre Perdute#Picchi Argentati|Picchi Argentati]], fino a raggiungere la costa del Mare Interno, a Nord di [Approdo](#approdo) e dei [[Le Terre Perdute#Poggi Dorati|Poggi Dorati]], stanno le Rupi Urlanti.  
 
 Chiamate così a causa del rumore che le caratterizza, che non è mai stato appurato provenire dal vento che le attraversa o da effettiva urla lancinanti.
 
-È certo siano territorio di caccia di una qualche enorme creatura volante, in quanto sono stati ritrovati resti di animali di grossa dimensione, quali mucche smarrite o orsi, in luoghi che non avrebbero mai potuto raggiungere se non cadendo dal cielo.
+Erano territorio di caccia di [[Tevgimund]] la manticora, che spesso si dilettava lasciando cadere cervi od orsi dall'alto per poi cibarsene.
 
-Non è possibile scalare il versante Est, in quanto sulle rocce si infrangono violentemente le onde impedendo la scalata, ma, sebbene non sia stato tentato, non dovrebbe essere impossibile raggiungere il crinale salendo dal versante Sud, e poter vedere cosa si nasconde oltre le Rupi, o cosa ci si annida.
+Non è possibile scalare il versante Est, in quanto sulle rocce si infrangono violentemente le onde impedendo la scalata.
+
+Adesso pian piano si sta formando un sentiero per scalare le Rupi e raggiungere il versante Nord, per raggiungere la Contea di [[Zeogon]]. Non è ancora comodamente praticabile, ma sta prendendo forma.
 
 ### Pattuglie di confine della Contea di Zeogon
-Sono stati incontrati soldati che dicevano di essere della Contea di Zeogon, a loro dire a Nord delle Rupi Urlanti. 
+Sono stati incontrati soldati che dicevano di essere della Contea di [[Zeogon]], a Nord delle Rupi Urlanti. 
 La loro armatura è di fattura squisita, con evidenti influenze di artigianato elfico. 
 Sono stati uccisi da [[Tevgimund]] prima di poter rivelare molte altre informazioni.
+
+Sono stati anche incontrati i resti ed [[Ñihöl|un superstite]] di una missione proveniente da Zeogon per installare una Balista sulle Rupi, fine ad attaccare Tevgimund.
 
 ### Tana della Manticora Tevgimund
 Nascosta nelle profondità delle Rupi Urlanti c'è la tana della [[Tevgimund|manticora]] che terrorizza la zona.
 Al suo interno la statua di marmo dell'antico re Hewerald viene usata come posacenere.
+
+Le trappole sonore fatte di monete forate appese in mezzo ai sentieri che circondavano la tana installate da Tevgimund sono state rimosse e riscosse dagli avventurieri.
 
 ## Piana Striata
 
