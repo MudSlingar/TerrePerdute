@@ -20,13 +20,13 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
-      fontOrigin: "googleFonts",
-      cdnCaching: true,
+      fontOrigin: "local",
+      cdnCaching: false,
       typography: {
-        header: "Pangolin",
-        body: "Crimson Text",
-        code: "Inconsolata",
-      },
+         header: "HamletOrNot",  //"Pangolin",
+         body: "Kelvinch",       //"Crimson Text",
+         code: "Jupiteroid",     //"Inconsolata",
+       },
       colors: {
         lightMode: {
           light: "#E8EFEF",

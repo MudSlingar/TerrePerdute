@@ -1,3 +1,36 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+/* --------------------------------------- */
+/* CUSTOM FONT TRY: DELETE IF SITE CRASHES */
+/* --------------------------------------- */
+ @font-face {
+     font-family: 'HamletOrNot';
+     src: local('HamletOrNot.tff') format('tff');
+     font-weight: normal;
+     font-style: normal;
+ }
+
+@font-face {
+     font-family: 'Kelvinch';
+     src: local('Kelvinch-Roman.otf') format('otf') local('Kelvinch Roman');
+     font-weight: normal;
+     font-style: normal;
+}
+
+@font-face {
+     font-family: 'Jupiteroid';
+     src: local('Jupiteroid-Regular.otf') format('tff') local('Jupiteroid Regular');
+     font-weight: normal;
+     font-style: normal;
+}
+
+
+ :root {
+   --font-header:'HamletOrNot';
+   --font-body: 'Kelvinch';
+   --font-code: 'Jupiteroid';
+ }
+  
+/* -------------------------------------- */

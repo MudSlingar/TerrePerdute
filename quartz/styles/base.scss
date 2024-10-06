@@ -2,23 +2,6 @@
 @use "./syntax.scss";
 @use "./callouts.scss";
 
-/* --------------------------------------- */
-/* CUSTOM FONT TRY: DELETE IF SITE CRASHES */
-/* --------------------------------------- */
-@font-face {
-  font-family: 'HamletOrNot';
-  src: url('fonts/HamletOrNot.tff') format('tff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-:root {
-  --font-header:'HamletOrNot';
-}
-
-/* -------------------------------------- */
-
 html {
   scroll-behavior: smooth;
   text-size-adjust: none;
