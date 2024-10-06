@@ -7,21 +7,21 @@
 /* --------------------------------------- */
  @font-face {
      font-family: 'HamletOrNot';
-     src: local('HamletOrNot.tff') format('tff');
+     src: local('HamletOrNot.tff') format('tff') url('Hamletornot-K7y7.ttf');
      font-weight: normal;
      font-style: normal;
  }
 
 @font-face {
      font-family: 'Kelvinch';
-     src: local('Kelvinch-Roman.otf') format('otf') local('Kelvinch Roman');
+     src: local('Kelvinch-Roman.otf') format('otf') local('Kelvinch Roman') url('Kelvinch-Roman.otf');
      font-weight: normal;
      font-style: normal;
 }
 
 @font-face {
      font-family: 'Jupiteroid';
-     src: local('Jupiteroid-Regular.otf') format('tff') local('Jupiteroid Regular');
+     src: local('Jupiteroid-Regular.otf') format('tff') local('Jupiteroid Regular') url('Jupiteroid-Regular.tff');
      font-weight: normal;
      font-style: normal;
 }
