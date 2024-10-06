@@ -21,7 +21,7 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       fontOrigin: "local",
-      cdnCaching: false,
+      cdnCaching: true,
       typography: {
          header: "HamletOrNot",  //"Pangolin",
          body: "Kelvinch",       //"Crimson Text",
