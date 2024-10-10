@@ -6,7 +6,7 @@ Umano, maschio.
 Bandito che viveva nella [[Le Terre Perdute#Foresta Fumosa|Foresta Fumosa]], dopo essere stato cacciato sia da [[Approdo]] che dal [[Le Terre Perdute#Villaggio dei Banditi|Villaggio dei Banditi]].
 Sembra in pessimi rapporti, o almeno aver una pessima considerazione di [[Ephret Bulgakov]].
 
-È stato compagno d'armi di [[Molnar]] nel [[Il mondo conosciuto|mondo conosciuto]].
+<img src="https://i.pinimg.com/564x/ab/a3/ef/aba3ef7d100aae93ea27b2bc7dc65424.jpg" align=right width=250 alt="Giovani Molnar e Ferenc che si allenano"> È stato compagno d'armi di [[Molnar]] nel [[Il mondo conosciuto|mondo conosciuto]].
 
 Ha continuato a praticare brigantaggio, ed è stato incontrato per la prima volta durante la [[Diario Avventure#Sessione 1|Sessione 1]] da [[Grummar]], [[Urthu]], [[Syrio]], [[Rose]] e [[Ghé]], che difendendosi hanno ucciso i suoi due compagni meno esperti.
 

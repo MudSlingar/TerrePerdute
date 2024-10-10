@@ -13,3 +13,5 @@ Ha un cruccio con [[Ephret Bulgakov]], il sindaco di [[Approdo]], a causa dell'e
 È sempre parso ragionevole e disposto a contrattare con gli [[Personaggi|avventurieri]].
 
 È attualmente riconosciuto da [[Ephret Bulgakov]] ed [[Approdo]] come sindaco di [[Dorina]].
+
+<img src="https://i.pinimg.com/564x/ab/a3/ef/aba3ef7d100aae93ea27b2bc7dc65424.jpg" align=right width=250 alt="Giovani Molnar e Ferenc che si allenano"> _A destra: giovani Molnar e Ferenc che si allenano_

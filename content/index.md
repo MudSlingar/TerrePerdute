@@ -21,6 +21,8 @@ Consiglio di seguire uno di questi link utili:
 
 [[NPC]] per la lista completa dei personaggi non giocanti
 
+[[Rituali nella Foresta Fumosa]] per la descrizione degli avvenimenti occulti nella foresta
+
 [[Armeria]] per la descrizione di oggetti magici o particolari specificatamente creati per la campagna, disponibili o conosciuti dai personaggi
  
 [[Libro Dorato]] per la descrizione approfondita dei dettami della chiesa del dio del Sole

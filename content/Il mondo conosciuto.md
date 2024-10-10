@@ -38,3 +38,6 @@ Da Lomvik partono diverse spedizioni dirette alle Terre Perdute ogni anno, per g
 Città importante del [[Il mondo conosciuto#Regno di Kaberia|Regno di Kaberia]], altresì nota come _il granaio di Kaberia_ per l'ingente produzione ed esportazione di beni agricoli quali cereali e grano.
 
 Vanta una buona accademia per fanteria ed operatori di artiglieria, anche se spesso è ignorata a favore di quella presente nella non lontana città di [[Il mondo conosciuto#Lomvik|Lomvik]], con cui Eincote mantiene comunque ottimi rapporti commerciali.
+
+# Sacro Regno di Senveriman
+<img src="https://i.pinimg.com/originals/53/04/6b/53046b6eb09aaa175242bad2b51b33a0.jpg" alt="Senveriman" width="200"/> 
