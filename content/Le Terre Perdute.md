@@ -122,8 +122,9 @@ Non sono ancora state esplorate, ma dalla fattura nanica delle decorazioni di al
 
 
 ## Rupi Urlanti
-<img align="right" width="240" src="https://i.pinimg.com/originals/2a/d3/26/2ad32641e1f3723649c6fbeddabeca79.jpg"> 
-Ad Est dei [[Le Terre Perdute#Picchi Argentati|Picchi Argentati]], fino a raggiungere la costa del Mare Interno, a Nord di [Approdo](#approdo) e dei [[Le Terre Perdute#Poggi Dorati|Poggi Dorati]], stanno le Rupi Urlanti.  
+<img align="right" width="240" src="https://i.pinimg.com/originals/2a/d3/26/2ad32641e1f3723649c6fbeddabeca79.jpg">
+
+Ad Est dei Picchi Argentati, fino a raggiungere la costa del Mare Interno, a Nord di [[Approdo]] e dei Poggi Dorati, stanno le Rupi Urlanti.  
 
 Chiamate così a causa del rumore che le caratterizza, che non è mai stato appurato provenire dal vento che le attraversa o da effettiva urla lancinanti.
 

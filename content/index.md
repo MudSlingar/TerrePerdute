@@ -5,8 +5,8 @@
 Questo sito è una rielaborazione della repository github per una più facile lettura della wiki, e per me un più semplice aggiornamento dei dati della campagna.
 Se volete aggiungere qualcosa contattate un master sul discord ed inviategli quello che volete inserire nella wiki.
 
-Consiglio di seguire uno di questi link utili:
-
+---
+## Pagine Utili
 [[Guida-alla-campagna.pdf|Guida alla Campagna]] per il file con tutte le indicazioni utili per iniziare
 
 [[Approdo]] per la descrizione della città
@@ -30,3 +30,9 @@ Consiglio di seguire uno di questi link utili:
 [[Calendario]] per la descrizione approfondita della scansione del tempo nelle Terre Perdute e Conosciute, con tanto di simbologia astrologica associata.
 
 [[Il mondo conosciuto]] per la descrizione dei luoghi abbandonati dai personaggi salpati per le terre perdute
+
+---
+## Funzioni da implementare
+[[Mappa Interattiva]], con visualizzazione alla mo' di Google Maps, richiede l'implementazione di plugin di obsidian su Quartz, quindi potrebbe richiedere tempo
+
+[[Fonts]] 

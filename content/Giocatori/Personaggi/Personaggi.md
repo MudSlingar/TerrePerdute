@@ -20,7 +20,7 @@ Lista dei personaggi giocanti in ordine alfabetico:
 
 [[Ñihöl]]
 
-[[Niull]]
+[[Nyul]]
 
 [[Rose]]
 
