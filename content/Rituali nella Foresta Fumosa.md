@@ -23,7 +23,7 @@ Recentemente il modus operandi dei cervi è vistosamente cambiato: portano creat
 A seguito delle analisi effettuate dal gruppo durante la [[Diario Avventure#Sessione 17|missione per studiare gli avvenimenti nella foresta]], si è capito che la statua riceve sacrifici di sangue, assorbendolo in un area che comprende l'intero spazio all'interno della struttura monolitica.
 
 ## Effetti
-I cervi della foresta sembrano essere sotto effetto di una potente magia necromantica che ne anima le spoglie così che effettuino per conto della statua ulteriori sacrifici di sangue. <img src="https://i.pinimg.com/736x/dd/0d/80/dd0d8012704eeffc0bffd94371a48c19.jpg" width=250 align=right alt="Cervo glabro ed affamato"> 
+I cervi della foresta sembrano essere sotto effetto di una potente magia necromantica che ne anima le spoglie così che effettuino per conto della statua ulteriori sacrifici di sangue. <img src="https://i.pinimg.com/enabled/564x/7a/e5/79/7ae57984aa423732c1b530e67e55116e.jpg" width=220 align=right alt="Cervi affamati"> 
 
 C'è un evidente legame tra la **statua del cervo** ed il **tempio di pietra**.
 
