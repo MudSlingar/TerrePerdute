@@ -19,6 +19,7 @@ const config: QuartzConfig = {
     baseUrl: "mudslingar.github.io/TerrePerdute",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
       fontOrigin: "local",
       cdnCaching: true,
