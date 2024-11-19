@@ -13,6 +13,11 @@ L'unica famiglia nobiliare di cui è conosciuto il nome al momento è quella deg
 Ha una forte struttura militare, e l'esercito è impegnato in una guerriglia contro delle tribù ad Ovest per il controllo di risorse minerarie presenti sulle montagne.
 Al confine Sud è presente un campo militare stanziale, sotto il comando del Capitano [[Dagfinn Bjiorgen]].
 
+## Religione
+La religione sembra essere una versione alternativa del Culto del Dio del Sole per com'è descritto nel [[Libro Dorato]].
+Questa fede sembra essere un fattore onnicomprensivo della cultura di Zeogon, nonché l'unica fede fin'ora vista essere seguita entro i suoi confini.
+Le funzioni sono svolte da due figure, il **Corvo** e la **Scolopendra**, il primo incaricato di interfacciarsi con i fedeli e fare salmi, la seconda di eseguire rituali, che alcuni avventurieri hanno scoperto essere a volte anche sanguinolenti e dolorosi provandoli sulla propria pelle.
+
 ## Altre informazioni
 Sul versante Nord dei [[Le Terre Perdute#Picchi Argentati|picchi argentati]] sono stanziati temporaneamente i [[Cacciatori di Zeogon#V Cacciatore Ettin|cacciatori Shimin e Lanliss]], che sono a caccia del drago di cui si sono sentite storie anche nei territori di Approdo.
 Nel campo di Dagfinn era stanziato [[Cacciatori di Zeogon#IX Cacciatore Kikimora|Kikimora]], il fu nono cacciatore di Zeogon, ucciso per mano della manticora [[Tevgimund]].

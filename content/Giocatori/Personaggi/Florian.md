@@ -13,7 +13,7 @@ Nelle sue successive avventure nelle [[Le Terre Perdute|Terre Perdute]] ha conos
 
 Recentemente ha partecipato ad un'altra [[Diario Avventure#Sessione 16|missione nelle miniere]], scendendo ancora più in profondità.
 Durante quest'ultima avventura ha avuto modo di studiare [[Zavis]] e [[Jeriko]] in azione.
-Considera la prima un'attenta osservatrice, dalle ottime competenze mediche, quindi un elemento essenziale in un gruppo di cercatori di fortuna, ed il secondo come un'arrogante caricatura di un militare, che antepone il proprio orgoglio alla sicurezza dei propri compagni e della riuscita della missione, ed è sopravvissuto fin'ora di sicuro per sfacciata fortuna più che strategia o competenza.
+Considera la prima un'attenta osservatrice, dalle ottime competenze mediche, quindi un elemento utile in un gruppo di cercatori di fortuna, ed il secondo un arrogante, che antepone il proprio orgoglio alla sicurezza dei propri compagni e della riuscita della missione, perciò dubita delle sue capacità militari, in particolare per quanto si tratta di guidare un gruppo, pur rispettando la sua competenza marziale. 
 
 Le considerazioni su Jeriko sono certamente dovute alla formazione militare di Florian a [[Il mondo conosciuto#Regno di Kaberia|Kaberia]], dove gli è stato insegnato che portare a termine i propri incarichi in maniera intelligente e scorrevole, senza spargimenti di sangue ed impiegando al meglio sinergisticamente le competenze della propria squadra è la capacità che distingue un buon ufficiale da uno che causerà danni alla propria causa, persona, o cerchia. 
 

@@ -6,3 +6,5 @@ umano, maschio, fratello gemello di [[Shimin Xiloshent]], con cui condivide il t
 Sembra abile a costruire rifugi e ripari con le risorse presenti in natura.
 
 Utilizza un'arma ottenuta dalla coda di una particolare manticora, una specie di piccone dalla punta avvelenata.
+
+Ha raggiunto [[Approdo]] recentemente e sta passando buona parte delle sue giornate da [[Olafur]].

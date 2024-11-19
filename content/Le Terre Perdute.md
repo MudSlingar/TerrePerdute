@@ -110,9 +110,17 @@ Sembrano avere interesse a raccogliere il _ferro freddo_ dalle radici della mont
 
 Durante la [[Diario Avventure#Sessione 7|spedizione a caccia di coboldi]] l'insediamento identificato nella [[Diario Avventure#Sessione 2|prima spedizione sui Picchi Argentati]] è stato completamente distrutto.
 
-Nell'insediamento, come punti interessanti rimangono:
-1. _Portone d'Argento con bassorilievi dei segni zodiacali ed un Drago che riposa nell'erba, tra la quale è anche raffigurato un rospo_ 
-2. _Portone di fattura nanica da cui escono dei carretti da miniera, chiuso, che discende nelle profondità delle montagne verso le miniere_
+### Portone Argentato del Drago
+<img src="https://i.pinimg.com/736x/2c/0b/02/2c0b024d2614f8afe5f19a9e75787754.jpg" align=right width=250> Un grande portone di Argento con la raffigurazione in bassorilievo di un Drago che dorme affianco ad uno stagno al cui bordo gracida un rospo.
+
+Sopra l'illustrazione sono disposti in semicerchio i simboli dei [[Calendario|mesi dell'anno]], anch'essi in bassorilievo, però su pulsanti che se premuti tutti possono o aprire il portone o trasformare in rospo per una settimana chiunque sbagli la combinazione.
+
+L'ipotesi attuale è che il portone e tutto l'incantamento della roccia circostante serva ad imprigionare il drago che tempo addietro rapì la statua di Re Hewerald per portarla poi nelle Rupi Urlanti.
+
+È stato anche recentemente scoperto il collegamento tra questo drago e [[Le Terre Perdute#Impero Nanico|l'Impero Nanico]] che si sviluppa in profondità nella montagna.
+
+### Portone Nanico
+Porta alle Miniere, descritte qui sotto
 
 ## Miniere
 <img src="https://i.pinimg.com/564x/19/4a/56/194a565d27d3ccd057a586b890a14753.jpg" align=left width=250>Oltre il covo dei coboldi si addentrano nelle profondità dei Picchi Argentati delle miniere di antica fattura nanica.
@@ -120,6 +128,10 @@ Un gruppo di coboldi sopravvissuti, che si nominava la resistenza, viveva all'in
 
 Non sono ancora state esplorate, ma dalla fattura nanica delle decorazioni di alcune delle caverne abitate dai coboldi e del portone che separa le miniere dal resto della montagna, si presume che dei nani vivessero nei Picchi Argentati.
 
+## Impero Nanico
+Sotto le [[Le Terre Perdute#Miniere|miniere]] è stato scoperto un intero impero di Nani, che fin'ora hanno vissuto in quasi totale isolazione, se non per alcuni commerci con [[Zeogon]].
+
+Hanno una leggenda che parla di una creatura umanoide di pietra, il **Fielgud**, che sarebbe la montagna incarnata, e vedono in [[Urthu]] questa figura leggendaria, quindi hanno concesso l'accesso al loro impero agli [[Personaggi|Avventurieri]] di [[Approdo]].
 
 ## Rupi Urlanti
 <img align="right" width="240" src="https://i.pinimg.com/originals/2a/d3/26/2ad32641e1f3723649c6fbeddabeca79.jpg">

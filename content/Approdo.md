@@ -129,6 +129,12 @@ _Tabella: Prezzo dei Cavalli provenienti dal Mondo Conosciuto_
 | 5 | 45 | 9 |
 | 10 | 75 | 7,5 |
 | 20 | 110 | 5,5 |
+## Ambasciata di Zeogon
+Una grande casa nella città vecchia, il quartiere centrale di Approdo, è stata rimodernata nel giro di due giorni dall'arrivo di [[Natenoel]], l'ambasciatrice di [[Zeogon]] ad Approdo.
+
+Adesso, dotata di finestre di vetro decorate, un portone laccato di rosso sopra cui svetta la bandiera di Zeogon ed una targa d'oro all'ingresso che indica in grandi caratteri neri la funzione dell'edificio, l'ambasciata è aperta, e chiunque può chiedere appuntamento facendo scivolare una richiesta firmata sotto la porta.
+
+Per ora nessuno ha visitato l'ambasciata, quindi com'è all'interno o che tipo di accoglienza sia riservata ai visitatori è ignoto.
 
 ## Guardia Cittadina
 <img src="https://i.pinimg.com/736x/12/8b/ea/128beae66c8fe2b900f1ace68c1fc5d5.jpg" align=left width=250> È insignito da [[Ephret Bulgakov]] un Capitano della Guardia.
