@@ -1,0 +1,2 @@
+#PC 
+![[bhar.jpeg]]
