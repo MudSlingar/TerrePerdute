@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: Benvenuti nelle Terre Perdute
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Al momento questa pagina di ingresso è rotta, ma puoi navigare tutto il resto del sito con il menu alla tua sinistra o il grafico a ragnatela.
+
+Spero non causi troppi problemi la cosa,
+
+Mudslinger

@@ -21,9 +21,9 @@ const config: QuartzConfig = {
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
-      cdnCaching: true,
+      cdnCaching: false,
       typography: {
-         header: "Crimson Text<",
+         header: "Crimson Text",
          body: "Crimson Text",
          code: "Inconsolata",
        },
