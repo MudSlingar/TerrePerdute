@@ -5,7 +5,7 @@
 /* --------------------------------------- */
 /* CUSTOM FONT TRY: DELETE IF SITE CRASHES */
 /* --------------------------------------- */
- @font-face {
+@font-face {
      font-family: 'HamletOrNot';
      src: local('HamletOrNot.tff') format('tff') url('https://github.com/MudSlingar/TerrePerdute/blob/v4/quartz/static/fonts/HamletOrNot.ttf');
      font-weight: normal;
@@ -29,8 +29,8 @@
 
  :root {
    --font-header:'HamletOrNot';
-   --font-body: 'Kelvinch';
-   --font-code: 'Jupiteroid';
+   --font-body:'Kelvinch';
+   --font-code:'Jupiteroid';
  }
   
 /* -------------------------------------- */
