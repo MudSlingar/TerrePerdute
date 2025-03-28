@@ -23,7 +23,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-         header: "Pangolin",
+         header: "Crimson Text<",
          body: "Crimson Text",
          code: "Inconsolata",
        },
