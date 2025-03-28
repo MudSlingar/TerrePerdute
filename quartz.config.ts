@@ -20,7 +20,7 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
-      //fontOrigin: "local",
+      fontOrigin: "Google Fonts",
       cdnCaching: true,
       typography: {
          header: "Pangolin",
