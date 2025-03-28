@@ -22,11 +22,11 @@ const config: QuartzConfig = {
     theme: {
       fontOrigin: "local",
       cdnCaching: true,
-      typography: {
-         header: "Pangolin",
-         body: "Crimson Text",
-         code: "Inconsolata",
-       },
+      //typography: {
+        // header: "Pangolin",
+         //body: "Crimson Text",
+         //code: "Inconsolata",
+       //},
       colors: {
         lightMode: {
           light: "#E8EFEF",
