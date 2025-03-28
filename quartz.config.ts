@@ -23,9 +23,9 @@ const config: QuartzConfig = {
       fontOrigin: "local",
       cdnCaching: true,
       typography: {
-         header: "HamletOrNot",  //"Pangolin",
-         body: "Kelvinch",       //"Crimson Text",
-         code: "Jupiteroid",     //"Inconsolata",
+         header: "Pangolin",
+         body: "Crimson Text",
+         code: "Inconsolata",
        },
       colors: {
         lightMode: {
