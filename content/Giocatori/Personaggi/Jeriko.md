@@ -1,4 +1,8 @@
-#PC 
+---
+tags:
+  - PC
+---
+
 
  ![[jeriko.jpeg]] Jeriko è un mezzelfo giovane, 27 anni da poco. Tra gli avventurieri giunti ad approdo salta subito all'occhio per il suo aspetto statuario, è poco sotto i 2m e non ha ereditato i tratti fini del suo sangue elfico. Il suo infatti è un fisico statuario, scolpito e curato in ogni dettaglio. I capelli cortissimi neri e la barba curata e corta svelano una maniacale attenzione all'aspetto. 
 

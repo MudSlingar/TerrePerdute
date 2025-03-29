@@ -2,5 +2,4 @@
 tags:
   - PC
 ---
-![[Nihol.png]]
-
+Barbiere di Approdo

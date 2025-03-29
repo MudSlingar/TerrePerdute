@@ -1,6 +1,11 @@
+> [!Abstract] Abstract
 > Questa è una funzione ancora non implementata a dovere nel sito. Questa pagina spiega qual'è il progetto per implementarla.
 > 
 > Se avete suggerimenti per font, ne trovate di utilizzabili su Google Fonts o avete la soluzione al problema scrivetemi.
+
+> [!bug] BUG NOTI
+> Non sono caricati nella versione online i font installabili localmente
+> Sono utilizzabili i font Google sono con Google dns disattivato, allungando leggermente i tempi di caricamento (non penso sia un grosso problema)
 
 Vorrei inserire font personalizzati nel sito, ma per adesso sono riuscito a farlo solo nella build locale del sito. Vorrei riuscire a fare apparire il sito così anche su altri dispositivi, ma sto avendo problemi.
 
@@ -29,10 +34,10 @@ Ho selezionato i seguenti font per ora:
 ![[Selection_007.png]]
 
 ---
-## Prova
-
-Se volete provare a visualizzare il sito con i font potete installare i font sul vostro computer:
-1. Apri i link ai font presenti nel paragrafo [[Fonts#Implementazione]]
-2. Scarica i file `.tff` o `.otf`
-3. Clicka col destro ed installa i file sul tuo user (potrai usare il font anche su word o altre applicazioni una volta installato)
-4. Ricarica la pagina del sito
+>[!question] Prova
+>
+>Se volete provare a visualizzare il sito con i font potete installare i font sul vostro computer:
+>1. Apri i link ai font presenti nel paragrafo [[Fonts#Implementazione]]
+>2. carica i file `.tff` o `.otf`
+>3. cka col destro ed installa i file sul tuo user (potrai usare il font anche su word o altre applicazioni una volta installato)
+>4. ica la pagina del sito

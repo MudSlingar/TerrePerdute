@@ -1,5 +1,7 @@
-#PC 
-
+---
+tags:
+  - PC
+---
 <img width="350" src="https://i.pinimg.com/736x/a3/e2/05/a3e2050c5175f0ec8f5c1a47cdd8afeb.jpg" align=left> Urthu Gorn, umano con ascendenza Oread (elementale della terra) per parte di madre. 
 
 Ha un fisico compatto e slanciato, lineamenti squadrati, pelle somigliante a grigia pietra e capelli che ricordano cristalli azzurrati. 

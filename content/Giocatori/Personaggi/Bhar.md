@@ -1,2 +1,5 @@
-#PC 
+---
+tags:
+  - PC
+---
 ![[bhar.jpeg]]

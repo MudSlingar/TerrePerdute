@@ -1,7 +1,10 @@
+> [!Abstract] Abstract 
 > Questa è una funzione ancora non attiva per il sito, che servirà a mostrare la mappa in maniera interattiva, con indicatori che linkano alle pagine o sezioni correlate alla zona della mappa.
 > 
 > Se avete soluzioni ai problemi che descrivo scrivetemi.
 
+> [!failure] Problema
+> Implementare il plugin **Leaflet** su Github Pages tramite Quartz 4
 ## Implementazione
 Al momento non è funzionante perché per esserlo è necessario visualizzare il file markdown presente nel [[Mappa Interattiva#Codice Implementazione|codice]] che si può vedere di seguito con il plugin di markdown "Leaflet", che non è ancora implementato nella trasformazione dei file markdown in html statico tramite Quartz 4.0
 
@@ -13,13 +16,12 @@ _La mappa apparirà così, con indicatori sui vari luoghi di interesse. Potrà e
 _Quando il cursore è sopra un indicatore si apre un popup della pagina linkata, e se clickato apre la pagina._
 
 ---
-## Prova
-Se qualcuno fosse interessato a visualizzare la mappa in maniera interattiva può farlo in questo modo:
-1. Clonando la repo con `git clone git@github.com:MudSlingar/TerrePerdute.git` 
-2. Creando una vault nella cartella della repository appena clonata
-3. Attivando il plugin "Leaflet" nella sezione "community plugins" di Obsidian `Per farlo vai su Impostazioni>Community Plugins>Turn On Community Plugins; poi Browse Community Plugins>Leaflet`
-4. Aprendo [[Mappa Interattiva|questo file]] con [Obsidian](https://obsidian.md/)
-
+> [!question] Prova
+Se qualcuno fosse interessato a visualizzare la mappa in maniera interattiva può farlo in questo modo: 
+> 1. Clonando la repo con `git clone git@github.com:MudSlingar/TerrePerdute.git` 
+> 2. Creando una vault nella cartella della repository appena clonata 
+> 3. 3.2. tivando il plugin "Leaflet" nella sezione "community plugins" di Obsidian `Per farlo vai su Impostazioni>Community Plugins>Turn On Community Plugins; poi Browse Community Plugins>Leaflet`
+> 4. 4.3. rendo [[Mappa Interattiva|questo file]] con [Obsidian](https://obsidian.md/)
 ---
 ## Codice Implementazione
 Segue il codice utilizzato per implementare questa funzione in locale:

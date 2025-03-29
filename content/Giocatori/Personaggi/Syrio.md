@@ -1,5 +1,8 @@
-#PC 
-
+---
+tags:
+  - PC
+  - approdo
+---
 ![[syrio2.jpg]]
 Kitsune, 18 anni.
 

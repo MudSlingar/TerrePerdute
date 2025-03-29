@@ -1,4 +1,8 @@
-#PC 
+---
+tags:
+  - PC
+---
+
 <img src="https://i.pinimg.com/originals/88/62/fa/8862fac0621c069f58dd468a31275b48.jpg" align=left width="350"> Umano, 20 anni
 
 Florian è un giovane bardo da poco arrivato ad [[Approdo]], dove spesso suona il liuto o racconta storie al [[Approdo#Il corvo di coffa|Corvo di Coffa]].

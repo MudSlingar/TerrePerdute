@@ -1,4 +1,8 @@
-#oggetto #magico
+---
+tags:
+  - oggetto
+  - magico
+---
 <img src="https://i.pinimg.com/564x/22/1d/ac/221dac6615d8b4f34bfd31e268ff858e.jpg" width=400 align=left> In passato proprietà di [[Tevgimund]] la manticora, adesso nelle mani degli [[Personaggi|avventurieri]], l'amuleto delle illusioni è un potente oggetto magico che permette il lancio di una selezionata lista di incantesimi di illusione.
 
 Appare come un pendente dorato della dimensione di una mano aperta, decorato uno smeraldo incastonato sopra il bassorilievo di un occhio aperto le cui ciglia, alla mo di raggi, arrivano fino al bordo dell'amuleto.

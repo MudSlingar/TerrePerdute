@@ -275,7 +275,7 @@ Ah giusto, mi stavo quasi dimenticando, se qualcuno dovesse voler visitare i nan
 
 **Data:** 14/11/2024 
 
-**Partecipanti:** Aelis, Baerram, Nyul, Guglielmo Sparapozzi 
+**Partecipanti:** [[Aelis]], [[Baerram]], [[Nyul]], [[Guglielmo Sparapozzi]] 
 
 **Obiettivo:** Ampliare l'esplorazione della Foresta Fumosa ad ovest del tempio _Seduta sola ad un tavolo del Corvo, penna alla mano, Aelis è presa dalla scrittura di qualcosa su di un foglio._ "Caro professore, il viaggio, per quanto la comodità della vita su di una nave rimanga precaria e la compagnia di marinai sia alquanto rumorosa, è stato di ristoro: dopo mesi di continuo studio, nonostante non me ne sia rimasta con le mani in mano, è stato come concedersi una vacanza, anche se non ci troviamo propriamente in stagione. Quelle che circolano al Principato si sono dimostrate essere non solo voci di corridoio: per quanto questa cittadina sia modesta, l'attività al suo interno si è rivelata essere più dinamica di quello che si pensi. Ormai ogni settimana partono spedizioni di avventurieri ed esploratori per scovare i misteri che queste terre vi nascondono. La sera stessa del mio arrivo ho avuto modo di inserirmi in una di queste per addentrarci nelle zone inesplorate della Foresta Fumosa. Ho sentito voci di antichi poteri che risiedono in questo luogo, ma dovrei indagare meglio sulla questione. Ebbene mi sono messa in viaggio, con dei personaggi che a definirli bizzarri sarebbe una riduzione. Con me da Approdo sono partiti un nano mezzelfo, tale Baerram, e Nyul. Il primo sembrerebbe un uomo di ventura, porta in spalla un falco e pare navigato in natura; il secondo è un coniglio umanoide vestito strambamente con una pesante armatura. Se la compagnia non fosse già abbastanza particolare, in cammino si è aggiunto alla spedizione anche un paffuto e pelato signore in cerca del suo gatto, un certo Guglielmo, rivelatosi essere il barbiere di Approdo. Dopo aver sostato nel neonato villaggio di Dorina, vassallo di Approdo, e goduto dell'ospitalità degli abitanti per la notte, abbiamo ripreso il cammino.
 
@@ -284,7 +284,7 @@ La foresta si presenta inizialmente molto semplice da attraversare. Tuttavia, pr
  
 **Data**: 22/11/2024 
 
-**Partecipanti**: Jeriko, Ghè, Syrio, Bhar 
+**Partecipanti**: [[Jeriko]], [[Ghé]], [[Syrio]], [[Bhar]] 
 
 **Obiettivo**: Esplorazione delle saline 
 
@@ -297,7 +297,7 @@ Un mostro gigantesco che stava attaccando una nave con dei marinai a bordo. Ho p
    
 **Data**: 29/11/2024 
 
-**Partecipanti**: Baerram, Gemini, Elyraine, Nihöl, Nyull. 
+**Partecipanti**: [[Baerram]], [[Gemini]], [[Elyraine]], [[Ñihöl]], [[Nyul]]. 
 **Obbiettivo**: Consegna per l'ambasciatrice di Zeog. 
 
 Beh ragazzi, credo di aver capito che non siamo capaci di portare a termine semplici commissioni senza rischiare la prigione. Eravamo partiti su richiesta dell'ambasciatrice per ritirare e riportarle un pacco da Zeog. Contro la mia volontà siamo tornati a fare un saluto ai nostri amici della chiesa oltre al confine, anche se questa volta nessuno di noi è stato costretto a seguire le loro strane preghiere. Arrivati a zeog abbiamo seguito la guida di Nihöl che prima ci ha portato in un bar di sua conoscenza (abbastanza sudicio se mi posso permettere, mi è mancato abbastanza questo posto) e poi alla casa delle guardie per riposare. Non son sicura del come o del perchè ma abbiamo dato inizio ad una bella scazzottata con le guardie, sicuramente non la nostra idea migliore, che è stata per fortuna interrotta da uno dei loro che ha riconosciuto Nihöl. Siamo quindi riusciti a raggiungere il principe che ci ha consegnato l'oro per l'ambasciatrice. A quanto pare gli servirà per un rituale magico che aprirà un collegamento permanente con approdo. Detto ciò io mi vado a fare una bevuta fatta per bene che credo di sentire ancora il sapore della roba che ho bevuto a Zeog .
@@ -305,7 +305,7 @@ Beh ragazzi, credo di aver capito che non siamo capaci di portare a termine semp
 
 **Data:** 5/12/2024 
 
-**Partecipanti**: Ghé, Elyraine, Nihöl, Grummar, Syrio. 
+**Partecipanti**: [[Ghé]], [[Elyraine]], [[Ñihöl]], [[Grummar]], [[Syrio]]. 
 
 **Obiettivo**: Salvare i marinai dall'isola. _al Corvo Nihöl racconta la sua grande impresa_
 
@@ -330,7 +330,7 @@ Beh ragazzi, credo di aver capito che non siamo capaci di portare a termine semp
 
 **Data:** 10/12/2024 
 
-**Partecipanti:** Urthu, Taylor, Grummar, Aelis, Reineche, Zavis. 
+**Partecipanti:** [[Urthu]], [[V. Taylor]], [[Grummar]], [[Aelis]], [[Reineche]], [[Zavis]]. 
 
 **Obiettivo:** Eliminare gli slime 
 
@@ -343,7 +343,7 @@ Ma la sorpresa più grande è stata quello che abbiamo trovato dietro il portone
    
 **Data:** 21/01/2025 
 
-**Partecipanti:** Aelis, Flórián, Grummar, Zavis, Zik. 
+**Partecipanti:** [[Aelis]], [[Florian]], [[Grummar]], [[Zavis]], [[Zik]]. 
 
 **Obiettivo:** Trovare i minatori e le guardie scomparse 
 
@@ -356,7 +356,7 @@ Io, io, racconto io! _Zik risponde saltellando entusiasta a chi domanda al grupp
   
 **Data**: 20/02/25
 
-**Partecipanti**: Jeriko, Zavis, Zik, Salek, Grummar, Bhar.
+**Partecipanti**: [[Jeriko]], [[Zavis]], [[Zik]], [[Salek]], [[Grummar]], [[Bhar]].
 
 **Obiettivo**: Cercare maggiori informazioni sui mutaforma nella zona est di Zeogon.
 
@@ -368,7 +368,7 @@ _Jeriko appoggia le armi a terra per essere più leggero e fissa negli occhi Fil
 
 **Data:** 6/03/2025 
 
-**Partecipanti:** Ghé, Istas, Jeriko, Nihöl, Salek, Syrio 
+**Partecipanti:** [[Ghé]], [[Istas]], [[Jeriko]], [[Ñihöl]], [[Salek]], [[Syrio]] 
 
 **Obiettivo:** Scortare la cercatrice d’oro verso la sorgente del fiume Napyguta 
 
@@ -386,7 +386,7 @@ Ci è stato tutto più chiaro quando il fumo della lampada svela illusioni di Je
 
 **Data: 13/03/25** 
 
-**Partecipanti: Rose, Elyraine, Zik, Kumo, Kaze** 
+**Partecipanti: [[Rose]], [[Elyraine]], [[Zik]], [[Kumo]], [[Kaze]]** 
 
 **Obiettivo: Controllare la situazione alla statua del cervo e alla voragine** 
 
@@ -398,7 +398,7 @@ Ritornando al corvo di coffa Rose si siede al bancone e chiede da bere, dopo ess
 
 **Data:** 25/03/25 
 
-**Partecipanti:** Istas, Ñihöl, Salek, Aelis, Jeriko 
+**Partecipanti:** [[Istas]], [[Ñihöl]], [[Salek]], [[Aelis]], [[Jeriko]] 
 
 **Obiettivo:** Aiutare i rattoidi a sconfiggere i ribelli 
 
