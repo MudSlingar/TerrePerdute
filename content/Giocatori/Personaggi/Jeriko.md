@@ -9,7 +9,7 @@ tags:
 Non nasconde il suo addestramento militare anche se chi ha combattuto assieme a lui ha potuto constatare le sue conoscenze arcane. Ha sul pettorale destro un tatuaggio molto fresco, fatto ad [[Approdo]].
 
 Jeriko è un soldato in missione, pronto a correre rischi per i compagni disposti a fare lo stesso per lui. Ma i suoi veri obbiettivi sono noti a pochi per ora…
-È riuscito a convincere il siniscalco Epret a nominarlo Generale della terza pattuglia verde delle guardie di Approdo.
+È riuscito a convincere il siniscalco [[Ephret Bulgakov]] a nominarlo Generale della terza pattuglia verde delle guardie di Approdo.
 Ha deciso di impegnarsi a scoprire che si cela all'interno della Città Sacra e risolvere i misteri legati alle saline, crede di poter trovare un collegamento con la sua fede.
 
 Rispetta molto [[Salek]] perché ha visto in lui una persona con degli ideali. È estremamente curioso di approfondire la conoscenza di [[Ghé]], vorrebbe capire che tipo di magia si trova davanti. È certo che [[Bhar]] sarà un ottimo compagno di battaglie. Si sta divertendo molto alle spalle di [[Zavis]] ma prima di rilassarsi ha bisogno di capire quanto si può fidare. Vorrebbe vedere ancora [[Elyraine]] combattere, ha un gran stile.
