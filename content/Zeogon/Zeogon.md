@@ -1,5 +1,8 @@
-#ambientazione #zeogon
-
+---
+tags:
+  - zeogon
+  - ambientazione
+---
 ## Informazioni generali
 <img src="https://i.pinimg.com/originals/e8/ae/54/e8ae5441cbf7052fb5e6f63df4ade313.jpg" align=left width=250> Territorio a Nord delle [[Le Terre Perdute#Rupi Urlanti|Rupi Urlanti]].
 Si tratta di una Contea, che fa riferimento ad un Regno di natura principalmente amministrativa la cui capitale è ancora più a Nord, in una penisola al centro del Mare Gelido.

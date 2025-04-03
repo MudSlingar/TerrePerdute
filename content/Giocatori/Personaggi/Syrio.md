@@ -17,5 +17,6 @@ Risaputo da tutti era il suo odio per [[Tevgimund]] la manticora, per la quale t
 
 Passando molto tempo all’Orizzonte ha potuto anche approfondire la conoscenza di [[Ghé]], che trova una persona molto gentile e degna di fiducia, anche se un po’ impacciata. Ha sempre avuto un occhio sospettoso nei confronti di [[Jeriko]], del quale non riesce a capirne le vere intenzioni; trova tuttavia piacevole la sua presenza. Apprezza molto la sincerità di [[Grummar]], nonostante egli gli appaia un tantinello diretto nelle situazioni. [[Urthu]] gli è sempre parso un po’ strano, sarà per la sua ossessione per i sassi e perché beve cenere. [[Zavis]] gli ha dato una bella impressione, la trova una persona di buon cuore. Considera [[Bhar]] un compagno molto leale. La serietà di [[Salek]] gli ricorda un po’ del suo mentore alla compagnia mercenaria, tuttavia lo considera troppo veloce a ricorrere alle armi, cosa che non vede di buon occhio. Non ha avuto molti contatti con [[Rose]] ed ancora non è riuscito a farsi un idea precisa di lei.
 
+È il proprietario del negozio [[Approdo#Kaboom|Kaboom]] ad [[Approdo]].
 # Precedenti illustrazioni di Syrio:
 ![[syrio.jpg]] 

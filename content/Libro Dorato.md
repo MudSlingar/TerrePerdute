@@ -1,4 +1,7 @@
-#ambientazione 
+---
+tags:
+  - ambientazione
+---
 > Queste sono alcune delle sacre scritture della Fede del Dio del Sole, altresì noto come **Il Serpente** o **l'Airone**. 
 > Sono in genere raccolte in piccoli volumi rilegati in pelle (i più preziosi in pelle di serpente), con impresso sulla copertina il simbolo del culto (la stella a tredici punte con uroboro).
 > La fede fa riferimento ad un'altra divinità parte del culto, anche se ad oggi considerata secondaria, **la Gazza** che presiede sulla luna e le stelle fisse.

@@ -1,9 +1,11 @@
 ---
 title: Benvenuti nelle Terre Perdute
 ---
+# Benvenuti nella Wiki di approdo!
 
-Al momento questa pagina di ingresso è rotta, ma puoi navigare tutto il resto del sito con il menu alla tua sinistra o il grafico a ragnatela.
+In cosa consiste questo progetto?
 
-Spero non causi troppi problemi la cosa,
+In una campagna in stile west marches, dove poter giocare senza limiti di gruppo o giornate predefinite.
 
-Mudslinger
+È spiegato tutto meglio nel file "Guida-alla-campagna", presente [[Guida-alla-campagna.pdf|qui]], fateci un salto.
+Se rimangono dei dubbi scrivetemi.
