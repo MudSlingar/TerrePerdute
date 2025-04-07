@@ -11,9 +11,10 @@ Non nasconde il suo addestramento militare, anche se chi ha combattuto con lui h
 
 Jeriko è un soldato in missione, pronto a correre rischi per i compagni disposti a fare lo stesso per lui. Nonostante l'affetto che mostra verso i suoi compagni, i suoi veri obiettivi sono noti a pochi, per ora…  
 È riuscito a convincere il siniscalco [[Ephret Bulgakov]] a nominarlo Sergente della terza pattuglia verde delle guardie di Approdo.  
-Durante l'ultimo **CONSIGLIO CITTADINO**, alla sua pattuglia è stato affidato l'incarico di scortare le carovane di minatori che partono da Dorina. A questo scopo, verrà anche ristrutturato un vecchio edificio che servirà da caserma. Alla pattuglia si è da poco unita anche [[Zik]].
+Durante l'ultimo **CONSIGLIO CITTADINO**, alla sua pattuglia è stato affidato l'incarico di scortare le carovane di minatori che partono da Dorina. A questo scopo, verrà anche ristrutturato un vecchio edificio nella periferia di [[Dorina|Dorina]] che servirà da caserma. Alla pattuglia si è da poco unita anche [[Zik]].
 
-Ha deciso di impegnarsi a scoprire cosa si cela all'interno della Città Sacra e a risolvere i misteri legati alle saline; crede di poter trovare un collegamento con la sua fede. Sta indagando attivamente sugli strani avvenimenti nella foresta.  
+Ha deciso di impegnarsi a scoprire cosa si cela all'interno della [[Le Terre Perdute#Città Sacra|Città Sacra]] e a risolvere i misteri legati alle [[Le Terre Perdute#Salina Rossa| Saline]]; crede di poter trovare un collegamento con la sua fede. Dopo l'avventura nella voragine è convinto di aver capito molto di più su dove cercare le risposte di cui ha bisogno.
+
 Ha partecipato alla spedizione della [[Diario Avventure#Sessione 28|cercatrice d'oro]]. In quell'occasione ha ucciso la cercatrice, credendola una spia di Zeogon. Anche per questo si fida molto poco di quel regno e preferirebbe che Approdo adottasse un atteggiamento più difensivo nella questione.
 
 Rispetta profondamente qualsiasi avventuriero abbia rischiato la vita al suo fianco e i suoi compagni più fidati sanno che possono sempre contare sul suo aiuto in missione.
@@ -24,6 +25,6 @@ Rispetta profondamente qualsiasi avventuriero abbia rischiato la vita al suo fia
 - Si sta divertendo molto alle spalle di [[Zavis]], ma prima di rilassarsi ha bisogno di capire quanto possa fidarsi.
 - Vorrebbe vedere ancora [[Elyraine]] combattere: ha un gran stile.
 - Inizia a fidarsi molto di [[Rose]], forse troppo. Si sta avvicinando a lei spinto soprattutto dalla curiosità.
-- Aveva inizialmente sottovalutato [[Syrio]] a causa della sua giovane età. Ora, invece, ama averlo al suo fianco in missione. Lo ha considerato ancora un po' immaturo quando hanno dovuto prendere decisioni difficili durante le spedizioni.
+- Aveva inizialmente sottovalutato [[Syrio]] a causa della sua giovane età. Ora, invece, ama averlo al suo fianco in missione. Dopo la spedizione nella voragine gli è molto più vicino.
 - Anche se non lo ammetterà mai, ha sentito su di sé il giudizio di [[Florian]] e spera di poterlo smentire nelle prossime avventure.
 
