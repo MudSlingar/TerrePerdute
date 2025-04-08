@@ -1,4 +1,7 @@
-#ambientazione 
+---
+tags:
+  - ambientazione
+---
 >Quanto segue è la struttura del calendario del mondo di gioco delle Terre Perdute. Questo vuole essere un mezzo utile a rendere l’ambientazione più viva e organica, tuttavia il suo uso deve essere tarato con cautela. 
 >Questa, come altre minuzie, non dovrebbe mai appesantire l’esperienza di gioco del master e dei giocatori, è utile nella misura in cui facilita l’immersione e la narrazione degli eventi, senza rendere affannoso o di difficile comprensione lo scorrere del tempo in gioco. 
 >Può essere quindi un ottimo spunto per collocare certi eventi nella linea temporale, tuttavia è sempre consigliato fornire dei punti di riferimento noti ai giocatori, come analogie con il nostro mondo per esempio. 

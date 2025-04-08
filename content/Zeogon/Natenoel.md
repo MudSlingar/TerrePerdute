@@ -1,4 +1,8 @@
-#zeogon #approdo 
+---
+tags:
+  - zeogon
+  - approdo
+---
 ![[Natenoel.jpg]]
 Umano, femmina
 

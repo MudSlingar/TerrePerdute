@@ -1,4 +1,9 @@
-#ambientazione #Dorina 
+---
+tags:
+  - ambientazione
+  - Dorina
+  - approdo
+---
 Il villaggio di Dorina, precedentemente noto come [[Le Terre Perdute#Villaggio dei Banditi|Villaggio dei Banditi]], è la nuova (nonché prima) frazione di [[Approdo]] all'interno delle [[Le Terre Perdute]].
 
 È situato tra la [[Le Terre Perdute#Foresta Fumosa|Foresta Fumosa]], le [[Le Terre Perdute#Rupi Urlanti|Rupi Urlanti]], i [[Le Terre Perdute#Picchi Argentati|Picchi Argentati]] ed i [[Le Terre Perdute#Poggi Dorati|Poggi Dorati]], una posizione particolarmente strategica data la sufficiente distanza da posti che rappresentino un pericolo per la popolazione civile.

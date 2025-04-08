@@ -1,5 +1,8 @@
-#ambientazione 
-
+---
+tags:
+  - ambientazione
+  - mappa
+---
 > Le Terre Perdute sono il territorio da esplorare nel corso della campagna.
 >
 > Ricordatevi di poter prendere spunto da qualunque descrizione di luogo per partire all'avventura, e che non tutti i posti potranno essere esplorati completamente al primo passaggio, dove una volta sorgeva un clan di coboldi potrebbero essersi insediati dei Duergar alla ricerca del cielo, o altro ancora.

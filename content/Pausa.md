@@ -1,5 +1,7 @@
-#regole
-
+---
+tags:
+  - regole
+---
 Tra un'avventura ed un'altra i personaggi potranno comunque interagire con il mondo di gioco.
 
 # Spese di vita

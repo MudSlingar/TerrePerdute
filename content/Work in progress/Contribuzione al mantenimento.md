@@ -17,7 +17,8 @@ Per arrivare a questo punto e poter caricare le proprie note Markdown su Github 
 > 2. Avere [git](https://git-scm.com/) installato sul computer
 > 3. Impostare il Github perché possa pubblicare con Quartz
 > 4. Aprire e modificare il contenuto desiderato con Obsidian
-> 5. Buildare la repository con Quartz
+> 5. OPZIONALE: Buildare la repository con Quartz
+> 6. Creare il proprio Branch su GitHub e pushare
 
 ## 1. Installare NodeJs
 Per farlo consiglio queste istruzioni: [askubuntu-Answer](https://askubuntu.com/questions/426750/how-can-i-update-my-nodejs-to-the-latest-version/1009527#1009527)
@@ -67,8 +68,27 @@ quartz build --serve     # buildare una versione LOCALE del sito
 quartz sync pull         # pullare gli update della repo
 quartz sync push         # pushare le vostre modifiche
 ```
-Una volta che avrete pushato delle modifiche non dovrebbero vedersi direttamente sul sito, ma solo a seguito di un'approvazione da parte degli amministratori della repo.
 
+> [!warning] Attenzione
+> Voi non potete usare semplicemente i comandi `quartz sync pull` e `quartz sync push` perché non essendo contributori approvati della repository dovete farlo tramite un branch secondario di GitHub.
+> Potete però usare `quartz build --serve` per visualizzare una versione locale del sito (una specie di bozza) al link [localhost:8080](https://localhost:8080) (penso, altrimenti ditemi qualcosa)
+## 6 Creare il proprio branch e pushare
+Tornando a git create e spostatevi su un vostro branch con il comando
+```
+git checkout -b <nome del branch che state creando>
+```
+mi raccomando non scrivete le partentesi angolate.
+Poi, come da utilizzo normale di git, committate e pushate con i comandi
+```
+git add --all          # aggiunge tutti i cambiamenti al commit
+git commit -m <descrizione dei cambiamenti che state apportando>
+git push origin <nome del vostro branch>
+```
+
+In tal modo io riceverò sia la notifica che la possibilità di controllare i vostri cambiamenti proposti ed applicarli al sito.
+
+> [!danger] Se non avete letto bene
+> Pushare il vostro branch non lo farà comparire sul sito, devo approvarlo affinché le modifiche si applichino al sito!
 # GRAZIE
 Se avete letto fin qua e non vi siete abbattuti di sicuro vi interessa davvero tanto aiutarmi in quest'impresa di gestire la campagna ed il sito.
 Se avete domande fatemele pure e vedrò di darvi una mano!

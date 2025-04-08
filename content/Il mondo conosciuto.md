@@ -1,5 +1,8 @@
-#ambientazione #mondo_conosciuto
-
+---
+tags:
+  - ambientazione
+  - mondo_conosciuto
+---
 > Le terre civilizzate non sono d'interesse per la nostra campagna, quindi ci terrei se venissero solamente citate come motivazione per scelte o caratteristiche dei vostri personaggi nei background.
 >
 > Ricordatevi che il mondo conosciuto è alle vostre spalle, e davanti a voi ci sono le Terre Perdute, ed è qui che i personaggi vivranno le loro avventure e si faranno un nome.
