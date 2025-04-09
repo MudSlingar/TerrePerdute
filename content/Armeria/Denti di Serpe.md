@@ -35,3 +35,6 @@ Attenzione: i Denti di Serpe sono descritti come un'arma, occupano due mani e co
 Con un sibilo i serprenti sul dorso delle tue mani rispondono al tuo richiamo, ricoprendo gli artigli di veleno.
 
 Applichi il [Veleno dei denti di serpe](https://2e.aonprd.com/Equipment.aspx?ID=3335) (funzionalmente di Scorpione Gigante) agli artigli.
+
+> [!warning] Incantamento Infuso
+> Le rune impresse su quest'arma non possono essere spostate su altri armamenti
