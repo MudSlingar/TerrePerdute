@@ -1,1 +1,6 @@
-#approdo 
+---
+tags:
+  - approdo
+  - mercante
+---
+![[olafur.jpeg]]

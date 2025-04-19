@@ -23,9 +23,9 @@ Sono _Denti di Serpe_ (vedere descrizione nella tabella sotto) [+2](https://2e.a
 
 Attenzione: i Denti di Serpe sono descritti come un'arma, occupano due mani e condividono le rune, ma funzionano come due armi separate impugnate in due mani durante il combattimento. Non è possibile indossare solo uno dei _Denti_, vanno indossati ed utilizzati in coppia. 
 
-| Tratti                                                                                                                                                                                              | Gruppo                                                   | Danni | Bulk | Mani | Tipo    | Categoria | Prezzo  |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ----- | ---- | ---- | ------- | --------- | ------- |
-| [Free-hand](https://2e.aonprd.com/Traits.aspx?ID=613&Redirected=1), [Agile](https://2e.aonprd.com/Traits.aspx?ID=526&Redirected=1) [Finesse](https://2e.aonprd.com/Traits.aspx?ID=602&Redirected=1) | [Brawling](https://2e.aonprd.com/WeaponGroups.aspx?ID=4) | 1d4   | L    | 2    | Mischia | Marziale  | 4590 mo |
+| Tratti                                                                                                                                                                                                          | Gruppo                                                   | Danni | Bulk | Mani | Tipo    | Categoria | Prezzo  |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ----- | ---- | ---- | ------- | --------- | ------- |
+| [Free-hand](https://2e.aonprd.com/Traits.aspx?ID=613&Redirected=1), [Agile](https://2e.aonprd.com/Traits.aspx?ID=526&Redirected=1) [Finesse](https://2e.aonprd.com/Traits.aspx?ID=602&Redirected=1) [Deadly d8] | [Brawling](https://2e.aonprd.com/WeaponGroups.aspx?ID=4) | 1d4   | L    | 2    | Mischia | Marziale  | 4590 mo |
 
 ## Secernere Veleno ◆
 **Tratti**: [Manipolare](https://2e.aonprd.com/Traits.aspx?ID=645)
@@ -36,5 +36,5 @@ Con un sibilo i serprenti sul dorso delle tue mani rispondono al tuo richiamo, r
 
 Applichi il [Veleno dei denti di serpe](https://2e.aonprd.com/Equipment.aspx?ID=3335) (funzionalmente di Scorpione Gigante) agli artigli.
 
-> [!warning] Incantamento Infuso
-> Le rune impresse su quest'arma non possono essere spostate su altri armamenti
+> [!warning] Venduto
+> Questo oggetto è stato venduto: se lo stai vedendo c'è un errore. Se lo stai cercando intenzionalmente esci da questa pagina.
