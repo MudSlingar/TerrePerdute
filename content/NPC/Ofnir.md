@@ -8,3 +8,6 @@ tags:
 Vive della gentilezza degli abitanti di approdo che sostengono lui e la chiesa, così da avere un posto tranquillo dove pregare.
 
 Tiene molto alla pace delle persone che visitano la chiesa, e sebbene non abbia quasi nulla non sembra interessato a soldi, ma soltanto alla felicità ed all'amore della gente che incontra.
+
+## Rituali
+Possono essere richiesti ad Ofnir i rituali indicati nella [[Chiesa di Approdo]].

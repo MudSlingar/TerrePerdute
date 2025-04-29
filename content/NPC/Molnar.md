@@ -15,3 +15,7 @@ Ha un cruccio con [[Ephret Bulgakov]], il sindaco di [[Approdo]], a causa dell'e
 È attualmente riconosciuto da [[Ephret Bulgakov]] ed [[Approdo]] come sindaco di [[Dorina]].
 
 <img src="https://i.pinimg.com/564x/ab/a3/ef/aba3ef7d100aae93ea27b2bc7dc65424.jpg" align=right width=250 alt="Giovani Molnar e Ferenc che si allenano"> _A destra: giovani Molnar e Ferenc che si allenano_
+
+## Rituali
+Molnar può effettuare il seguente rituale, gratuitamente, una volta per avventura, se si alloggia a Dorina:
+[Piatto di casa](https://2e.aonprd.com/Rituals.aspx?ID=169): permette di condividere un pasto incredibile, rivivendo le storie da mercenario di Molnar risalenti alla sua vita nelle [[Il mondo conosciuto|terre conosciute]]. 

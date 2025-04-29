@@ -14,6 +14,8 @@ Per il pernotto in taverna i personaggi dovranno spendere secondo questa tabella
 | Privata | 5 ma           | 35 ma               | 140 ma         |
 _:_ i prezzi per una settimana o un mese comprendono un pasto al giorno (con birra)*
 
+In alternativa fare riferimento alle informazioni della [[Gilda degli Avventurieri]].
+
 # Lavoro
 Durante il loro tempo ad Approdo i personaggi potranno lavorare, seguendo le [regole per la pausa](https://2e.aonprd.com/Skills.aspx?ID=21&General=true&Redirected=1).
 Potete fare riferimento a questa tabella per le prove ed il compenso giornaliero:
