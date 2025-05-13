@@ -3,6 +3,10 @@ tags:
   - approdo
   - ambientazione
 ---
+<audio controls>
+<source src="/media/music/ClaymoreOST28.wav" type="audio/wav">
+</audio>
+
 <img src="https://i.pinimg.com/736x/d5/ef/51/d5ef51912580606135c37abadb030933.jpg" align=left width=230> Ricavata da un quarto di galeone rimasto intero, dove la chiglia è la parete dell'ingresso, ed altre navi, il corvo di coffa svetta sulla città di Approdo grazie all'albero maestro ben conservato che si erge dal centro dell'edificio. Sulla coffa dell'albero è stata issata la polena del galeone, raffigurante il toponimo Corvo.
 All'interno le pareti di legno sono lustri ed il pavimento di pietra si abbina al pregiato bancone di marmo, che si dice sia stato ricavato da un antico altare recuperato dall'entroterra.
 Da dietro il bancone [[Denkar]], l'oste, gestisce gli ordini e serve da bere con fare bonario insieme a [[Rose]], ma si dice non si sia mai tirato indietro dal prendere per le orecchie e letteralmente buttare fuori gli avventori molesti.
