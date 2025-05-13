@@ -3,8 +3,11 @@ tags:
   - approdo
   - ambientazione
 ---
-<audio controls>
-<source src="/media/music/ClaymoreOST28.wav" type="audio/wav">
+> [!warning] Music Player non funziona
+> Semplicemente non c'è audio dentro da riprodurre
+<audio controls autoplay>
+<source src="" type="audio/ogg">
+<source src="" type="audio/mpeg">
 </audio>
 
 <img src="https://i.pinimg.com/736x/d5/ef/51/d5ef51912580606135c37abadb030933.jpg" align=left width=230> Ricavata da un quarto di galeone rimasto intero, dove la chiglia è la parete dell'ingresso, ed altre navi, il corvo di coffa svetta sulla città di Approdo grazie all'albero maestro ben conservato che si erge dal centro dell'edificio. Sulla coffa dell'albero è stata issata la polena del galeone, raffigurante il toponimo Corvo.
