@@ -1,11 +1,44 @@
 > [!Abstract] Abstract 
-> Questa è una funzione ancora non attiva per il sito, che servirà a mostrare la mappa in maniera interattiva, con indicatori che linkano alle pagine o sezioni correlate alla zona della mappa.
-> 
-> Se avete soluzioni ai problemi che descrivo scrivetemi.
+> Questa è una funzione parzialmente attiva per il sito, che permette di linkare sezioni della mappa alle corrispettive pagine.
+> Manca la possibilità di gestire la mappa in maniera interattiva, inserire marker ed ottenere preview dei contenuti.
+## Implementazione 1: HTML map
+È possibile impostare una "mappa" sovrapposta ad un'immagine in HTML. 
 
+Non presenta tutte le funzioni invece disponibili tramite Leaflet o Google Maps, come effettivi disegni, marker o simili, ma permette la creazione di link interni.
+
+Per adesso sto facendo riferimento a [questa guida](https://www.w3schools.com/html/html_images_imagemap.asp) di w3school sulla creazione di mappe in hmtl, e sembra star funzionando.
+### Come funziona
+Creiamo un'immagine sulla pagina con `<img src="qualcosa" opzionivarie>`, seguendo le indicazioni sull'[inserimento immagini in hmtl](https://www.w3schools.com/html/html_images.asp) 
+```
+<img src="link o percorso e nome immagine" [opzioni di formattamento dell'immagine]>
+```
+
+Inseriamo l'opzione `usemap="nomemappa"` all'interno della dichiarazione dell'immagine
+```
+<img src="link o percorso e nome immagine" [opzioni di formattamento dell'immagine] usemap="nomemappa">
+```
+
+> [!question] Coordinate ed unità di misura
+> Lo zero di entrambi gli assi è in alto a sinistra, con l'asse Y crescente verso il basso e l'asse X crescente verso destra.
+> Le misure sono date in pixel se non diversamente specificato.
+
+A seguire descriviamo effettivamente com'è fatta questa mappa, dove sono definite le sue aree e cosa succede quando vengono cliccate:
+```
+<map name="nomemappa">  
+  <area shape="rect" coords="34,44,270,350" href="pagina.html">  
+  <area shape="rect" coords="290,172,333,250" href="pagina2.html">  
+  <area shape="circle" coords="337,300,44" href="pagina3.html">  
+</map>
+```
+Nel caso di sopra sono definite:
+* una forma di rettangolo con il punto in alto a sinistra nelle coordinate (34, 44) e quello in basso a destra nelle coordinate (270, 350), che se cliccato porta a "pagina.html"
+* un'altra forma di rettangolo con diverse coordinate
+* una forma di cerchio con centro nelle coordinate (337, 300), di raggio 44, che porta a "pagina3.html"
+
+## Implementazione 2: Leaflet
 > [!failure] Problema
 > Implementare il plugin **Leaflet** su Github Pages tramite Quartz 4
-## Implementazione
+
 Al momento non è funzionante perché per esserlo è necessario visualizzare il file markdown presente nel [[Mappa Interattiva#Codice Implementazione|codice]] che si può vedere di seguito con il plugin di markdown "Leaflet", che non è ancora implementato nella trasformazione dei file markdown in html statico tramite Quartz 4.0
 
 Per adesso un paio di esempi per come apparirà:

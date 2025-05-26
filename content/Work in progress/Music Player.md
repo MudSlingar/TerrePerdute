@@ -1,6 +1,14 @@
 ---
 title: Music Player
 ---
+> [!abstract] Abstract
+> Funzione non attualmente implementata per il sito, dovrebbe permettere la riproduzione di audio su determinate pagine del sito tramite un semplice set di controlli.
+> Funziona su obsidian, non funziona né in locale né in distribuzione sul sito.
+
+> [!bug] Bug
+> Appare il set di controlli audio ma non viene caricato al suo interno nessun tipo di file audio, sebbene sia indicato nella sua implementazione.
+> È un problema della conversione a sito, perché su Obsidian funziona.
+
 Idealmente caricabile semplicemente con 
 ```
 <audio control autoplay loop>

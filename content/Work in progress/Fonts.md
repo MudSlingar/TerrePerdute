@@ -3,7 +3,7 @@
 > 
 > Se avete suggerimenti per font, ne trovate di utilizzabili su Google Fonts o avete la soluzione al problema scrivetemi.
 
-> [!bug] BUG NOTI
+> [!bug] Bug
 > Non sono caricati nella versione online i font installabili localmente
 > Sono utilizzabili i font Google sono con Google dns disattivato, allungando leggermente i tempi di caricamento (non penso sia un grosso problema)
 
