@@ -29,7 +29,6 @@ Eccezion fatta per gli appunti di [[Urthu]], qui riportati:
 	<area shape="rect" coords="60,50, 120,300" href="Le-Terre-Perdute.html#picchi-argentati">
 	<area shape="rect" coords="250,0, 350,40" href="Zeogon.html">
 </map>
-
 ### Luoghi noti e d'interesse
 Il fatto che non esistano mappe aggiornate o accurate non impedisce agli approdoni di sapere qualche informazione su ciò che si può trovare nelle vicinanze di Approdo, ed infatti le zone limitrofe sono indicativamente note per i pericoli che contengono, anche se prevalentemente inesplorate.
 
