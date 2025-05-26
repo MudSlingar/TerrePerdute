@@ -18,7 +18,16 @@ Per questo, nonostante il pericolo che rappresentano, diversi arditi intraprendo
 Eccezion fatta per gli appunti di [[Urthu]], qui riportati:
 
 <img src="https://i.pinimg.com/736x/c2/35/c5/c235c59a24f16cc7456952d36f1646ff.jpg" alt="TerrePerdute" usemap="#TerrePerdute">
-
+<map name="TerrePerdute">
+	<area shape="circle" coords="650, 240, 50" href="Il-mondo-conosciuto.html">
+	<area shape="circle" coords="550, 220, 30" href="Approdo.html">
+	<area shape="rect" coords="370,100, 550,240" href="Le-Terre-Perdute.html#poggi-dorati">
+	<area shape="rect" coords="100,50, 550,100" href="Le-Terre-Perdute.html#rupi-urlanti">
+	<area shape="rect" coords="130,130, 350,300" href="Le-Terre-Perdute.html#foresta-fumosa">
+	<area shape="rect" coords="150,300, 500,430" href="Le-Terre-Perdute.html#piana-striata">
+	<area shape="rect" coords="60,50, 120,300" href="Le-Terre-Perdute.html#picchi-argentati">
+	<area shape="rect" coords="250,0, 350,40" href="Zeogon.html">
+</map>
 ### Luoghi noti e d'interesse
 Il fatto che non esistano mappe aggiornate o accurate non impedisce agli approdoni di sapere qualche informazione su ciò che si può trovare nelle vicinanze di Approdo, ed infatti le zone limitrofe sono indicativamente note per i pericoli che contengono, anche se prevalentemente inesplorate.
 
