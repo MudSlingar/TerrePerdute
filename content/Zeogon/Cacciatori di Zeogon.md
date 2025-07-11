@@ -26,9 +26,9 @@ Dicono inoltre che i membri del III Cacciatore che hanno fallito in passato una 
 
 Sono armati con strumenti ottenuti dalle code di due manticore che cacciarono in passato.
 
-Sono attualmente alla ricerca del Drago che si dice viva sotto le montagne dei [[Le Terre Perdute#Picchi Argentati|Picchi Argentati]].
+Hanno cacciato il [[Ardirirth|Drago]] che si dice vivesse sotto le montagne dei [[Le Terre Perdute#Picchi Argentati|Picchi Argentati]].
 
-
+Attualmente la condizione dei due è dubbia, ma è decisamente fuori dalle loro opzioni proseguire in quanto cacciatori di Zeogon.
 # VI Cacciatore: Vodyanoy
 <img src="https://i.pinimg.com/564x/c8/bd/8a/c8bd8aa447875a8816917b1799737f3b.jpg" align=right width=250> Il Sesto cacciatore sembra essere esperta nella caccia di creature acquatiche. Attualmente è all'opera in un lago nelle zone Nord di Zeogon.
 
