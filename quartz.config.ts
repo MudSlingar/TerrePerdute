@@ -4,7 +4,7 @@ import * as Plugin from "./quartz/plugins"
 /**
  * Quartz 4 Configuration
  *
- * See https://quartz.jzhao.xyz/configuration for more information.
+ * See https://quartz.jzhao.xygoogleFontsz/configuration for more information.
  */
 const config: QuartzConfig = {
   configuration: {
@@ -21,11 +21,11 @@ const config: QuartzConfig = {
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
-      cdnCaching: false,
+      cdnCaching: true,
       typography: {
-         header: "Crimson Text",
-         body: "Crimson Text",
-         code: "Inconsolata",
+         header: "Almendra", // "HamletOrNot", 
+         body: "Montaga", //"Crimson Text", // "Kelvinch", 
+         code: "Inconsolata", // "Jupiteroid",
        },
       colors: {
         lightMode: {
