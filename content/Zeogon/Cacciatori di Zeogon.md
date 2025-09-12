@@ -5,7 +5,7 @@ tags:
   - NPC
   - cacciatore
 ---
-I cacciatori di [[Zeogon]] sembrano essere al di fuori della struttura di comando dell'esercito regolare, ed operano invece in maniera indipendente per cacciare singole bestie magiche o abberrazioni che causano problemi all'interno (o all'esterno) dei territori della contea.
+I cacciatori di [[Zeogon]] sembrano essere al di fuori della struttura di comando dell'esercito regolare, ed operano invece in maniera indipendente per cacciare singole bestie magiche o aberrazioni che causano problemi all'interno (o all'esterno) dei territori della contea.
 Ci sono 9 cacciatori contemporaneamente, anche se il titolo di cacciatore può essere condiviso anche da due o più persone.
 
 > Affianco ad ogni cacciatore di cui è noto il titolo è inserita un'immagine della creatura titolare
