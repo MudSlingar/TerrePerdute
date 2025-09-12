@@ -3,7 +3,7 @@ tags:
   - mappa
 ---
 
-Mappa recuperata durante la [[Diario Avventure#Sessione 8|Sessione 8]].
+Mappa recuperata durante la [[Sessione 8|Sessione 8]].
 Adesso riportata ad [[Approdo]].
 Indica una suddivisione della parte sud della [[Le Terre Perdute#Foresta Fumosa|Foresta Fumosa]].
 Un solo quadrante (a differenza dell'immagine qui riportata) non ha frecce che lo collegano alle altre zone, e sembra essere rimasto isolato.

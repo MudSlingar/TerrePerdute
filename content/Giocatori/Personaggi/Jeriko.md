@@ -12,9 +12,9 @@ Jeriko è un soldato in missione, pronto a correre rischi per i compagni dispost
 È riuscito a convincere il siniscalco [[Ephret Bulgakov]] a nominarlo Sergente della terza pattuglia verde delle guardie di Approdo.  
 Durante l'ultimo **CONSIGLIO CITTADINO**, alla sua pattuglia è stato affidato l'incarico di scortare le carovane di minatori che partono da Dorina. A questo scopo, verrà anche ristrutturato un vecchio edificio nella periferia di [[Dorina|Dorina]] che servirà da caserma. Alla pattuglia si è da poco unita anche [[Zik]].
 
-Ha deciso di impegnarsi a scoprire cosa si cela all'interno della [[Le Terre Perdute#Città Sacra|Città Sacra]] e a risolvere i misteri legati alle [[Le Terre Perdute#Salina Rossa| Saline]]; crede di poter trovare un collegamento con la sua fede. Dopo l'avventura nella voragine è convinto di aver capito molto di più su dove cercare le risposte di cui ha bisogno.
+Ha deciso di impegnarsi a scoprire cosa si cela all'interno della [[Le Terre Perdute#Città Sacra|Città Sacra]] e a risolvere i misteri legati alle [[Le Terre Perdute#Salina Rossa|Saline]]; crede di poter trovare un collegamento con la sua fede. Dopo l'avventura nella voragine è convinto di aver capito molto di più su dove cercare le risposte di cui ha bisogno.
 
-Ha partecipato alla spedizione della [[Diario Avventure#Sessione 28|cercatrice d'oro]]. In quell'occasione ha ucciso la cercatrice, credendola una spia di Zeogon. Anche per questo si fida molto poco di quel regno e preferirebbe che Approdo adottasse un atteggiamento più difensivo nella questione.
+Ha partecipato alla spedizione della [[Sessione 28|cercatrice d'oro]]. In quell'occasione ha ucciso la cercatrice, credendola una spia di Zeogon. Anche per questo si fida molto poco di quel regno e preferirebbe che Approdo adottasse un atteggiamento più difensivo nella questione.
 
 Rispetta profondamente qualsiasi avventuriero abbia rischiato la vita al suo fianco e i suoi compagni più fidati sanno che possono sempre contare sul suo aiuto in missione.
 

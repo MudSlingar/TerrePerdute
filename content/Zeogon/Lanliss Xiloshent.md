@@ -14,4 +14,4 @@ Utilizza un'arma ottenuta dalla coda di una particolare manticora, una specie di
 
 Ad [[Approdo]] ha passato buona parte delle sue giornate da [[Olafur]].
 
-Alla fine della [[Diario Avventure#Sessione 34|spedizione a caccia del drago]] ha fuso senza il suo consenso Shimin nel cranio della creatura tramite un rituale di natura simile a quelli utilizzati per creare le "beastgun" utilizzate da lui, Shimin e [[Syrio]], per poi sparire in volo sul drago non morto creato dal rituale, in direzione Sud. È attualmente ignota la sua ubicazione.
+Alla fine della [[Sessione 34|spedizione a caccia del drago]] ha fuso senza il suo consenso Shimin nel cranio della creatura tramite un rituale di natura simile a quelli utilizzati per creare le "beastgun" utilizzate da lui, Shimin e [[Syrio]], per poi sparire in volo sul drago non morto creato dal rituale, in direzione Sud. È attualmente ignota la sua ubicazione.

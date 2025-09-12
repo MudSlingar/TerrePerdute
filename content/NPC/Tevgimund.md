@@ -7,10 +7,10 @@ Controllava la zona delle [[Le Terre Perdute#Rupi Urlanti|Rupi Urlanti]], era in
 
 I suoi passatempi comprendevano colpire le truppe delle [[Le Terre Perdute#Pattuglie di confine della Contea di Zeogon|Pattuglie di confine di Zeogon]], uccidere [[Le Terre Perdute#Coboldi|Coboldi]] che si inoltrano troppo ad Est e di recente cacciare gli [[Gilda degli Avventurieri|avventurieri]].
 
-Nella [[Diario Avventure#Sessione 6|prima missione nelle rupi urlanti]] Tevgimund ha avuto due incontri diretti con gli avventurieri, rapendo [[Alexandr]] e portandolo nella sua tana come ostaggio. A causa di una sorprendente mossa di [[Syrio]] le contrattazioni con la manticora per stabilire una rotta commerciale diretta a Zeogon sono fallite.
+Nella [[Sessione 6|prima missione nelle rupi urlanti]] Tevgimund ha avuto due incontri diretti con gli avventurieri, rapendo [[Alexandr]] e portandolo nella sua tana come ostaggio. A causa di una sorprendente mossa di [[Syrio]] le contrattazioni con la manticora per stabilire una rotta commerciale diretta a Zeogon sono fallite.
 
 Per diverso tempo [[Syrio]] e Tevgimund si sono odiati e dati la caccia vicendevolmente.
 
 Nella sua [[Le Terre Perdute#Tana della Manticora Tevgimund|tana]] è stata trovata la [[Le Terre Perdute#Statue dei Re|Statua del re Hewerald]], usata da Tevgimund come posacenere. Sembra essere stata particolarmente affezionata a questo posacenere particolare. 
 
-È stata uccisa dal gruppo di avventurieri durante la [[Diario Avventure#Sessione # 13|spedizione a caccia di Tevgimund]], grazie anche al supporto di [[Zeogon]], richiesto da [[Veduco Koltz]], per cui è stata messa a disposizione una balista, costruita da una missione suicida di cui [[Ñihöl]] faceva parte.
+È stata uccisa dal gruppo di avventurieri durante la [[Sessione 13|spedizione a caccia di Tevgimund]], grazie anche al supporto di [[Zeogon]], richiesto da [[Veduco Koltz]], per cui è stata messa a disposizione una balista, costruita da una missione suicida di cui [[Ñihöl]] faceva parte.

@@ -10,7 +10,7 @@ draft: "true"
 
 
 # Denti di Serpe
-Fino alla [[Diario Avventure#Sessione 31|missione nel Tempio di Pietra]] utilizzati dalla [[Rituali nella Foresta Fumosa#Matriarca Serpe|Matriarca Serpe]] questi bracciali incantati possono secernere veleno a comando, rivelandosi estremamente letali.
+Fino alla [[Sessione 31|missione nel Tempio di Pietra]] utilizzati dalla [[Rituali nella Foresta Fumosa#Matriarca Serpe|Matriarca Serpe]] questi bracciali incantati possono secernere veleno a comando, rivelandosi estremamente letali.
 
 Dalla fattezza è chiaro siano stati creati magicamente tramite rituali alchemici e necromantici in modo tale da imporre un'eterna simil-vita a due vipere gemelle di una sottospecie ormai da tempo estinta, e chi dovesse aver dei dubbi può trovar conferma nello sguardo rancoroso dei serprenti, che in forma di parabraccia si avvinghiano lungo l'avambraccio dell'utilizzatore, terminando in appuntiti artigli dorati.
 

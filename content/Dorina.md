@@ -34,7 +34,7 @@ Quando è necessario fare spazio a molti ospiti questo è l'unico luogo che li p
 # Torre
 <img src="https://i.pinimg.com/originals/4e/d9/4e/4ed94ec7c09ba2d7d721c3785c3300b6.jpg" align=left width=350>
 _A lato: la torre per com'era prima delle ristrutturazioni_
-La Torre, nota con questo nome soprattutto perché non è necessario distinguerla da altre, è stata riparata dopo che il gruppo di avventurieri che ci sono entrati nel corso della [[Diario Avventure#Sessione 4|Sessione 4]] e l'hanno liberata dalla melma rugginosa che la infestava.
+La Torre, nota con questo nome soprattutto perché non è necessario distinguerla da altre, è stata riparata dopo che il gruppo di avventurieri che ci sono entrati nel corso della [[Sessione 4|Sessione 4]] e l'hanno liberata dalla melma rugginosa che la infestava.
 Al pian terreno c'è un segno di bruciatura impresso nella pietra, raffigurante un pentacolo, con tutta probabilità un tempo è stato utilizzato per richiamare un'entità da altri luoghi.
 Sopra la porzione diroccata della torre è stata costruita una tettoia in legno, e c'è sempre qualcuno a far da vedetta.
 Al momento non è noto per cosa venga utilizzato il sotterraneo della torre.

@@ -27,10 +27,10 @@ Nel campo di Dagfinn era stanziato [[Cacciatori di Zeogon#IX Cacciatore Kikimora
 
 ## Cronologia delle interazioni con Zeogon
 La sua guarnigione di confine sembra aver avuto problemi con [[Tevgimund]] a lungo.
-1. Un'armatura proveniente da Zeogon è stata ritrovata durante la [[Diario Avventure#Sessione 2|Sessione 2]], ed un'altra ancora è stata recuperata dalla guardia morta nella [[Diario Avventure#Sessione 6|Sessione 6]].
-2. [[Veduco Koltz]] in Ulfilas è un esploratore proveniente da Zeogon di nobili origini incontrato durante la [[Diario Avventure#Sessione 12|Sessione 12]]. È estremamente ben equipaggiato e parrebbe da quanto discusso con [[Filverel]] che sia accompagnato da un piccolo diavolo.
+1. Un'armatura proveniente da Zeogon è stata ritrovata durante la [[Sessione 2|Sessione 2]], ed un'altra ancora è stata recuperata dalla guardia morta nella [[Sessione 6|Sessione 6]].
+2. [[Veduco Koltz]] in Ulfilas è un esploratore proveniente da Zeogon di nobili origini incontrato durante la [[Sessione 12|Sessione 12]]. È estremamente ben equipaggiato e parrebbe da quanto discusso con [[Filverel]] che sia accompagnato da un piccolo diavolo.
 3. Tramite le sue trattative con [[Ephret Bulgakov]] sono state aggiunte 300 monete d'oro alla taglia su Tevgimund, anche se come saranno ripartite dal siniscalco ancora non è noto.
 4. Per la caccia alla manticora Veduco ha proposto di mettere a disposizione degli avventurieri una balista fornita dall'esercito di Zeogon.
 5. [[Ñihöl]] proviene da Zeogon, essendo stato membro della spedizione suicida che ha montato la balista per la caccia a [[Tevgimund]].
 6. È stato raccontato da [[Veduco Koltz]] che lo stemma appeso fuori dalla sua camera al Corvo di Coffa raffigura i simboli della contea di Zeogon: il serpente alato dorato in campo rosso e nero. 
-7. Durante la [[Diario Avventure#Sessione 15|sessione 15]] un gruppo di avventurieri si è inoltrato per la prima volta nei territori di Zeogon
+7. Durante la [[Sessione 15|sessione 15]] un gruppo di avventurieri si è inoltrato per la prima volta nei territori di Zeogon

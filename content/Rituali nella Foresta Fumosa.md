@@ -13,7 +13,7 @@ Sembra aver reagito ad una martellata di [[Grummar]] che è riuscita a scheggiar
 
 L'ultima volta che è stata osservata aveva un artiglio parzialmente fuori dall'ombra della struttura megalitica, e dove la luce toccava l'unghia questa non appariva più come fatta di pietra, ma giallastra e viva.
 
-Ora è scomparsa, la cosa è stata notata durante la [[Diario Avventure#Sessione 33|Sessione 33]], avvenuta dopo la sconfitta della matriarca serpe.
+Ora è scomparsa, la cosa è stata notata durante la [[Sessione 33|Sessione 33]], avvenuta dopo la sconfitta della matriarca serpe.
 ## Sacrifici
 I cervi della foresta presentavano un comportamento anomalo: da morti correvano verso la statua fino ad infilzarsi sui suoi artigli. Il loro sangue non sembrava colare per terra una volta sacrificati in questo modo.
 
@@ -21,7 +21,7 @@ Anche i goblin della foresta sembravano venerare questa figura, e svolgere sacri
 
 Poi il modus operandi dei cervi è vistosamente cambiato: portano creature della foresta fino alla statua per sacrificarle nello stesso modo in cui essi stessi lo facevano mesi addietro. Per portare sangue alla statua a volte tengono gli animali tra le fauci, altre li ingoiano interi o a pezzi.
 
-A seguito delle analisi effettuate dal gruppo durante la [[Diario Avventure#Sessione 17|missione per studiare gli avvenimenti nella foresta]], si è capito che la statua riceve sacrifici di sangue, assorbendolo in un area che comprende l'intero spazio all'interno della struttura monolitica.
+A seguito delle analisi effettuate dal gruppo durante la [[Sessione 17|missione per studiare gli avvenimenti nella foresta]], si è capito che la statua riceve sacrifici di sangue, assorbendolo in un area che comprende l'intero spazio all'interno della struttura monolitica.
 
 ## Effetti
 I cervi della foresta sembrano essere sotto effetto di una potente magia necromantica che ne anima le spoglie così che effettuino per conto della statua ulteriori sacrifici di sangue. <img src="https://i.pinimg.com/enabled/564x/7a/e5/79/7ae57984aa423732c1b530e67e55116e.jpg" width=220 align=right alt="Cervi affamati"> 
@@ -45,9 +45,9 @@ Non è stato raccontato molto altro se non di **non andarci**, e che sia molto p
 
 Sembra lei ad aver pietrificato gli avventurieri ora rimasti nella foresta come **resti pietrificati**.
 
-Le tavole di pietra recuperate dal [[Le Terre Perdute#Grande Albero|Grande Albero]] durante la [[Diario Avventure#Sessione 1|prima spedizione nelle terre perdute]] sembrano collegate alla sua storia.
+Le tavole di pietra recuperate dal [[Le Terre Perdute#Grande Albero|Grande Albero]] durante la [[Sessione 1|prima spedizione nelle terre perdute]] sembrano collegate alla sua storia.
 
-È stata uccisa nella [[Diario Avventure#Sessione 31|missione al tempio di pietra]].
+È stata uccisa nella [[Sessione 31|missione al tempio di pietra]].
 
 Una descrizione più accurata può essere trovata [[Matriarca Serpe|qui]].
  
@@ -60,14 +60,14 @@ Entrambe le statue sono in grado di scomparire nel terreno per riemergere nella 
 
 Reagiscono positivamente all'offerta di fiori.
 
-Non sembrano sempre ostili, hanno aiutato il gruppo durante la [[Diario Avventure#Sessione 17|missione per studiare gli avvenimenti nella foresta]].
+Non sembrano sempre ostili, hanno aiutato il gruppo durante la [[Sessione 17|missione per studiare gli avvenimenti nella foresta]].
 
 Sono state osservate attaccare i cervi entrambe le volte in cui questi sono emersi nella radura della statua di pietra, la seconda volta hanno attaccato anche il gruppo di avventurieri che stava cercando di uscirne.
 
 ## Resti pietrificati
-I resti pietrificati di avventurieri sono presenti sia fuori che dentro la voragine. Uno di questi è il fratello di [[Filverel]], un altro è stato deturpato a martellate da [[Grummar]] durante la [[Diario Avventure#Sessione 1|prima spedizione nelle terre perdute]].
+I resti pietrificati di avventurieri sono presenti sia fuori che dentro la voragine. Uno di questi è il fratello di [[Filverel]], un altro è stato deturpato a martellate da [[Grummar]] durante la [[Sessione 1|prima spedizione nelle terre perdute]].
 
-Non è noto un modo per riportarne la pietra in carne, anche se durante la [[Diario Avventure#Sessione 31|missione al tempio di pietra]] è stato osservato come, almeno inizialmente, solo la pelle di chi viene pietrificato è effettivamente trasformata in pietra.
+Non è noto un modo per riportarne la pietra in carne, anche se durante la [[Sessione 31|missione al tempio di pietra]] è stato osservato come, almeno inizialmente, solo la pelle di chi viene pietrificato è effettivamente trasformata in pietra.
 
 ## Il Tempio di Pietra
 <img src="https://i.pinimg.com/564x/ab/59/2e/ab592ea6149e0526e577ce7607a3ca9d.jpg" align=left width=250 alt="Raffigurazione del Re cervo osservata da Filverel nel Tempio di Pietra"> Ha una struttura a forma di piramide a gradoni.

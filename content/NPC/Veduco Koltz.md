@@ -5,7 +5,7 @@ Età non conosciuta, relativamente giovane.
 
 Membro della nobiltà di [[Zeogon]] mandato come esploratore verso le terre a sud delle [[Le Terre Perdute#Rupi Urlanti|Rupi Urlanti]].
 
-È stato incontrato da un gruppo di avventurieri durante la [[Diario Avventure#Sessione 12|Sessione 12]], durante la quale è stato accompagnato ad [[Approdo]], dove ha trattato con [[Ephret Bulgakov]] al fine di stabilire connessioni pacifiche tra la città e la contea da dove proviene.
+È stato incontrato da un gruppo di avventurieri durante la [[Sessione 12|Sessione 12]], durante la quale è stato accompagnato ad [[Approdo]], dove ha trattato con [[Ephret Bulgakov]] al fine di stabilire connessioni pacifiche tra la città e la contea da dove proviene.
 
 Per adesso risiede in una delle stanze private del [[Approdo#Il corvo di coffa|Corvo di Coffa]], alla cui porta ha affisso un drappo con un simbolo: un serpente alato dorato, su campo nero e cremisi (immagine qui affianco).
 <img src="https://i.pinimg.com/originals/e8/ae/54/e8ae5441cbf7052fb5e6f63df4ade313.jpg" align=right width=250> 

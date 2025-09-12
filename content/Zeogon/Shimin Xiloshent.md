@@ -12,7 +12,7 @@ Caccia con una balestra estremamente particolare, ottenuta dalla coda di una man
 
 Ad [[Approdo]] ha passato buona parte delle sue giornate da [[Olafur]], anche se spesso la sera beveva in compagnia al [[Approdo#Il corvo di coffa|Corvo di Coffa]].
 
-<img src="/media/skeletal-ardirirth.jpg" align=left width=350> Alla fine della [[Diario Avventure#Sessione 34|spedizione a caccia del drago]] è stato fuso senza il suo consenso nel cranio della creatura tramite un rituale effettuato da Lanliss, che è poi volato sul drago non morto generato dal rituale in direzione sud.
+<img src="/media/skeletal-ardirirth.jpg" align=left width=350> Alla fine della [[Sessione 34|spedizione a caccia del drago]] è stato fuso senza il suo consenso nel cranio della creatura tramite un rituale effettuato da Lanliss, che è poi volato sul drago non morto generato dal rituale in direzione sud.
 
 Non è nota la condizione di Shimin, se sia vivo, cosciente o meno. 
 

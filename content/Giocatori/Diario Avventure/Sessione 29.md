@@ -1,0 +1,16 @@
+---
+tags:
+  - Diario
+---
+**Data: 13/03/25** 
+
+**Partecipanti: [[Rose]], [[Elyraine]], [[Zik]], [[Kumo]], [[Kaze]]** 
+
+**Obiettivo: Controllare la situazione alla statua del cervo e alla voragine** 
+
+Ritornando al corvo di coffa Rose si siede al bancone e chiede da bere, dopo essere stata lontana da Approdo per diverso tempo "Cavolo quanto mi era mancato questo posto... devo assolutamente raccontarvi cosa è successo, è stata una spedizione surreale quanto terrificante per certi versi. Siamo partiti da qui in 4: Io, Elyraine, Zik e Kaze, l'obiettivo originale erano le saline, però nulla è andato come ci aspettavamo. Innanzitutto, voi sapete cosa sia una Tanuki?? Chi avrebbe immaginato che la nuova arrivata, Kaze fosse un tanuki e che avesse pure un fratello, cavolo quello li ci ha seguito per tutto il tempo senza farsi scovare, grazie alla propria capacità di trasformarsi; credetemi ho visto cose che non avrei mai immaginato di vedere, come tazzine... ma fatte di pelo! Comunque il nostro obiettivo cambiò nel momento in cui decidemmo di controllare la statua del cervo nella foresta, poichè la situazione li non era delle piu rosee e dovevamo scoprirne di più" *Beve un sorso mentre si guarda attorno per poi assume uno sguardo cupo "La statua si sta muovendo, anzi sta uscendo dalla struttura in cui si trova e se dovesse uscire per la sua totalità... beh come dire... prenderà vita. Alla luce di ciò decidemmo di andare a controllare alla voragine, sapendo del collegamento magico tra quel posto e la statua ma prima di andarcene dalla radura una schiera di statue di legno ci ha circondato... in realtà non stava proprio circondando noi, ma dei cervi non morti che stavano spuntando dal terreno, nonostante ciò siamo stati attaccati lo stesso ma con un po di accortezze e una buona dose di fortuna ne siamo usciti"
+
+*In quel momento a Rose ritornarono i pensieri sul come per colpa sua Kaze ci aveva quasi rimesso le penne, essendo stata lanciata a tutta velocità nella direzione di una statua che la colpii in pieno "Una volta alla voragine esaminando le steli e sempre con la solita dose di fortuna mescolata a casualità, abbiamo capito qualcosa. Abbiamo ottenuto una falcetto da una statua di legno offrendogli della salvia, di fatto non ho idea di cosa ci si possa fare con quel falcetto, ma è estremamente collegato a tutto ciò; in ogni caso chiedete ai Fratelli Tanuki, solo loro a tenerlo in custodia" "Infine la parte piu terribile... Zik ha lanciato una torcia nella buia voragine e subito come uno sciame fummo attaccati da una grande quantità di nemici, abbastanza da farci scappare istantaneamente verso Approdo, ci hanno inseguito nella foresta per così tanto tempo... è stata forse la peggiore esperienza della mia vita" *alzandosi lentamente dal bancone "Dopo questa avventura fatta di esseri pelosi mutaforma, statue che stanno per prendere vita con solo dio sa quale intenzione, agguati e inseguimenti credo proprio che mi prenderò dei giorni di riposo, buonanotte a tutti"
+
+Sessione precedente: [[Sessione 28]]
+Continua a leggere: [[Sessione 30]]

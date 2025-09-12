@@ -45,7 +45,7 @@ Non è sicuro percorrere il fiume via chiatta a causa di insediamenti di Boggard
 In mezzo al fiume, tra le lente spire della corrente che scorre tra i poggi dorati, è situato un fangoso isolotto che ospita un villaggio di Boggard, creature simili a rospi umanoidi.
 La maggior parte di loro sembra parlare solamente la propria lingua composta di gracidii, ma il capo (ora defunto) conosceva anche qualche parola in comune.
 Al centro del villaggio è stato visto un edificio in pietra dalla pianta circolare, all'interno del quale era tenuto acceso un fuoco in un braciere. Dal piano sotterraneo dell'edificio usciva ogni tanto un boggard con mani coperte di sangue. Il resto del villaggio è composto di edifici di legno e paglia. 
-Il villaggio ospita centinaia di boggard, ed ha avuto uno scontro sostanzioso con gli avventurieri [[Diario Avventure#Sessione 11|di recente]], dove almeno una dozzina di boggard hanno perso la vita, e gli avventurieri rischiato la propria.
+Il villaggio ospita centinaia di boggard, ed ha avuto uno scontro sostanzioso con gli avventurieri [[Sessione 11|di recente]], dove almeno una dozzina di boggard hanno perso la vita, e gli avventurieri rischiato la propria.
 Non è detto che sia ancora possibile instaurare un rapporto diplomatico con i boggard.
 
 ## Poggi Dorati
@@ -64,7 +64,7 @@ Attorno alla Torre diroccata un gruppo di banditi ha rimesso in sesto alcune del
 Sono principalmente ragazzetti inesperti, anche se il loro "capo" [[Molnar]] sembra essere un combattente navigato. 
 A detta sua buona parte di loro è stata bandita a causa di furtarelli o debiti che non potevano pagare.
 [[Erzsebeth]], una dei banditi, ha da poco partorito.
-Grazie alle contrattazioni con il sindaco avvenute nella [[Diario Avventure#Sessione 9|Sessione 9]], il Villaggio è adesso riconosciuto come [[Dorina|Villaggio di Dorina]], un villaggio semi-autonomo, "frazione" di [[Approdo]].
+Grazie alle contrattazioni con il sindaco avvenute nella [[Sessione 9|Sessione 9]], il Villaggio è adesso riconosciuto come [[Dorina|Villaggio di Dorina]], un villaggio semi-autonomo, "frazione" di [[Approdo]].
 
 ### Statue dei Re
 Dodici statue stanno in cerchio attorno al simbolo del culto del Dio del Sole.
@@ -94,7 +94,7 @@ All'interno c'era una statua di legno animata, adesso distrutta, ed una trappola
 
 <img width=200 align=left src="https://i.pinimg.com/originals/36/f4/57/36f457fc87d9effc7c9ac0b95c609040.jpg"> Il fumo toponimo della foresta sembra provenire da accampamenti di Goblin, nella parte sud della foresta.
 Fanno ingente uso di funghi allucinogeni.
-Si erano organizzati in un unico forte nelle scorse settimane ma sono stati assediati durante la [[Diario Avventure#Sessione 8|Sessione 8]], e conseguentemente l'insediamento è caduto.
+Si erano organizzati in un unico forte nelle scorse settimane ma sono stati assediati durante la [[Sessione 8|Sessione 8]], e conseguentemente l'insediamento è caduto.
 Adesso rimane solamente una tribù nella foresta, ed il resto dei Goblin è fuggito verso le [[Le Terre Perdute#Piana Striata|Piane Striate]].
 Sembravano avere un qualche tipo di collegamento col culto incontrato al limitare della [[Le Terre Perdute#Città Sacra|Città Sacra]]. Che siano andati in quella direzione?
 
@@ -120,7 +120,7 @@ Evidentemente un gruppo di Coboldi aveva tana sulle montagne.
 Non è conosciuta la portata della loro presenza sui picchi, ma sono state incontrate alcune delle loro trappole.
 Sembrano avere interesse a raccogliere il _ferro freddo_ dalle radici della montagna, inoltrandosi fino alla [[Le Terre Perdute#Foresta Fumosa|Foresta Fumosa]].
 
-Durante la [[Diario Avventure#Sessione 7|spedizione a caccia di coboldi]] l'insediamento identificato nella [[Diario Avventure#Sessione 2|prima spedizione sui Picchi Argentati]] è stato completamente distrutto.
+Durante la [[Sessione 7|spedizione a caccia di coboldi]] l'insediamento identificato nella [[Sessione 2|prima spedizione sui Picchi Argentati]] è stato completamente distrutto.
 
 ### Portone Argentato del Drago
 <img src="https://i.pinimg.com/736x/2c/0b/02/2c0b024d2614f8afe5f19a9e75787754.jpg" align=right width=250> Un grande portone di Argento con la raffigurazione in bassorilievo di un Drago che dorme affianco ad uno stagno al cui bordo gracida un rospo.

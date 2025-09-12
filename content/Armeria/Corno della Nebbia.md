@@ -3,7 +3,7 @@ tags:
   - oggetto
   - magico
 ---
-<img src="/media/Horn_of_fog.png" align=left>Ottenuto uccidendo un generale dei rattoidi durante la [Sessione 30](https://mudslingar.github.io/TerrePerdute/Giocatori/Diario-Avventure#sessione-30), il Corno della Nebbia permette a chiunque lo suoni di evocare una fitta coltre oscurante tutto attorno a sé una volta al giorno.
+<img src="/media/Horn_of_fog.png" align=left>Ottenuto uccidendo un generale dei rattoidi durante la [[Sessione 30]], il Corno della Nebbia permette a chiunque lo suoni di evocare una fitta coltre oscurante tutto attorno a sé una volta al giorno.
 
 L’osso da cui è ricavato è sconosciuto, e decorazioni vorticanti sono intagliate lungo tutta la sua superficie.
 
