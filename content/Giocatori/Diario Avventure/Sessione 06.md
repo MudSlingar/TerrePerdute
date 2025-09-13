@@ -14,5 +14,5 @@ _Due giorni dopo l'arrivo di Derio, Urthu entra al Corvo di Coffa, seguito dagli
 
 Le trattative tuttavia sono saltate a causa di un fuoco dell'alchimista. Non so dir molto del combattimento seguito: sono stato azzannato e sono svenuto per le gravi ferite ma, come vedete, siamo tutti qui... Con qualche oggetto alle spalle e con qualche altro in saccoccia... Le armi e l'armatura che potete vederci addosso sono dell'uomo di Zeagon. E questo è quanto.”
 
-Sessione precedente: [[Sessione 5]]
-Continua a leggere: [[Sessione 7]]
+Sessione precedente: [[Sessione 05]]
+Continua a leggere: [[Sessione 07]]

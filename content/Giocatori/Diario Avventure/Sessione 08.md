@@ -1,4 +1,7 @@
-# Sessione #8
+---
+tags:
+  - Diario
+---
 **Data**: 10/05/2024
 
 **Partecipanti**: _[[Jeriko]], [[Urthu]], [[Zavis]], [[Ghé]]_
@@ -20,5 +23,5 @@ Comunque, la lotta contro i capi tribù è stata davvero estenuante, ma ne siamo
 A quanto pare l'accampamento è stato costruito attorno ad una struttura molto più antica, sembra più o meno risalente all'epoca della chiesa di approdo secondo Urthu, ma non sappiamo da chi sia stata edificata, né quale possa essere stata la sua funzione in passato. Le uniche cose che abbiamo trovato all'interno sono stati dei simboli zodiacali. 
 Ah sì, visto che eravamo di passaggio siamo passati anche per la statua del cervo, che ora appare con i denti digrignati, per il resto nulla è cambiato, speriamo che aver decimato i goblin rallenti il rituale o qualsiasi cosa stia succedendo da quelle parti.
 
-Sessione precedente: [[Sessione 7]]
-Continua a leggere: [[Sessione 9]]
+Sessione precedente: [[Sessione 07]]
+Continua a leggere: [[Sessione 09]]

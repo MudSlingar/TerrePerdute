@@ -8,4 +8,4 @@ Pare avere una scarsa opinione di [[Filverel]].
 
 Ha preso [[Salek]] come aiutante recentemente.
 
-È venuto a galla a causa delle [[Sessione 9|contrattazioni tra sindaco e dorina]] che il suo fu marito era una guardia cittadina morta durante il servizio per mano di [[Ferenc]].
+È venuto a galla a causa delle [[Sessione 09|contrattazioni tra sindaco e dorina]] che il suo fu marito era una guardia cittadina morta durante il servizio per mano di [[Ferenc]].

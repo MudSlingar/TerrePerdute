@@ -2,7 +2,6 @@
 tags:
   - Diario
 ---
-# Sessione #5
 **Data**: 18/04/2024
 
 **Partecipanti**: _[[Salek]], [[Jeriko]], [[Zavis]], [[Elyraine]], [[Ghé]]_ 
@@ -14,5 +13,5 @@ Il masso enorme si è rivelato una cinta muraria alta diverse decine di metri di
 
 La notte ci siamo accampati poco distanti dalle mura, in vista di infiltrarci col favore delle tenebre. Abbiamo rincontrato l'uomo di prima, questa volta però sotto mentite spoglie. L'uomo si è rivelato infatti essere un mutaforma che ha assunto in primis le mie sembianze e poi quelle di qualche conoscente di Ely, devo dire che è stato abbastanza spaventoso. Abbiamo deciso di combatterlo e siamo riusciti ad ucciderlo. La città era quindi indifesa, ma non credo resterà tale a lungo. Sembra infatti che i cultisti quadrupedi potessero comunicare con qualcuno tramite la magia e credo che a breve tornerà qualcuno a difesa del molo. Alla fine non siamo entrati nella città, ma tutto sommato siamo tornati con diverse informazioni. Che dire, forse un buco nell'acqua se la si guarda dal punto di vista economico, ma già l'essere tornati tutti vivi lo considero un successo... Ops, forse ho parlato troppo, scusate non volevo annoiarvi!
 
-Sessione precedente: [[Sessione 4]]
-Continua a leggere: [[Sessione 6]]
+Sessione precedente: [[Sessione 04]]
+Continua a leggere: [[Sessione 06]]

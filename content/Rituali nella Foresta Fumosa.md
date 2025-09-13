@@ -45,7 +45,7 @@ Non è stato raccontato molto altro se non di **non andarci**, e che sia molto p
 
 Sembra lei ad aver pietrificato gli avventurieri ora rimasti nella foresta come **resti pietrificati**.
 
-Le tavole di pietra recuperate dal [[Le Terre Perdute#Grande Albero|Grande Albero]] durante la [[Sessione 1|prima spedizione nelle terre perdute]] sembrano collegate alla sua storia.
+Le tavole di pietra recuperate dal [[Le Terre Perdute#Grande Albero|Grande Albero]] durante la [[Sessione 01|prima spedizione nelle terre perdute]] sembrano collegate alla sua storia.
 
 È stata uccisa nella [[Sessione 31|missione al tempio di pietra]].
 
@@ -65,7 +65,7 @@ Non sembrano sempre ostili, hanno aiutato il gruppo durante la [[Sessione 17|mis
 Sono state osservate attaccare i cervi entrambe le volte in cui questi sono emersi nella radura della statua di pietra, la seconda volta hanno attaccato anche il gruppo di avventurieri che stava cercando di uscirne.
 
 ## Resti pietrificati
-I resti pietrificati di avventurieri sono presenti sia fuori che dentro la voragine. Uno di questi è il fratello di [[Filverel]], un altro è stato deturpato a martellate da [[Grummar]] durante la [[Sessione 1|prima spedizione nelle terre perdute]].
+I resti pietrificati di avventurieri sono presenti sia fuori che dentro la voragine. Uno di questi è il fratello di [[Filverel]], un altro è stato deturpato a martellate da [[Grummar]] durante la [[Sessione 01|prima spedizione nelle terre perdute]].
 
 Non è noto un modo per riportarne la pietra in carne, anche se durante la [[Sessione 31|missione al tempio di pietra]] è stato osservato come, almeno inizialmente, solo la pelle di chi viene pietrificato è effettivamente trasformata in pietra.
 

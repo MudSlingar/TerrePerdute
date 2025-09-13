@@ -27,7 +27,7 @@ Nel campo di Dagfinn era stanziato [[Cacciatori di Zeogon#IX Cacciatore Kikimora
 
 ## Cronologia delle interazioni con Zeogon
 La sua guarnigione di confine sembra aver avuto problemi con [[Tevgimund]] a lungo.
-1. Un'armatura proveniente da Zeogon è stata ritrovata durante la [[Sessione 2|Sessione 2]], ed un'altra ancora è stata recuperata dalla guardia morta nella [[Sessione 6|Sessione 6]].
+1. Un'armatura proveniente da Zeogon è stata ritrovata durante la [[Sessione 02|Sessione 02]], ed un'altra ancora è stata recuperata dalla guardia morta nella [[Sessione 06|Sessione 06]].
 2. [[Veduco Koltz]] in Ulfilas è un esploratore proveniente da Zeogon di nobili origini incontrato durante la [[Sessione 12|Sessione 12]]. È estremamente ben equipaggiato e parrebbe da quanto discusso con [[Filverel]] che sia accompagnato da un piccolo diavolo.
 3. Tramite le sue trattative con [[Ephret Bulgakov]] sono state aggiunte 300 monete d'oro alla taglia su Tevgimund, anche se come saranno ripartite dal siniscalco ancora non è noto.
 4. Per la caccia alla manticora Veduco ha proposto di mettere a disposizione degli avventurieri una balista fornita dall'esercito di Zeogon.

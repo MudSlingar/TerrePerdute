@@ -20,5 +20,5 @@ Per prima cosa, la creatura era frutto di un rituale attuato da una parte eretic
 
 Non è una vita _così tremenda_ in fin dei conti, lascia molto spazio all'introspezione non poter parlare e non ricevere seccature, però non lo consiglierei, quindi se volete tentare di aprire il portone in futuro state ben attenti a questo rischio. [[Denkar]], caro mio, potresti portarmi un altro calice per favore? :3
 
-Sessione precedente: [[Sessione 9]]
+Sessione precedente: [[Sessione 09]]
 Continua a leggere: [[Sessione 11]]
