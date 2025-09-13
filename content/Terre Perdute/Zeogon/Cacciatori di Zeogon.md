@@ -29,8 +29,12 @@ Dicono inoltre che i membri del III Cacciatore che hanno fallito in passato una 
 
 La sesta cacciatrice lo ha definito un fabbro, un bullo ed un bruto, generalmente una persona con cui avere meno a che fare possibile.
 
-# V Cacciatore: Ettin
-<img src="https://i.pinimg.com/564x/0e/16/f6/0e16f62524ac880b744efb3e5aceb255.jpg" align=left width=250> [[Shimin Xiloshent]] e [[Lanliss Xiloshent]], due fratelli gemelli umani noti col nome di Ettin, secondo il gigante a due teste che cacciarono da ragazzi, non hanno citato quanto tempo fa.
+# V Cacciatore: Cïndrag
+<img src="ardirirth.jpg" align=left width=250>Il quinto cacciatore, [[Syrio]], ha ottenuto il titolo a seguito della caccia del drago [[Ardirirth]], durante la [[Sessione 34|spedizione a caccai del drago]], accompagnato da [[Shimin Xiloshent|Shimin]] e [[Lanliss Xiloshent|Lanliss]], precedenti detentori del titolo.
+
+Il nome Cindrag deriva da un antico termine per indicare i draghi e altre adiacenti creature draconiche a quattro o sei arti.
+
+In passato titolo detenuto da [[Shimin Xiloshent]] e [[Lanliss Xiloshent]], due fratelli gemelli umani noti col nome di Ettin, secondo il gigante a due teste che cacciarono da ragazzi, non hanno citato quanto tempo fa.
 
 Sono armati con strumenti ottenuti dalle code di due manticore che cacciarono in passato.
 
@@ -39,6 +43,8 @@ Hanno cacciato il [[Ardirirth|Drago]] che si dice vivesse sotto le montagne dei 
 Attualmente la condizione dei due è dubbia, ma è decisamente fuori dalle loro opzioni proseguire in quanto cacciatori di Zeogon.
 
 Sono stati descritti dalla sesta cacciatrice come due tipi molto strani, non adeguati ad una vita nella civiltà, e stranamente non invecchiati in tutti i suoi anni di servizio come cacciatrice.
+
+A seguito degli eventi della [[Sessione 34|caccia al drago]] [[Ardirirth]] la loro posizione e condizione è ignota.
 # VI Cacciatore: Vodyanoy
 <img src="https://i.pinimg.com/564x/c8/bd/8a/c8bd8aa447875a8816917b1799737f3b.jpg" align=right width=250> Il Sesto cacciatore sembra essere esperta nella caccia di creature acquatiche. Attualmente è all'opera in un lago nelle zone Nord di Zeogon.
 
