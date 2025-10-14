@@ -6,7 +6,7 @@ tags:
 
 **Partecipanti**: _[[Alexandr]], [[Bhar]], [[Derio]], [[Syrio]], [[Urthu]]_
 
-**Obiettivo**: _[[Le Terre Perdute#Rupi Urlanti|Rupi Urlanti]]_
+**Obiettivo**: _[[Rupi Urlanti]]_
 
 _Due giorni dopo l'arrivo di Derio, Urthu entra al Corvo di Coffa, seguito dagli altri._ _Alexandr ha un'armatura differente da quella con cui era arrivato, Syrio e Urthu sono solo armati rispettivamente di un manganello e di un pugnale, Bhar ha una balestra che prima non possedeva._ _Hanno l'aria lacera ed eccitata al tempo stesso._ "Doppio giro, Denkar, offro io" _grida Syrio. Il gruppo siede ad un tavolo._
 

@@ -8,7 +8,7 @@ tags:
 umano, maschio, fratello gemello di [[Lanliss Xiloshent]] e [[Cacciatori di Zeogon#V Cacciatore Ettin|quinto cacciatore di Zeogon]], condivideva col fratello il titolo di Ettin.
 Caccia con una balestra estremamente particolare, ottenuta dalla coda di una manticora, che lui stesso chiama "Sparaspine".
 
-È stato a caccia del drago che si dice viva nelle montagne dei [[Le Terre Perdute#Picchi Argentati|Picchi Argentati]], per conto del Conte di [[Zeogon]].
+È stato a caccia del drago che si dice viva nelle montagne dei [[Picchi Argentati]], per conto del Conte di [[Zeogon]].
 
 Ad [[Approdo]] ha passato buona parte delle sue giornate da [[Olafur]], anche se spesso la sera beveva in compagnia al [[Approdo#Il corvo di coffa|Corvo di Coffa]].
 

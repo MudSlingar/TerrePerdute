@@ -6,7 +6,7 @@ tags:
 
 **Partecipanti**: [[Rose]], [[Zavis]], [[Bhar]], [[Florian]], [[Salek]] e [[Jeriko]]
 
-**Obiettivo**: Esplorare le [[Le Terre Perdute#Miniere|Miniere sotto il covo dei coboldi]]
+**Obiettivo**: Esplorare le [[Picchi Argentati#Portone Nanico|Miniere sotto il covo dei coboldi]]
 
 _Quella sera, quando la situazione al corvo si fece meno movimentata a livello lavorativo, Rose decise di raccontare la storia dell'ultima spedizione alle miniere, con Florian che strimpellava qualcosa in sottofondo_
 

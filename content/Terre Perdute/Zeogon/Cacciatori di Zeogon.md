@@ -38,7 +38,7 @@ In passato titolo detenuto da [[Shimin Xiloshent]] e [[Lanliss Xiloshent]], due 
 
 Sono armati con strumenti ottenuti dalle code di due manticore che cacciarono in passato.
 
-Hanno cacciato il [[Ardirirth|Drago]] che si dice vivesse sotto le montagne dei [[Le Terre Perdute#Picchi Argentati|Picchi Argentati]].
+Hanno cacciato il [[Ardirirth|Drago]] che si dice vivesse sotto le montagne dei [[Picchi Argentati|Picchi Argentati]].
 
 Attualmente la condizione dei due è dubbia, ma è decisamente fuori dalle loro opzioni proseguire in quanto cacciatori di Zeogon.
 

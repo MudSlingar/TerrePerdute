@@ -6,7 +6,7 @@ tags:
 
 **Partecipanti**: _[[Ghé]], [[Jeriko]], [[Bhar]], [[Salek]], [[Zavis]]_
 
-**Obiettivo**: _[[Le Terre Perdute#Foresta Fumosa|Foresta Fumosa, profondità]]_
+**Obiettivo**: _[[Foresta Fumosa|Foresta Fumosa, profondità]]_
 
 ![[dialogogoblin.jpg]]
 "Mi stai chiedendo come è andata l'ultima spedizione... non penso di essere la persona giusta a cui chiedere, ma se proprio dobbiamo parlarne sarà meglio farlo davanti ad un boccale di birra. Se non ricordo male abbiamo seguito il fiume fino all'albero nel quale Ghe e gli altri avevano trovato la statua di legno e da lì abbiamo iniziato ad investigare. Ti risparmio il penoso racconto di come siamo finiti in una trappola che Ghe già conosceva e salto subito alla parte interessante. Usciti dall'albero ci siamo diretti a sud per indagare su delle colonne di fumo che avevamo visto in lontananza, pensavamo potesse trattarsi dell'accampamento dei banditi, ma ci sbagliavamo... Durante il tragitto ci siamo imbattuti in un inquietante struttura megalitica dedicata al culto di una creatura umanoide con testa da cervo. Cavoli se metteva i brividi... il corpo di un umano... le gambe mozzate... e quelle braccia lunghe in modo innaturale... non augurerei a nessuno di incontrare una creatura del genere. Comunque non siamo riusciti a scoprire molto su di lui, se non che i goblin lo venerano e sacrificano sia cervi che altri goblin in suo nome.

@@ -6,7 +6,7 @@ tags:
 
 **Partecipanti**: _[[Jeriko]], [[Urthu]], [[Zavis]], [[Ghé]]_
 
-**Obiettivo**: _[[Le Terre Perdute#Accampamenti Goblin|Accampamenti Goblin]]_
+**Obiettivo**: _[[Foresta Fumosa#Accampamenti Goblin|Accampamenti Goblin]]_
 
 Ok, lo ammetto... Con i goblin non si può essere diplomatici. L'altro giorno siamo andati io, Jeriko, Zavis e Urthu ad esplorare le terre dei goblin. Il nostro intento, o meglio il mio intento iniziale, era quello di farci amici i goblin per avere un punto sicuro in cui fare un avamposto all'interno nella foresta. A ripensarci non era affatto una buona idea, i goblin hanno delle norme igieniche assenti e credo che pernottare nello stesso luogo in cui abitano dei goblin sia più pericoloso che combattere un drago.
 Fatto sta che siamo arrivati nella zona dei goblin e abbiamo perlustrato un po' la zona. 

@@ -6,7 +6,7 @@ tags:
 
 **Partecipanti**: _[[Bhar]], [[Jeriko]], [[Salek]], [[Elyraine]], [[Rose]]_
 
-**Obiettivo**: _[[Le Terre Perdute#Coboldi|Tana dei Coboldi]]_
+**Obiettivo**: _[[Picchi Argentati#Coboldi|Tana dei Coboldi]]_
 
 _Una sera ad uno dei tavoli del corvo di coffa davanti ad un paio di birre vuote Jeriko e Zavis (e chiunque sia interessato) parlano di com'è andata la missione sui picchi_ 
 

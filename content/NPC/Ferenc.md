@@ -3,7 +3,7 @@
 ![[ferenc.png]]
 
 Umano, maschio.
-Bandito che viveva nella [[Le Terre Perdute#Foresta Fumosa|Foresta Fumosa]], dopo essere stato cacciato sia da [[Approdo]] che dal [[Le Terre Perdute#Villaggio dei Banditi|Villaggio dei Banditi]].
+Bandito che viveva nella [[Foresta Fumosa]], dopo essere stato cacciato sia da [[Approdo]] che dal [[Poggi Dorati#Villaggio dei Banditi|Villaggio dei Banditi]].
 Sembra in pessimi rapporti, o almeno aver una pessima considerazione di [[Ephret Bulgakov]].
 
 <img src="https://i.pinimg.com/564x/ab/a3/ef/aba3ef7d100aae93ea27b2bc7dc65424.jpg" align=right width=250 alt="Giovani Molnar e Ferenc che si allenano"> È stato compagno d'armi di [[Molnar]] nel [[Il mondo conosciuto|mondo conosciuto]].

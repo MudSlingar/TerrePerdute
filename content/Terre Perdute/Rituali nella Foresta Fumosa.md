@@ -1,3 +1,8 @@
+---
+tags:
+  - ambientazione
+  - terreperdute
+---
 > Questa pagina raccoglie informazioni riguardo ai rituali che stanno avvenendo nella Foresta Fumosa.
 > Se avete informazioni che volete condividere scrivete ad un master che aggiornerà la pagina
 
@@ -24,7 +29,7 @@ Poi il modus operandi dei cervi è vistosamente cambiato: portano creature della
 A seguito delle analisi effettuate dal gruppo durante la [[Sessione 17|missione per studiare gli avvenimenti nella foresta]], si è capito che la statua riceve sacrifici di sangue, assorbendolo in un area che comprende l'intero spazio all'interno della struttura monolitica.
 
 ## Effetti
-I cervi della foresta sembrano essere sotto effetto di una potente magia necromantica che ne anima le spoglie così che effettuino per conto della statua ulteriori sacrifici di sangue. <img src="https://i.pinimg.com/enabled/564x/7a/e5/79/7ae57984aa423732c1b530e67e55116e.jpg" width=220 align=right alt="Cervi affamati"> 
+I cervi della foresta sembrano essere sotto effetto di una potente magia necromantica che ne anima le spoglie così che effettuino per conto della statua ulteriori sacrifici di sangue. <img src="cervi.jpg" width=300 align=right alt="Cervi affamati"> 
 
 C'è un evidente legame tra la **statua del cervo** ed il **tempio di pietra**.
 
@@ -32,20 +37,20 @@ Inoltre a seguito della martellata di [[Grummar]] appariva essersi formato un le
 
 Già più di una volta a seguito di interferenze con la statua di pietra sono fuoriusciti in grandi numeri dal terreno carcasse di cervi intente a divorare i presenti.
 # Tempio di Pietra
-Nelle profondità della foresta, ad Ovest, si trovava una fossa dove il sole non penetrava, evidentemente incantata, dentro a cui era nascosto il Tempio di Pietra.
+<img src="https://i.pinimg.com/564x/7b/4a/84/7b4a846aa210985eaf998bed05564039.jpg" align=left width=200> Nelle profondità della foresta, ad Ovest, si trovava una fossa dove il sole non penetrava, evidentemente incantata, dentro a cui era nascosto il Tempio di Pietra.
 
 Sembrava avere una connessione con la statua del Dio Cervo.
 
 Non è stato raccontato molto altro se non di **non andarci**, e che sia molto pericoloso.
 
 ## Voragine
-<img src="https://i.pinimg.com/564x/7b/4a/84/7b4a846aa210985eaf998bed05564039.jpg" align=left width=200>Il tempo sembrava scorrere in modo anomalo nella voragine, la luce esterna non entrare e la gravità stessa si comportarsi diversamente dal solito.
+Il tempo sembrava scorrere in modo anomalo nella voragine, la luce esterna non entrare e la gravità stessa si comportarsi diversamente dal solito.
 ## Matriarca Serpe
 <img src="/media/matriarca2.jpg" align=left width=300> Figura venerata da un circolo druidico ormai scomparso.
 
 Sembra lei ad aver pietrificato gli avventurieri ora rimasti nella foresta come **resti pietrificati**.
 
-Le tavole di pietra recuperate dal [[Le Terre Perdute#Grande Albero|Grande Albero]] durante la [[Sessione 01|prima spedizione nelle terre perdute]] sembrano collegate alla sua storia.
+Le tavole di pietra recuperate dal [[Foresta Fumosa#Grande Albero|Grande Albero]] durante la [[Sessione 01|prima spedizione nelle terre perdute]] sembrano collegate alla sua storia.
 
 È stata uccisa nella [[Sessione 31|missione al tempio di pietra]].
 

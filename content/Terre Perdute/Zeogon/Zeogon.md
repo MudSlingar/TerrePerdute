@@ -4,7 +4,7 @@ tags:
   - ambientazione
 ---
 ## Informazioni generali
-<img src="https://i.pinimg.com/originals/e8/ae/54/e8ae5441cbf7052fb5e6f63df4ade313.jpg" align=left width=250> Territorio a Nord delle [[Le Terre Perdute#Rupi Urlanti|Rupi Urlanti]].
+<img src="https://i.pinimg.com/originals/e8/ae/54/e8ae5441cbf7052fb5e6f63df4ade313.jpg" align=left width=250> Territorio a Nord delle [[Rupi Urlanti]].
 Si tratta di una Contea, che fa riferimento ad un Regno di natura principalmente amministrativa la cui capitale è ancora più a Nord, in una penisola al centro del Mare Gelido.
 La Città principale è [[Zeog]], situata all'incirca al centro delle valli che costituiscono la contea.
 Esiste anche una valle oltre le montagne a Nord, che si affaccia sul mare, ma è relativamente povera ed isolata. È la zona di origine di [[Shimin Xiloshent|Shimin]] e [[Lanliss Xiloshent]].
@@ -22,7 +22,7 @@ Questa fede sembra essere un fattore onnicomprensivo della cultura di Zeogon, no
 Le funzioni sono svolte da due figure, il **Corvo** e la **Scolopendra**, il primo incaricato di interfacciarsi con i fedeli e fare salmi, la seconda di eseguire rituali, che alcuni avventurieri hanno scoperto essere a volte anche sanguinolenti e dolorosi provandoli sulla propria pelle.
 
 ## Altre informazioni
-Sul versante Nord dei [[Le Terre Perdute#Picchi Argentati|picchi argentati]] sono stanziati temporaneamente i [[Cacciatori di Zeogon#V Cacciatore Ettin|cacciatori Shimin e Lanliss]], che sono a caccia del drago di cui si sono sentite storie anche nei territori di Approdo.
+Sul versante Nord dei [[Picchi Argentati|picchi argentati]] sono stanziati temporaneamente i [[Cacciatori di Zeogon#V Cacciatore Ettin|cacciatori Shimin e Lanliss]], che sono a caccia del drago di cui si sono sentite storie anche nei territori di Approdo.
 Nel campo di Dagfinn era stanziato [[Cacciatori di Zeogon#IX Cacciatore Kikimora|Kikimora]], il fu nono cacciatore di Zeogon, ucciso per mano della manticora [[Tevgimund]].
 
 ## Cronologia delle interazioni con Zeogon

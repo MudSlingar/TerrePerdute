@@ -5,7 +5,7 @@ tags:
   - raro
   - druidi
 ---
-<img src="/media/falcettodruidi.jpg" align=left width=300> Simbolo di appartenenza al perduto circolo druidico della [[Le Terre Perdute#Foresta Fumosa|Foresta Fumosa]], questo falcetto permetteva di entrare nella [[Rituali nella Foresta Fumosa#Voragine|Voragine]] mitigando gli effetti della maledizione del luogo.
+<img src="/media/falcettodruidi.jpg" align=left width=300> Simbolo di appartenenza al perduto circolo druidico della [[Foresta Fumosa]], questo falcetto permetteva di entrare nella [[Rituali nella Foresta Fumosa#Voragine|Voragine]] mitigando gli effetti della maledizione del luogo.
 
 Le statue di legno che incarnano la residua volontà dei druidi del circolo ne posseggono copie di legno, che possono donare a chi si dimostra intenzionato a promulgare i loro ideali.
 

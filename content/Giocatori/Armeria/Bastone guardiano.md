@@ -4,7 +4,7 @@ tags:
   - magico
   - druidi
 ---
-<img src="/media/kinwardingstaff.jpg" align=left width=300> Questo bastone nodoso che termina in germogli di foglie in costante rinnovo è parte del tesoro nascosto del circolo druidico della [[Le Terre Perdute#Foresta Fumosa|Foresta Fumosa]].
+<img src="/media/kinwardingstaff.jpg" align=left width=300> Questo bastone nodoso che termina in germogli di foglie in costante rinnovo è parte del tesoro nascosto del circolo druidico della [[Foresta Fumosa]].
 
 Tempo addietro veniva utilizzato da insegnanti per proteggere i pupilli durante addestramenti rigorosi o dalle guardie del corpo della Matriarca.
 

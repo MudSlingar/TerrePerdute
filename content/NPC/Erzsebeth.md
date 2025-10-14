@@ -4,6 +4,6 @@
 
 Giovane bandita da [[Approdo]].
 
-Al momento vive nel [[Le Terre Perdute#Villaggio dei Banditi|villaggio dei banditi]].
+Al momento vive a [[Dorina]].
 
 Si può ipotizzare che [[Peter]] sia il padre del bambino, [[Josif]].

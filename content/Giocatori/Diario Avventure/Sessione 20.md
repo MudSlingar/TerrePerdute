@@ -6,15 +6,15 @@ tags:
 
 **Partecipanti:** [[Urthu]], [[Florian]], [[Elyraine]], [[Rose]], [[Baskerlen da Ghens]], [[Syrio]]
 
-**Obiettivo:** Proseguire l'esplorazione delle caverne sotto i [[Le Terre Perdute#Picchi Argentati|Picchi Argentati]]
+**Obiettivo:** Proseguire l'esplorazione delle caverne sotto i [[Picchi Argentati]]
 
 Cari commensali, questo resoconto potrebbe avere davvero dell'assurdo, quindi ordinate una birra e sedetevi comodi, perché la discesa nelle profondità della montagna non ha risparmiato sorprese.
 
-Il viaggio per arrivare fin là ormai è una strada battuta, ed è filato tutto liscio. Abbiamo prestato attenzione ad evitare la [[Le Terre Perdute#Foresta Fumosa|Foresta Fumosa]] per evitare problemi con i cervi o altre strane creature, e nel tragitto abbiamo incrociato anche [[Rose]], che si è unita a noi mentre tornava da [[Zeogon]].
+Il viaggio per arrivare fin là ormai è una strada battuta, ed è filato tutto liscio. Abbiamo prestato attenzione ad evitare la [[Foresta Fumosa]] per evitare problemi con i cervi o altre strane creature, e nel tragitto abbiamo incrociato anche [[Rose]], che si è unita a noi mentre tornava da [[Zeogon]].
 
-Ci siamo indaffarati, o meglio, [[Urthu]] ha insistito per diverso tempo nel rimuovere roccia attorno al [[Le Terre Perdute#Picchi Argentati#Portone Argentato del Drago|portone del Drago]], per poi scoprire che anche tutt'attorno al portone, all'interno della montagna, si estende un incantesimo protettivo che previene erosioni e spostamento delle rocce. Nel mentre noialtri abbiamo potuto intavolare discussioni sui massimi sistemi che però vi annoierebbero, quindi eviterò di riproporre.
+Ci siamo indaffarati, o meglio, [[Urthu]] ha insistito per diverso tempo nel rimuovere roccia attorno al [[Picchi Argentati#Portone Argentato del Drago|portone del Drago]], per poi scoprire che anche tutt'attorno al portone, all'interno della montagna, si estende un incantesimo protettivo che previene erosioni e spostamento delle rocce. Nel mentre noialtri abbiamo potuto intavolare discussioni sui massimi sistemi che però vi annoierebbero, quindi eviterò di riproporre.
 
-Abbiamo proseguito verso le [[Le Terre Perdute#Miniere|miniere]], facendo particolare attenzione a non svegliare i pipistrelli sopravvissuti all'incontro letale della scorsa spedizione nelle montagne, e siamo discesi nella voragine presente nella grande caverna raggiungibile seguendo le linee di ferro presenti oltre il [[Le Terre Perdute#Portone Nanico|portone di fattura nanica]].
+Abbiamo proseguito verso le [[Picchi Argentati#Portone Nanico|miniere]], facendo particolare attenzione a non svegliare i pipistrelli sopravvissuti all'incontro letale della scorsa spedizione nelle montagne, e siamo discesi nella voragine presente nella grande caverna raggiungibile seguendo le linee di ferro presenti oltre il [[Picchi Argentati#Portone Nanico|portone di fattura nanica]].
 Lì abbiamo trovato una strana "carovana", rovesciata di lato, con un carro coperti, fatto di ferro e dotato di una fornace con tanto di camino che ne usciva, ed altri due carretti, uno parzialmente pieno di pepite d'oro. Prima di correre verso le montagne però ascoltate il resto della storia, perché potrebbe essere anche più interessante dell'oro lasciato lì alla rinfusa.
 Grazie all'occhio attento di [[Baskerlen da Ghens|Baskerlen]] e le conoscenze di Urthu in materia abbiamo anche analizzato lo strato di fuliggine che ricopriva il cunicolo, e vi abbiamo trovato tracce di oro e pietra frammentata, al posto che di olii o altri combustibili normali. Qualcuno dovrebbe meglio analizzare quel carro di ferro sinceramente, ma trovare dell'oro nella "fuliggine" lascia più domande che risposte... Che _brucino_ l'oro? 
 

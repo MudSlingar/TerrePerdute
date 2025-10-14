@@ -3,7 +3,7 @@
 
 Età non conosciuta, relativamente giovane.
 
-Membro della nobiltà di [[Zeogon]] mandato come esploratore verso le terre a sud delle [[Le Terre Perdute#Rupi Urlanti|Rupi Urlanti]].
+Membro della nobiltà di [[Zeogon]] mandato come esploratore verso le terre a sud delle [[Rupi Urlanti]].
 
 È stato incontrato da un gruppo di avventurieri durante la [[Sessione 12|Sessione 12]], durante la quale è stato accompagnato ad [[Approdo]], dove ha trattato con [[Ephret Bulgakov]] al fine di stabilire connessioni pacifiche tra la città e la contea da dove proviene.
 

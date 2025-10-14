@@ -2,7 +2,7 @@
 
 <img width=350 src="https://i.pinimg.com/736x/51/c5/40/51c5400a7a8b1334954f4cee52a38872.jpg" align=left>Umano, maschio
 
-Sindaco di [[Dorina]], precedentemente nota come [[Le Terre Perdute#Villaggio dei Banditi||villaggio dei banditi]], la cittadina sotto patronato di [[Approdo]], affianco alla [[Le Terre Perdute#Poggi Dorati|torre diroccata]].
+Sindaco di [[Dorina]], precedentemente nota come [[Poggi Dorati#Villaggio dei Banditi||villaggio dei banditi]], la cittadina sotto patronato di [[Approdo]], affianco alla [[Poggi Dorati|torre diroccata]].
 
 È il più anziano tra gli abitanti, ed è stato mercenario nelle [[Il mondo conosciuto|terre conosciute]], ai tempi compagno d'armi di [[Ferenc]].
 
