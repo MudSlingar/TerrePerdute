@@ -1,5 +1,9 @@
-#Dorina  
-
+---
+tags:
+  - NPC
+  - Dorina
+  - siniscalco
+---
 <img width=350 src="https://i.pinimg.com/736x/51/c5/40/51c5400a7a8b1334954f4cee52a38872.jpg" align=left>Umano, maschio
 
 Sindaco di [[Dorina]], precedentemente nota come [[Poggi Dorati#Villaggio dei Banditi||villaggio dei banditi]], la cittadina sotto patronato di [[Approdo]], affianco alla [[Poggi Dorati|torre diroccata]].

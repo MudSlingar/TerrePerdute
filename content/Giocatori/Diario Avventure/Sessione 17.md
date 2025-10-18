@@ -4,7 +4,7 @@ tags:
 ---
 **Data:** 08/10/24 
 
-**Partecipanti:** [[Baskerlen da Ghens|Baskerlen]], [[Grummar]], [[Nyul]], [[Syrio]], [[V. Taylor|Taylor]] 
+**Partecipanti:** [[Baskerlen da Ghens|Baskerlen]], [[Grummar]], [[Nyull]], [[Syrio]], [[V. Taylor|Taylor]] 
 
 **Obiettivo:** Approfondire le indagini sulla statua del cervo nella Foresta Fumosa 
 

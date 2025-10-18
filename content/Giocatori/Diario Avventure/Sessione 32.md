@@ -4,7 +4,7 @@ tags:
 ---
 **Data:** 08/04/25 
 
-**Partecipanti:** [[Elyraine]], [[Istas]], [[Krombul]], [[Ñihöl]], [[Nyul]] 
+**Partecipanti:** [[Elyraine]], [[Istas]], [[Krombul]], [[Ñihöl]], [[Nyull]] 
 
 **Obiettivo:** Esplorare la [[Piana Striata#Città Sacra|Città Sacra]] 
 

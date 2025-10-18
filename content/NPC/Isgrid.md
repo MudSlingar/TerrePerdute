@@ -1,5 +1,9 @@
-#approdo #mercante 
-
+---
+tags:
+  - NPC
+  - approdo
+  - mercante
+---
 <img width=350 src="https://i.pinimg.com/564x/df/88/66/df88662fa003c2f6f75ab60194b63d82.jpg" align=left>Umana, fabbra, proprietaria de [[Approdo#Metallo Pesante|Metallo Pesante]].
 
 Sembra interessata a materiali rari ed oggetti di fattura particolare, come le armature della [[Picchi Argentati#Pattuglie di confine della Contea di Zeogon|Guardia di Zeogon]] dal Nord.

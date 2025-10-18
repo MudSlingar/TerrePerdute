@@ -1,5 +1,8 @@
-#Dorina  
-
+---
+tags:
+  - NPC
+  - Dorina
+---
 ![[ferenc.png]]
 
 Umano, maschio.

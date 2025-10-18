@@ -1,5 +1,9 @@
-#approdo #siniscalco
-
+---
+tags:
+  - NPC
+  - approdo
+  - siniscalco
+---
 <img width=350 src="https://i.pinimg.com/564x/1d/99/c7/1d99c7d9990e8acb176ba4c03c31af73.jpg" align=left> Umano, maschio
 
 Siniscalco di [[Approdo]], lavora al primo piano del [[Approdo#Il corvo di coffa|corvo di coffa]].

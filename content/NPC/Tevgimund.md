@@ -1,5 +1,8 @@
-#mostro #morto
-
+---
+tags:
+  - mostro
+  - morto
+---
 <img src="https://i.pinimg.com/564x/b9/7e/ef/b97eef85e70cef5ce6a90deceeacbcac.jpg">
 Manticora, genere non noto con certezza
 

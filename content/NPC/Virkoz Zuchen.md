@@ -1,3 +1,7 @@
+---
+tags:
+  - NPC
+---
 ![[Virkoz_Zuchen.jpg]]
 Umano, maschio, Alchimista.
 Questo strano individuo è stato trovato e preso in custodia dagli avventurieri della  [[Sessione 26|Sessione 26]] dopo che questi hanno raggiunto il suo covo sotterraneo.

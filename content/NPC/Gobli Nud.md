@@ -5,7 +5,7 @@ tags:
 ---
 <img width=250 align=left src="https://i.pinimg.com/originals/36/f4/57/36f457fc87d9effc7c9ac0b95c609040.jpg"> Goblin, maschio, età ignota.
 
-Un goblin molto particolare sopravvissuto agli [[Sessione 08|stermini di goblin]], che sembra avere incontrato una "musa" nella [[Le Terre Perdute#Foresta Fumosa|foresta]], che gli fornisce ispirazione ed oggetti magici.
+Un goblin molto particolare sopravvissuto agli [[Sessione 08|stermini di goblin]], che sembra avere incontrato una "musa" nella [[Foresta Fumosa|foresta]], che gli fornisce ispirazione ed oggetti magici.
 
 A suo dire tal musa è un essere molto potente, in grado di controllare alberi, acqua, animali e qualunque cosa sia nella foresta.
 

@@ -4,7 +4,7 @@ tags:
 ---
 **Data:** 14/11/2024 
 
-**Partecipanti:** [[Aelis]], [[Baerram]], [[Nyul]], [[Guglielmo Sparapozzi]] 
+**Partecipanti:** [[Aelis]], [[Baerram]], [[Nyull]], [[Guglielmo Sparapozzi]] 
 
 **Obiettivo:** Ampliare l'esplorazione della Foresta Fumosa ad ovest del tempio 
 

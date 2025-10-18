@@ -1,4 +1,8 @@
-#zeogon 
+---
+tags:
+  - NPC
+  - zeogon
+---
 <img src="https://i.pinimg.com/originals/81/26/8b/81268b7dea9f60e1a5176fbcd35bfcaa.jpg" width=400 align=left> Umano maschio
 
 Età non conosciuta, relativamente giovane.
