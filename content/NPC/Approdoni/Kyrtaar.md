@@ -1,3 +1,9 @@
+---
+tags:
+  - NPC
+  - Dorina
+  - milizia
+---
 #NPC #Dorina #milizia 
 <img src = "Kyrtaar elf female archer.png"width=350 align=left> Elfa, femmina adulta. Parte della terza pattuglia Verde.
 
