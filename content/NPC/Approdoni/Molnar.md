@@ -1,0 +1,25 @@
+---
+tags:
+  - NPC
+  - Dorina
+  - siniscalco
+---
+<img width=350 src="https://i.pinimg.com/736x/51/c5/40/51c5400a7a8b1334954f4cee52a38872.jpg" align=left>Umano, maschio
+
+Sindaco di [[Dorina]], precedentemente nota come [[Poggi Dorati#Villaggio dei Banditi||villaggio dei banditi]], la cittadina sotto patronato di [[Approdo]], affianco alla [[Poggi Dorati|torre diroccata]].
+
+È il più anziano tra gli abitanti, ed è stato mercenario nelle [[Il mondo conosciuto|terre conosciute]], ai tempi compagno d'armi di [[Ferenc]].
+
+Sembra interessato principalmente a prendersi cura dei suoi compagni, dato che non possono ufficialmente richiedere aiuto ad [[Approdo]].
+
+Ha un cruccio con [[Ephret Bulgakov]], il sindaco di [[Approdo]], a causa dell'esilio dei più giovani ed inesperti dei ragazzi della sua banda, in particolare di [[Erzsebeth]], data la delicata condizione in cui era all'esilio dalla città.
+
+È sempre parso ragionevole e disposto a contrattare con gli [[Personaggi|avventurieri]].
+
+È attualmente riconosciuto da [[Ephret Bulgakov]] ed [[Approdo]] come sindaco di [[Dorina]].
+
+<img src="https://i.pinimg.com/564x/ab/a3/ef/aba3ef7d100aae93ea27b2bc7dc65424.jpg" align=right width=250 alt="Giovani Molnar e Ferenc che si allenano"> _A destra: giovani Molnar e Ferenc che si allenano_
+
+## Rituali
+Molnar può effettuare il seguente rituale, gratuitamente, una volta per avventura, se si alloggia a Dorina:
+[Piatto di casa](https://2e.aonprd.com/Rituals.aspx?ID=169): permette di condividere un pasto incredibile, rivivendo le storie da mercenario di Molnar risalenti alla sua vita nelle [[Il mondo conosciuto|terre conosciute]]. 

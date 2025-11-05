@@ -3,9 +3,9 @@
 > 
 > Se avete suggerimenti per font, ne trovate di utilizzabili su Google Fonts o avete la soluzione al problema scrivetemi.
 
-> [!bug] BUG NOTI
-> Non sono caricati nella versione online i font installabili localmente
-> Sono utilizzabili i font Google sono con Google dns disattivato, allungando leggermente i tempi di caricamento (non penso sia un grosso problema)
+> [!bug] Bug
+> Sono caricati nella versione online i font installabili localmente
+> Sono utilizzabili i font Google
 
 Vorrei inserire font personalizzati nel sito, ma per adesso sono riuscito a farlo solo nella build locale del sito. Vorrei riuscire a fare apparire il sito così anche su altri dispositivi, ma sto avendo problemi.
 
@@ -41,3 +41,13 @@ Ho selezionato i seguenti font per ora:
 >2. carica i file `.tff` o `.otf`
 >3. cka col destro ed installa i file sul tuo user (potrai usare il font anche su word o altre applicazioni una volta installato)
 >4. ica la pagina del sito
+
+## Implementazione attuale
+Attualmente il sito utilizza i seguenti font Google:
+
+Intestazioni: [Almendra](https://fonts.google.com/specimen/Almendra)
+
+Corpo: [Montaga](https://fonts.google.com/specimen/Montaga)
+
+Codice: [Inconsolata](https://fonts.google.com/specimen/Inconsolata)
+

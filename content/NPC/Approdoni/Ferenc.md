@@ -1,0 +1,18 @@
+---
+tags:
+  - NPC
+  - Dorina
+---
+![[ferenc.png]]
+
+Umano, maschio.
+Bandito che viveva nella [[Foresta Fumosa]], dopo essere stato cacciato sia da [[Approdo]] che dal [[Poggi Dorati#Villaggio dei Banditi|Villaggio dei Banditi]].
+Sembra in pessimi rapporti, o almeno aver una pessima considerazione di [[Ephret Bulgakov]].
+
+<img src="https://i.pinimg.com/564x/ab/a3/ef/aba3ef7d100aae93ea27b2bc7dc65424.jpg" align=right width=250 alt="Giovani Molnar e Ferenc che si allenano"> È stato compagno d'armi di [[Molnar]] nel [[Il mondo conosciuto|mondo conosciuto]].
+
+Ha continuato a praticare brigantaggio, ed è stato incontrato per la prima volta durante la [[Sessione 01|Sessione 01]] da [[Grummar]], [[Urthu]], [[Syrio]], [[Rose]] e [[Ghé]], che difendendosi hanno ucciso i suoi due compagni meno esperti.
+
+Ha prestato aiuto medico salvando la vita ad [[Urthu]], seppur permettendosi di "pagarsi" dalle tasche di Urthu, mentre questi era svenuto.
+
+È stato assolto dai suoi crimini (omicidio di una guardia, il fu marito di [[Isgrid]]), grazie all'intervento di [[Molnar]] e degli avventurieri durante la [[Sessione 09|contrattazione con Ephret per l'annessione del villaggio]].

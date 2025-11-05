@@ -4,7 +4,7 @@ tags:
   - ambientazione
   - mercante
 ---
-Con una cadenza quasi settimanale arrivano una o più navi mercantili dai Regni, che acquistano rarità dalle [[Le Terre Perdute|Terre Perdute]] in cambio di viveri, stoffe o altri beni pregiati lavorati nelle [[Il mondo conosciuto|terre civilizzate]].
+Con una cadenza quasi settimanale arrivano una o più navi mercantili dai Regni, che acquistano rarità dalle Terre Perdute in cambio di viveri, stoffe o altri beni pregiati lavorati nelle [[Il mondo conosciuto|terre civilizzate]].
 
 Questi scambi avvengono nelle piazze del porto, dove i mercanti allestiscono i propri banchetti. Chiunque volesse acquistare la loro mercanzia è libero di farlo, anche se gli oggetti più rari potrebbero essere venduti all'asta.
 

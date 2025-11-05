@@ -3,7 +3,6 @@ title: Contribuzione al mantenimento
 ---
 > [!abstract] Abstract
 > Guida indicativa per contribuire al mantenimento del sito, così da aggiornare pagine e crearne di nuove
-
 # Funzionamento del Sito
 Il sito viene visualizzato al link https://mudslingar.github.io/TerrePerdute/ dopo diversi passaggi di elaborazione:
 1. Le pagine sono scritte ed organizzate in [Markdown](https://www.markdownguide.org/) utilizzando l'applicazione [Obsidian](https://obsidian.md/)

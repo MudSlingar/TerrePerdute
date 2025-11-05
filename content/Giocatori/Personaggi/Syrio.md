@@ -2,6 +2,7 @@
 tags:
   - PC
   - approdo
+  - cacciatore
 ---
 ![[syrio2.jpg]]
 Kitsune, 18 anni.

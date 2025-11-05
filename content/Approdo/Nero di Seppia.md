@@ -37,7 +37,7 @@ Alcuni [tatuaggi](https://2e.aonprd.com/Equipment.aspx?Category=46) sono magici 
 | Tocco Gelido     | 20 mo  |
 | Sigillo          | 15 mo  |
 # Bestiario e storie
-> È possibile ricevere compensi monetari per le storie raccontate ad Olafur riguardo [[Le Terre Perdute]]
+> È possibile ricevere compensi monetari per le storie raccontate ad Olafur riguardo le Terre Perdute
 > È possibile acquistare il Bestiario di Olafur al prezzo di **6 mo** e studiarlo per un giorno per ottenere un +1 per una settimana a tiri di Ricordare conoscenze riguardo la creatura studiata.
 
 
