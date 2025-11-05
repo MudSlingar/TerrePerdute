@@ -24,4 +24,4 @@ La caserma occupa una posizione strategia, situandosi fuori dalla citta lungo il
 L'edificio in sé ha subito pesanti modifiche, il sottotetto è stato trasformato in una grande camerata per ospitare la maggior parte della truppa e sono stati costruiti due porticati in legno che si affacciano sui due cortili.
 L'interno è ben ristrutturato anche se ancora un po' spoglio di arredo, al piano terra ci sono decine di stanze che stanno venendo utilizzate come magazzini di ogni genere, la caserma deve tenere scorte di cibo sia per la ventina di soldati della truppa sia per le carovane che ne necessitano. In un'ala decisamente più sorvegliata si trova l'armeria, l'ufficio del sergente e la sua stanza. Nel corridoio di questa ala si trova uno strano teschio appeso al soffitto.  
 
-I personaggi noti che fanno parte della truppa sono: [[Jeriko]], [[Zik]], [[Nyul]] e [[Kyrtaar]]
+I personaggi noti che fanno parte della truppa sono: [[Jeriko]], [[Zik]], [[Nyull]]e [[Kyrtaar]]
