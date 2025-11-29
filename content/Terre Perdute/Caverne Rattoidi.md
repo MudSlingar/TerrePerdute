@@ -4,6 +4,7 @@ tags:
   - terreperdute
   - rattoidi
 ---
+---
 ![[EntrataCavernaRatti.jpg]]
 L'entrata della caverna si trova in una zona a sud di Approdo, vicino ai [[Poggi Dorati]]. Questa è stata scoperta nella [[Sessione 25|missione per eliminare gli slime]], quando un gruppo di Slime è stato avvistato nei paraggi. L'ingresso in questione è stato scavato nella roccia da dei Ratti Giganti in fuga, è molto stretta e porta alla rete di gallerie dei Rattoidi. 
 ![[CaverneRattoidi.jpeg|300]]

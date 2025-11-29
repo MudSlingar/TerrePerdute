@@ -1,0 +1,13 @@
+**Data:** 21/10/2025 
+
+**Partecipanti:** [[Rose]], [[Ghé]], [[Elyraine]], [[Zik]], [[Honey Batch]] 
+
+**Obiettivo:** parlare con le ninfe del lago della [[Foresta Fumosa]]
+
+Dopo tutti i casini successi di recente, ci voleva proprio una breve vacanza. Ho deciso quindi di portare la nuova arrivata a vedere la foresta: sembrava entusiasta di partire! Con noi sono partite anche Zik, Elyraine e Rose, tornata apposta per parlare con l'ambasciatrice dell'incidente con il Cacciatore di Zeogon. Credo fosse la prima spedizione tutta al femminile, ed è stata davvero divertente! Come dicevo, ci siamo dirette verso il lago. Se dovesse interessarvi per il futuro, sappiate che la strada è ostacolata da una fitta nebbia magica, generata dalle ninfe del lago. Vi consiglio di portarvi una bussola o strumenti adatti a orientarvi. Una volta arrivate, siamo state accolte da una delle Naiadi: sembrava un tutt’uno con l’acqua, come se fosse il lago stesso a interagire con noi. Ci è stato detto che, se avessimo voluto un incontro con la loro regina, avremmo dovuto dimostrare la nostra buona fede aiutandole a ripulire il fiume da alcune creature infestanti, così da permettere loro di riottenere il controllo del loro dominio. Dopo un breve confronto, abbiamo accettato la proposta. In un primo momento abbiamo creduto che la ninfa parlasse del cervo pietrificato, che dopo essere scomparso era stato avvistato nel fiume. Ma lo spettacolo che ci aspettava era ben diverso da ciò che ci immaginavamo. In un’ansa del fiume abbiamo incontrato cinque figure… diciamo, molto interessanti. Tra queste c’era un orco affascinante come pochi, mi sono sentita come rapita dalla sua possenza. Anche le altre sembravano attratte ciascuna da una delle creature presenti. L’unica a rimanere vigile è stata Zik, che ci ha fatto capire che eravamo vittime di un sortilegio: davanti a noi c’erano solo cinque Kelpie, creature simili a cavalli ricoperti di alghe, camuffate per attirarci.
+
+Avremmo potuto lasciarli vivere, se non si fossero dimostrati ostili! Uno di loro ha tentato di annegare Elyraine, ma grazie al contributo di tutte siamo riuscite a risolvere la situazione. Credo proprio che la ninfa intendesse questi cavalli quando parlava di “creature infestanti”. Chissà… forse se qualcuna di noi tornasse al lago, potrebbe finalmente parlare con la [[Vizese|regina delle Naiadi]].
+
+Sessione precedente: [[Sessione 38]]
+
+Continua a leggere: [[Sessione 40]]
