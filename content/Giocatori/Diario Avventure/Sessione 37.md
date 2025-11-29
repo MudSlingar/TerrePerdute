@@ -34,4 +34,5 @@ Dopotutto la bestia, dai racconti, era stata sigillata con una certa sicurezza, 
 _Conclusa la stesura della relazione, Aelis si rende conto di aver inserito troppe questioni personali, per essere un documento ufficiale. Strappa la pagina del diario, la ripiega ed infila in tasca. Dopodiché intinge nuovamente la penna nella china e ricomincia a scrivere, sbuffando._
 
 Sessione Precedente: [[Sessione 36]]
+
 Continua a leggere: [[Sessione 38]]

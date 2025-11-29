@@ -1,2 +1,0 @@
-#rattoidi 
-![[ColonnelloStello.jpeg]]

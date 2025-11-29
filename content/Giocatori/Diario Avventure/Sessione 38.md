@@ -58,3 +58,7 @@ Esitando sono corsa verso il collegamento che sembrava mostrare Approdo e dopo a
 Dopo un ultimo, vano tentativo di neutralizzare la minaccia, uno a uno siamo entrati nel collegamento e siamo stati catapultati in quella che sembrava essere a tutti gli effetti una versione dei dintorni di Approdo, anche se qualcosa non sembrava apposto. L’odore di Vukodlak, la sua pesante presenza non erano ancora svanite, eppure la risposta della driade era chiara, dovevamo recarci nel posto che chiamavamo casa. 
 
 Correndo e ansimando, nella disperata ricerca di scappare dal cacciatore che invece sembrava essere sempre dietro di noi, siamo finalmente riusciti a raggiungere il corvo di Coffa e da qui... Beh... la storia la sapete tutti.
+
+Sessione precedente: [[Sessione 37]]
+
+Continua a leggere: [[Sessione 39]]
