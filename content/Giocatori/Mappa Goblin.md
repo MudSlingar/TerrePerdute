@@ -2,7 +2,6 @@
 tags:
   - mappa
 ---
-
 Mappa recuperata durante la [[Sessione 08|Sessione 08]].
 Adesso riportata ad [[Approdo]].
 Indica una suddivisione della parte sud della [[Foresta Fumosa]].

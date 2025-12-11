@@ -60,6 +60,16 @@ Il lago in questione dev'essere sorto a seguito degli eventi della [[Sessione 33
 
 Sembrerebbe essere collegato con la Regina delle Naiadi [[Vizese]], ma come questa intenda interagire con [[Approdo]] non è al momento noto.
 
+# Primo Napygunta
+
+<img src="kelpie1.jpg" align=left width=250> Durante la [[Sessione 39]] il gruppo ha interagito con una naiade, per chiedere di poter parlare con [[Vizese]], ed ottenuto la promessa di un incontro in cambio di liberare il [[Poggi Dorati#Napyguta|Napygunta]], per quanto concerne la foresta, da creature che infestavano le sue acque.
+
+Il gruppo ha scoperto tali creature essere dei _Kelpie_, bestie di alghe mutaforma, in grado di ammaliare passanti assumendo forme desiderabili per poi annegarli nel fiume.
+
+<img src="kelpie2.jpg">
+
+I Kelpie sono stati uccisi, ottenendo così un ricevimento con [[Vizese]] da parte degli [[Gilda degli Avventurieri|Avventurieri]]. Non è ancora stato riscattato.
+
 # Tempio di Pietra
 <img src="tempiopietra.jpg" align="left" width="500"> Nelle profondità della foresta, ad Ovest, si trovava una fossa dove il sole non penetrava, evidentemente incantata, dentro a cui era nascosto il Tempio di Pietra di cui a volte vanverava [[Filverel]] da ubriaco. 
 Sembrava avere una connessione con la statua del Re Cervo.
