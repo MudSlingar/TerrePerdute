@@ -8,7 +8,7 @@ A sud di [[Approdo]] e dei [[Poggi Dorati]], ad est della [[Piana Striata]], si 
 Durante la [[Sessione 22|missione per esplorare le saline]] sono state trovati alcuni luoghi particolari nelle saline, in particolare:
 
 # Vetro Nero
-Un immenso territorio coperto di un materiale vetroso nero, simile ad ossidiana, che si estende fin oltre quanto l'occhio possa raggiungere.
+<img src="Augnagar.webp" align=left width=350> Un immenso territorio coperto di un materiale vetroso nero, simile ad ossidiana, che si estende fin oltre quanto l'occhio possa raggiungere.
 
 Al suo interno gli avventurieri hanno incontrato una creatura immensa ed estremamente potente, in grado di volare su colossali ali da pipistrello, contorcersi su sé stessa fino a sparire per poi ricomparire a decine di metri di distanza, di risucchiare l'anima col proprio soffio e vedere ovunque con il suo immenso occhio centrale. 
 
@@ -16,9 +16,19 @@ Durante il breve scontro il gruppo ha capito di non poterla affrontare ed è bat
 
 Mentre gli avventurieri scendevano nella [[Foresta Fumosa#Tempio di Pietra|voragine del tempio di pietra]] durante la [[Sessione 31|missione per uccidere la matriarca serpe]], [[Filverel]] ha indagato su questo essere e l'ha affrontato, perdendo un braccio nello scontro, ma strappando alla creatura l'occhio, che adesso è nella torre dell'[[Orizzonte degli Eventi]], in modo da mascherare con la sua aura magica l'altro artefatto ottenuto durante quella fatidica settimana.
 
+Durante la [[Sessione 40]] il gruppo di avventurieri ha nuovamente affrontato la creatura, riuscendola a scalfire e comprendendo che non ha debolezze, ma il _ferro freddo_ supera la sua resistenza ai colpi fisici.
+
 # Foce Salmastra
 <img src="tartarugadragone.jpg" align="left" width="350"> Sempre durante la missione per esplorare le saline è stata trovata la foce di uno dei fiumi che segnano la [[Piana Striata]], dove alcuni relitti di navi costeggiavano la salina.
 
 Dal mare, ad attaccare una delle imbarcazioni, era salita una gigantesca tartaruga dragone in grado di controllare l'acqua circostante, che è stata uccisa dal gruppo per difendere i pochi naufraghi superstiti.
 
 È qui che [[Bhar]] ha trovato il proprio tricorno maledetto che gli conferisce la sua sudicia barba.
+
+# Cerchio di Sabbia
+<img src="bastonedeserto.jpg" width=250 align="right"> Verso il centro della Salina, leggermente ad Est, si trova un cerchio di sabbia finissima di circa cinquanta metri di diametro, rigata da linee di vento radiali, con al centro una staffa pastorale di legno bianco.
+
+La spedizione di avventurieri durante la [[Sessione 40]] ha trovato impronte di zampe scheletriche e residui di mantelli neri, della fattezza di quelli indossati dal culto che fa da guardia attorno alle mura della [[Piana Striata#Città Sacra|Città Sacra]].
+
+È stato scoperto che al contatto con oggetti esterni il pastorale emette un raggio di intensissima luce, in grado di polverizzare qualunque oggetto che attraversi.
+[[Ñihöl]] ha tentato a prenderla facendo uso di una corda, ma ha subito una rapida fine ad opera del raggio di luce.
