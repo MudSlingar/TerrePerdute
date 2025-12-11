@@ -27,3 +27,4 @@ Rispetta profondamente qualsiasi avventuriero abbia rischiato la vita al suo fia
 - Aveva inizialmente sottovalutato [[Syrio]] a causa della sua giovane età. Ora, invece, ama averlo al suo fianco in missione. Dopo la spedizione nella voragine gli è molto più vicino.
 - Anche se non lo ammetterà mai, ha sentito su di sé il giudizio di [[Florian]] e spera di poterlo smentire nelle prossime avventure.
 
+È stato in viaggio per lungo tempo. Durante questo viaggio ha scritto [[Diario di Jeriko]].
