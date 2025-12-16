@@ -14,7 +14,7 @@ I fratelli Xiloshent hanno esplicitamente evitato di nominare le creature titola
 
 # I Cacciatore
 La sesta cacciatrice si è rifiutata di dirne il nome, in quanto "l'avrebbe avvertita della cosa", ma l'ha descritta come un'apparizione, più che una persona, un essere che dalla salita al potere di Sua Signoria ha mantenuto il titolo di prima cacciatrice, senza mai ricevere un incarico né dover uscire da palazzo. Ha citato anche che una situazione che richieda l'intervento di lei sarebbe troppo pericolosa per sopravvivere.
-# II Cacciatore: Psoglav
+# II Cacciatore: [[Psoglav]]
 <img src="https://i.pinimg.com/736x/b6/78/64/b6786472b5f3478ecdf53b6e8f652601.jpg" align="left" width=275> Il cane mannaro col terzo occhio che vede attraverso l'anima, Psoglav, dà il nome al secondo cacciatore, spesso recluso nella corte del Principe come consigliere.
 
 Vodyanoy ha citato come viva con la testa fra le nuvole, o meglio le profezie, ed abbia uno scarso contatto con la realtà.
@@ -22,7 +22,7 @@ Vodyanoy ha citato come viva con la testa fra le nuvole, o meglio le profezie, e
 Titolo ignoto, i fratelli Xiloshent hanno citato che il III Cacciatore sia più un'associazione di svariati membri che non un singolo cacciatore vero e proprio.
 Dicono inoltre che i membri del III Cacciatore che hanno fallito in passato una missione sono scomparsi in circostanze misteriose.
 
-# IV Cacciatore: Vukodlak
+# IV Cacciatore: [[Pyotr Hertz|Vukodlak]]
 <img src="https://i.pinimg.com/564x/98/67/80/986780f1e5bd166f38da16c1bf130220.jpg" align=right width=250> Il quarto cacciatore detiene da diversi decenni il titolo di **Vukodlak**, una specie di creatura mutaforma. 
 
 È stato descritto come particolarmente spietato nel perseguire le sue prede, senza preoccuparsi di sacrificare civili e conoscenti per raggiungere il suo bersaglio.
@@ -54,7 +54,7 @@ Si presenta come una signora sulla sessantina, con vestiti da contadino e nessun
 
 La sua creatura titolare è il **Vodyanoy**, un essere che vive in acqua dolce ed attira uomini per affogarli o usarli come schiavi.
 
-# VII Cacciatore: Strzyga
+# VII Cacciatore: [[Seren Olfuil|Strzyga]]
 <img src="https://i.pinimg.com/564x/d0/e2/7e/d0e27ec708bebb789558003e26eb7df8.jpg" align=left width=250> La settima cacciatrice dovrebbe avere un legame di sangue con il Conte di  Zeogon, per quanto ne sanno i fratelli Xiloshent.
 
 A loro detta non è tra i cacciatori da moltissimo tempo, ma è comunque in grado di gestire cacce in contesti urbani con una dimestichezza che trovano ammirabile.
@@ -62,7 +62,7 @@ A loro detta non è tra i cacciatori da moltissimo tempo, ma è comunque in grad
 Deve avere, a detta della sesta cacciatrice, una connessione personale col Principe, vista la rapida "carriera" e tutte le agevolazioni di cui dispone durante le cacce. Lei non si fida di Strzyga.
 
 La sua creatura titolare è la **Strzyga**, una creatura originata dalla morte di una persona con due anime, in grado di volare silenziosamente come un gufo per predare gli umani, del cui sangue si nutre.
-# VIII Cacciatore: Drekavac
+# VIII Cacciatore: [[Ustol Kerver|Drekavac]]
 <img src="https://i.pinimg.com/564x/ed/43/d1/ed43d101c11eca68c9c3792a03f05b0f.jpg" align=right width=250> L'ottavo cacciatore, **Drekavac**, prende il nome da un folletto maligno originato dalla morte prematura di infanti a causa di malnutrimento e mancate cure, che si dice odi particolarmente i cani e si dice strangoli le persone di notte.
 
 Drekavac è muto, e tende a terminare gli incarichi assegnati in breve tempo, senza mai dormire sul luogo di caccia.
