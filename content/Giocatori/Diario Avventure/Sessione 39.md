@@ -1,3 +1,7 @@
+---
+tags:
+  - Diario
+---
 **Data:** 21/10/2025 
 
 **Partecipanti:** [[Rose]], [[Ghé]], [[Elyraine]], [[Zik]], [[Honey Batch]] 

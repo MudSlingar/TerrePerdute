@@ -1,3 +1,7 @@
+---
+tags:
+  - Diario
+---
 **Data:** 24/01/2025 
 
 **Partecipanti:** [[Syrio]], [[Zavis]], [[Come Vuoi]], [[Kumo]], [[Nyull]], [[Ukhel]]
@@ -23,4 +27,4 @@ Allora i cinque avventurieri rimasti si sono ritrovati in un istante nel sotterr
 
 Riassunto precedente: [[Sessione 40]]
 
-Continua a leggere: _to be continued_
+Continua a leggere: [[Sessione 42]]

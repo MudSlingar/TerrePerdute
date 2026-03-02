@@ -1,3 +1,7 @@
+---
+tags:
+  - Diario
+---
 **Data:** 28/11/2025 
 
 **Partecipanti:** [[Bhar]], [[Ghé]], [[Ñihöl]], [[Syrio]], [[Urthu]] 
