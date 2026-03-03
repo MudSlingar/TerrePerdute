@@ -1,0 +1,20 @@
+![[giardino.jpg]]
+Poco fuori [[Approdo]] sorge un giardino sorprendentemente curato.
+
+Il recinto è protetto da siepi alte e fitte, avvolte da rampicanti spinosi dai fiori accesi che catturano immediatamente lo sguardo. All'ingresso, un cartello scritto a mano avverte: 
+
+ATTENZIONE! ANIMALI E PIANTE VELENOSE 
+
+Non si sa bene se è un avviso o una minaccia. Di giorno alcune ragazze si occupano di gestire il giardino: chi distilla essenze, qualcuna annaffia le piante. Ciò che ai più ad Approdo resta ignoto, tuttavia, è che al cader della giornata il giardino cambia volto. Una piccola, seppur affiatata congrega di streghe sta placidamente nascendo. Alcune abitanti di Approdo hanno accettato di formare un gruppo di streghe.
+
+Ognuna, per ragioni profondamente personali, ha deciso di accettare l'invito di [[Ghé]] a partecipare agli Akelarre (o Sabba), piccoli riti di iniziazione ai misteri della Trama, spesso guidati da Ghé o addirittura dalla [[Signorina Daigon]]. Tra i partecipanti ci sono alcuni avveturieri: [[Florian]], [[Istas]] e [[Aelis]], partecipano, con diversa costanza, alle serate al giardino; oltre a loro talvolta presenzia anche [[Kytaar]]. Le altre partecipanti, decisamente meno esperte, sono le seguenti:
+
+- **Miren Dorr**: Ragazzina umana, è la figlia di un fornaio e, da quando è iniziata a crescere, ha scoperto di poter far partire una scintilla schioccando le dita. Una volta ha sentito Ghé parlare di magia al Corvo di Coffa mentre faceva un a consegna per il pane e da allora ha voluto saperne sempre di più. È entrata nella congrega avvicinandosi a Ghé che soventemente fa acquisti nel negozio del padre. Tiene segreta alla famiglia la sua passione per la magia, ma spesso le sfugge un'occhiata di troppo quando vede un'altra della congrega passare in panetteria.
+
+- **Mirelle Aguille:** Donna halfling di mezz'età, di mestiere fa la sarta. Ha una madre malata di cui si prende cura da sola. Ha trovato nella congrega una nuova famiglia capace di accoglierla e sostenerla. Ha conosciuto Ghé grazie al suo mestiere, ogni volta che l'elfa va da lei a farsi riparare il vestito o a farsi attaccare qualche campanello al cappello si fa raccontare delle avventure della gilda, da qui si è interessata al concetto di trama e Ghé ha colto l'occasione per invitarla al circolo.
+
+- **Cresha Lozje** Umana-droomar, sulla trentina. Vive nel ciliegeto e possiede un campo di ciliegi atti alla produzione di vino. È vedova di suo marito scomparso per un malanno improvviso. Solo dopo che egli se ne è andato si è resa conto che rappresentava una figura molto oppressiva nella sua vita e ora vuole dare colore alla propria esistenza. Il primo incontro con Ghé è stato abbastanza brusco: subito dopo la morte del marito, sentendo le voci di una megera che forse avrebbe potuto riportare in vita i morti, si è fiondata da Ghé esigendo di riportare il marito in vita, promettendo tutto il denaro necessario per farlo, ma alla domanda della strega "Sei disposta ad uccidere qualcuno con le tue mani per riportarlo in vita?" si è tirata indietro. Ghé le ha offerto una nuova famiglia al di là della puzza sotto il naso dei ricchi della città.
+
+- **Silingen Felhuk**: Mezz'elfa molto giovane, molto timida. Fa la lavandaia al fiume, ma avrebbe voluto una vita accademica. Ogni tanto entra al Nero di Seppia solo per sfogliare i libri esposti e fingere di leggere. Ha una cotta per un bardo della città, ma non riesce ad esprimere i suoi sentimenti. Confida nel trovare un intruglio che le dia più sicurezza di sé. È entrata nella congrega perché a quanto pare Ghé è vicina a questo ragazzo e qualche volta l'ha visto alle riunioni. Approfitta delle persone più colte del circolo per farsi insegnare a leggere e scrivere.
+
+- **Virael Nyfental** Umana sui trentacinque anni, è una speziale fanatica di giardinaggio. È entrata la prima volta nel giardino per curiosità ed è rimasta attratta dal posto. Ora usa le materie prime del giardino per il suo lavoro e bada alla coltura delle piante dell'area.
