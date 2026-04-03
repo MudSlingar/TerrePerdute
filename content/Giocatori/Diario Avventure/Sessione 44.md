@@ -46,4 +46,4 @@ AHAHAHAH. UN'ALTRA BIRRA, OSTE!
 
 Riassunto precedente: [[Sessione 43]]
 
-Continua a leggere: _To be continued_
+Continua a leggere: [[Sessione 45]]
