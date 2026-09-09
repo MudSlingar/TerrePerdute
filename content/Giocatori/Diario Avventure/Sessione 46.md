@@ -1,3 +1,7 @@
+---
+tags:
+  - Diario
+---
 **Data:** 13/03/2026 
 
 **Partecipanti:** [[Ñihöl]], [[Istas]], [[Krombul]], [[G.E.V.I.A. K177]], [[Bazool]] 

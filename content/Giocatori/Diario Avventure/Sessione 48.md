@@ -1,3 +1,7 @@
+---
+tags:
+  - Diario
+---
 **Data:** 31/03/2026 
 
 **Partecipanti:** [[Aelis]], [[Florian]], [[Kumo]], [[Zik]] 
@@ -71,4 +75,4 @@ _Il sole è quasi calato, e Florian si alza prendendo il secchio_
 
 Riassunto precedente: [[Sessione 47]]
 
-Continua a leggere: _To be continued..._
+Continua a leggere: [[Sessione 49]]

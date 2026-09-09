@@ -1,3 +1,7 @@
+---
+tags:
+  - Diario
+---
 **Data:** 6/03/2026 
 
 **Partecipanti:** [[Istas]], [[Zavis]], [[Ñihöl]], [[Ferenc]], [[Edmond]] 

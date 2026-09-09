@@ -46,7 +46,8 @@ Infine ha incontrato i sosia di [[Florian]] e [[Istas]], comprendendo la natura 
 - Da un po' vede [[Urthu]] sbucare e scomparire dalla cittadina, ma non si fa più molte domande sui modi di fare del cineta. 
 - Ha difficoltà a farsi un'opinione di [[Rose]]: nonostante la reputi un'elemento importante tra gli avventurieri, certi suoi modi di comportarsi lo lasciano in dubbio sul riporle fiducia.
 - Ha perso, da un po', la fiducia in [[Jeriko]]. Lo trova un combattente formidabile, ma i suoi modi di fare opportunistici, attraverso mezze verità, hanno dato del mezzelfo una visione di chi non si fa scrupoli a giocare con la fiducia altrui.
-- Ha legato molto con [[Kumo]] ultimamente. Lo vede come un fratellino, rispecchiando sé stesso, quando arrivò ad Approdo, in lui. Sta stringendo amicizia anche con Come Vuoi, del quale ammira la creatività e l'instancabile allegria.
+- Ha legato molto con [[Kumo]] ultimamente. Lo vede come un fratellino, rispecchiando sé stesso, quando arrivò ad Approdo, in lui. 
+- Sta stringendo amicizia anche con [[Come Vuoi]], del quale ammira la creatività e l'instancabile allegria.
 #### NPC
 - Un tempo visto da Syrio come figura di riferimento, quasi paterna, ad oggi [[Filverel]] ha assunto più l'immagine di un caro amico, qualcuno su cui può contare nei momenti di bisogno, nonostante il kitsune abbia raggiunto una certa indipendenza.
 - Ha un profondo affetto per [[Natenoel]], che ha imparato a conoscere e capire, nonostante le differenze date dalla provenienza e ceto.

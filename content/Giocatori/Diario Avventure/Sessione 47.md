@@ -1,3 +1,7 @@
+---
+tags:
+  - Diario
+---
 _Data:_ 20/03/2026
    
 _Partecipanti:_ [[Syrio]], [[Jeriko]], [[Rose]], [[Urthu]], [[Grummar]], ([[Ñihöl]]).
