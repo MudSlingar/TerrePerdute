@@ -14,4 +14,4 @@ In tutto questo, uno dei tuoi inquietanti amichetti, accompagnato dai suoi cani 
 
 Riassunto precedente: [[Sessione 52]]
 
-Continua a leggere: _to be continued_
+Continua a leggere: [[Sessione 54]]

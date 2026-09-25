@@ -1,6 +1,7 @@
 ---
 tags:
   - PC
+  - morto
 ---
 <img src="ghedaigon.jpg" align=left width=350>
 Ghé Kairon, elfa dei sussurri di 123 anni. 

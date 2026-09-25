@@ -9,7 +9,7 @@ Una volta pennacchi di fumo erano visibili sopra le chiome degli alberi, e resti
 
 Ormai si è esplorata buona parte della foresta fumosa: i goblin sono stati cacciati dalla foresta, il grande albero ha rivelato i suoi tesori, si è incontrata la statua del Re Cervo e visitata la fossa in cui risiede il Tempio di Pietra, ma alcuni suoi misteri rimangono irrisolti, tra cui la natura del rituale che influenzava i cervi e cosa sia successo esattamente alla foresta per trasformarla com'era stata trovata dai primi Approdoni.
 
-Nonostante la minaccia del Tempio di Pietra e dei Cervi sembrano essere scomparse nessun Approdone si addentra nella foresta, se non le pattuglie che scortano i minatori diretti verso i primi giacimenti di ferro freddo ai piedi dei [[Picchi Argentati]].
+Nonostante la minaccia del Tempio di Pietra e dei Cervi sembrano essere scomparse nessun Approdone si addentra nella foresta, se non le pattuglie che scortano i minatori diretti verso i giacimenti di ferro freddo ai piedi dei [[Picchi Argentati]].
 
 # Grande Albero
 Nella zona Nord della foresta c'è un enorme albero che sembra avere connessioni con un antico culto druidico della foresta.
@@ -18,6 +18,7 @@ Tra le sue radici c'è una porta incantata che si apre all'alba ed al tramonto i
 
 All'interno c'era una statua di legno animata, adesso distrutta, ed una trappola che difendevano delle tavole di pietra incise in silvano. Queste tavole sono al momento in possesso di [[Filverel]].
 La statua di legno a difesa dell'albero è stata nuovamente trovata e distrutta durante la [[Sessione 37|missione diplomatica con l'Imperatore Nanico]].
+Il sospetto è che torni con una certa frequenza, al momento ignota.
 
 È presente anche una fontanella in fondo allo spazio nascosto sotto l'albero, e diversi gruppi hanno passato notti tranquille all'interno dell'albero una volta sconfitta la statua.
 
@@ -25,9 +26,9 @@ La statua di legno a difesa dell'albero è stata nuovamente trovata e distrutta 
 
 <img src="goblincamp.jpg" align="left" width="500"> Il fumo toponimo della foresta proveniva da accampamenti di Goblin, nella parte sud della foresta.
 Facevano ingente uso di funghi allucinogeni.
-Si erano organizzati in un unico forte nelle scorse settimane ma sono stati assediati durante la [[Sessione 08|Sessione 08]], e conseguentemente l'insediamento è caduto.
+Si erano organizzati in un unico forte prima di essere assediati durante la [[Sessione 08|Sessione 08]], e conseguentemente l'insediamento è caduto.
 Per molto tempo è rimasta solamente una tribù nella foresta, mentre il resto dei Goblin è fuggito verso le [[Piana Striata|Piane Striate]] accompagnati da un figuro che indossava un mantello nero.
-Sembravano avere un qualche tipo di collegamento col culto incontrato al limitare della [[Piana Striata#Città Sacra|Città Sacra]]. Che siano andati in quella direzione?
+Sembravano avere un qualche tipo di collegamento col [[Culto dell'Imperatrice Gloriosa|culto]] incontrato al limitare della [[Piana Striata#Città Sacra|Città Sacra]]. Che siano andati in quella direzione?
 
 È stata portata ad Approdo la mappa in possesso ai capi dell'accampamento dei goblin, che indicava la suddivisione della foresta sud in zone non contrassegnate, che potete trovare [[Mappa Goblin|qui]].
 
@@ -42,12 +43,14 @@ Si è scoperto che le fatine dei denti si nutrono non tanto dei denti materiali 
 
 Sono disposte ad accettare doni di denti, o meno felicemente ciocche di capelli o ossa, di creature che notano come "interessanti". Prediligono esseri senzienti ed intelligenti, soprattutto se dotati di molti ricordi o speranze.
 
+Durante la [[Sessione 51]], su incarico di [[Urthu]], un gruppo di avventurieri ha sfruttato questa capacità delle fatine per rivedere dei ricordi di creature originarie della [[Piana Striata#Città Sacra|città sacra]].
+
 # Statua del Re Cervo
 In una struttura megalitica risiedeva la statua di una creatura parzialmente cervo e parzialmente umanoide, con mozziconi al posto delle gambe e braccia innaturalmente lunghe che terminavano con grandi mani artigliate.
 
 Potete trovare tutti gli sviluppi riguardo la statua ed il comportamento di Goblin e Cervi sulla pagina [[Rituali nella Foresta Fumosa]].
 
-Ad oggi l'intera zona della statua del Cervo è diventata il [[Foresta Fumosa#Lago delle Nebbie|Lago delle Nebbie]].
+Ad oggi l'intera zona della statua del Cervo è diventata il [[Foresta Fumosa#Lago delle Nebbie|Lago delle Nebbie]], e la statua del cervo sparita.
 
 # Lago delle Nebbie
 <img src="lago.jpg" align="right" width="400"> Nell'area dove un tempo era situata la depressione del terreno con la struttura di megaliti che conteneva la Statua del Re Cervo, adesso la Foresta è coperta da una fitta nebbia che non sembra mai diradarsi e diffonde la luce del sole rendendo orientarsi estremamente difficile.
@@ -64,7 +67,7 @@ Sembrerebbe essere collegato con la Regina delle Naiadi [[Vizese]], ma come ques
 
 <img src="kelpie1.jpg" align=left width=250> Durante la [[Sessione 39]] il gruppo ha interagito con una naiade, per chiedere di poter parlare con [[Vizese]], ed ottenuto la promessa di un incontro in cambio di liberare il [[Poggi Dorati#Napyguta|Napygunta]], per quanto concerne la foresta, da creature che infestavano le sue acque.
 
-Il gruppo ha scoperto tali creature essere dei _Kelpie_, bestie di alghe mutaforma, in grado di ammaliare passanti assumendo forme desiderabili per poi annegarli nel fiume.
+Il gruppo ha scoperto durante la [[Sessione 39|spedizione dedicata]] che tali creature erano dei _Kelpie_, bestie di alghe mutaforma, in grado di ammaliare passanti assumendo forme desiderabili per poi annegarli nel fiume.
 
 <img src="kelpie2.jpg">
 
@@ -77,5 +80,8 @@ Sembrava avere una connessione con la statua del Re Cervo.
 Non è stato raccontato molto altro se non di **non andarci**, e che fosse molto pericoloso.
 
 Ad oggi la fossa è scomparsa, ed il tempio si staglia tra gli alberi nella maestosità della sua piramide a gradoni coronata da un salice piangente, e permette di orientarsi nella Foresta.
+
+È stato visitato diverse volte nelle sessioni [[Sessione 41|41]] e [[Sessione 52|52]], con risultati disastrosi per un avventuriero, [[Ukhel]], che ha contratto la maledizione del re cervo, per poi rimanere in mano alle statue di legno degli ex druidi del tempio, che hanno contenuto la maledizione.
+In entrambi i casi il tempio ha svolto la funzione di portale per il [[Fæ]], permettendo agli avventurieri di entrarvici ed al [[Rituali nella Foresta Fumosa#Statua del Cervo|re cervo]] di braccarli.
 
 
